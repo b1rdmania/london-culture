@@ -8,61 +8,142 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-            line-height: 1.6; color: #1a1a1a; max-width: 720px;
-            margin: 0 auto; padding: 1.5rem 1rem;
+            line-height: 1.75; color: #000; max-width: 680px;
+            margin: 0 auto; padding: 3rem 1.5rem;
+            background: #fff;
         }
-        header { padding: 1.5rem 0 1rem; border-bottom: 2px solid #1a1a1a; margin-bottom: 1.5rem; }
-        h1 { font-size: 1.5rem; font-weight: 600; letter-spacing: -0.01em; }
-        .subtitle { font-size: 0.9rem; color: #666; margin-top: 0.25rem; }
-        .updated { font-size: 0.75rem; color: #999; margin-top: 0.25rem; }
 
-        /* Filter bar */
-        .filters { margin-bottom: 1.5rem; }
-        .filter-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.5rem; }
-        .filter-label { font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.2rem; }
+        /* Header */
+        header { margin-bottom: 4rem; }
+        h1 {
+            font-size: 1.25rem; font-weight: 500;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+        .subtitle {
+            font-size: 0.9375rem; color: #666;
+            line-height: 1.6;
+        }
+        .updated {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.75rem; color: #999;
+            margin-top: 1.5rem;
+        }
+
+        /* Filters - text based, minimal */
+        .filters {
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+        }
+        .filter-row {
+            display: flex; flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+        .filter-label {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.6875rem;
+            color: #999;
+            letter-spacing: 0.02em;
+            margin-bottom: 0.5rem;
+        }
         .chip {
-            display: inline-block; padding: 0.3rem 0.7rem;
-            font-size: 0.8rem; border: 1px solid #ddd; border-radius: 20px;
-            cursor: pointer; background: #fff; color: #555;
-            transition: all 0.15s;
+            font-size: 0.8125rem;
+            cursor: pointer;
+            color: #999;
+            padding: 0;
+            border: none;
+            background: none;
         }
-        .chip:hover { border-color: #999; color: #1a1a1a; }
-        .chip.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
-        .count { font-size: 0.75rem; color: #999; margin-top: 0.5rem; }
-
-        /* Events */
-        .event {
-            margin-bottom: 1.25rem; padding-bottom: 1.25rem;
-            border-bottom: 1px solid #f0f0f0;
+        .chip:hover { color: #000; }
+        .chip.active {
+            color: #000;
+            text-decoration: underline;
+            text-underline-offset: 3px;
         }
-        .event:last-child { border-bottom: none; }
-        .event-title a { color: #1a1a1a; text-decoration: none; font-weight: 500; font-size: 0.95rem; }
-        .event-title a:hover { text-decoration: underline; }
-        .event-meta { font-size: 0.82rem; color: #666; margin-top: 0.15rem; }
-        .event-meta .venue { font-weight: 500; }
-        .event .desc { font-size: 0.85rem; color: #666; margin-top: 0.2rem; }
-        .tag {
-            display: inline-block;
-            font-size: 0.6rem; color: #fff; background: #555;
-            padding: 0.1rem 0.35rem; border-radius: 2px;
-            text-transform: uppercase; letter-spacing: 0.04em;
-            vertical-align: middle; margin-right: 0.2rem;
+        .count {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.75rem;
+            color: #ccc;
+            margin-top: 1rem;
         }
-        .tag.free { background: #2a7d2a; }
-        .event.hidden { display: none; }
 
         /* Date headers */
         .date-header {
-            font-size: 0.85rem; font-weight: 600; color: #1a1a1a;
-            padding: 0.6rem 0 0.4rem; margin-top: 0.5rem;
-            border-bottom: 1px solid #ddd; margin-bottom: 1rem;
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.6875rem;
+            font-weight: 400;
+            color: #999;
+            letter-spacing: 0.02em;
+            margin: 3rem 0 1.5rem 0;
+            text-transform: uppercase;
+        }
+        .date-header:first-child { margin-top: 0; }
+
+        /* Events - minimal, spacious */
+        .event {
+            margin-bottom: 2rem;
+        }
+        .event-title {
+            margin-bottom: 0.25rem;
+        }
+        .event-title a {
+            color: #000;
+            text-decoration: none;
+            font-size: 1rem;
+            font-weight: 400;
+        }
+        .event-title a:hover {
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+            text-underline-offset: 2px;
+        }
+        .event-meta {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.75rem;
+            color: #999;
+            line-height: 1.6;
+        }
+        .event-meta .venue { font-weight: 400; }
+        .event .desc {
+            font-size: 0.875rem;
+            color: #666;
+            margin-top: 0.5rem;
+            line-height: 1.6;
+        }
+        .event.hidden { display: none; }
+
+        /* Minimal inline indicators */
+        .event-meta .free::before {
+            content: "free · ";
+            color: #999;
+        }
+        .event-meta .type {
+            color: #ccc;
         }
 
         footer {
-            margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ddd;
-            font-size: 0.8rem; color: #999;
+            margin-top: 5rem;
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.6875rem;
+            color: #ccc;
         }
-        footer a { color: #999; }
+        footer a {
+            color: #ccc;
+            text-decoration: underline;
+            text-decoration-color: #eee;
+            text-underline-offset: 2px;
+        }
+        footer a:hover {
+            color: #999;
+        }
+
+        /* Mobile adjustments */
+        @media (max-width: 640px) {
+            body { padding: 2rem 1rem; }
+            header { margin-bottom: 3rem; }
+            .date-header { margin: 2rem 0 1rem 0; }
+        }
     </style>
 </head>
 <body>
@@ -100,13 +181,12 @@
                 <div class="date-header" data-date-header>{{ event_date_str }}</div>
             {% endif %}
             <div class="event" data-cat="{{ event._filter_cat }}" data-source="{{ event._source }}">
-                {% if event._filter_cat and event._filter_cat != 'Other' %}<span class="tag">{{ event._filter_cat }}</span>{% endif %}
-                {% if event.is_free %}<span class="tag free">Free</span>{% endif %}
                 <div class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></div>
                 <div class="event-meta">
+                    {% if event.is_free %}<span class="free">free</span>{% endif %}
                     {% if event.time %}{{ event.time }}{% endif %}
-                    {% if event.venue %}<span class="venue"> · {{ event.venue }}</span>{% endif %}
-                    {% if event.area %} · {{ event.area }}{% endif %}
+                    {% if event.venue %} · {{ event.venue }}{% endif %}
+                    {% if event._filter_cat and event._filter_cat != 'Other' %}<span class="type"> · {{ event._filter_cat|lower }}</span>{% endif %}
                 </div>
                 {% if event.description %}<div class="desc">{{ event.description }}</div>{% endif %}
             </div>
