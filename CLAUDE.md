@@ -78,12 +78,18 @@ python scrape.py              # Scrape all, build page
 python scrape.py --email      # Also send digest (needs RESEND_API_KEY + DIGEST_EMAIL)
 ```
 
+## Repo
+
+https://github.com/b1rdmania/london-culture
+
 ## Remaining TODO
 
-- [ ] Git init + first commit
-- [ ] Create GitHub repo, push, enable Pages
-- [ ] Configure Resend API key + test email
-- [ ] Test GitHub Actions workflow end-to-end
+- [x] Git init + first commit
+- [x] Create GitHub repo + push
+- [ ] Enable GitHub Pages on gh-pages branch
+- [ ] Configure Resend: set `RESEND_API_KEY`, `DIGEST_EMAIL`, `PAGE_URL` as repo secrets
+- [ ] Test GitHub Actions workflow end-to-end (manual trigger via workflow_dispatch)
+- [ ] Send friend the bookmark URL
 - [ ] Consider: "New this week" detection via events.json diffing
 - [ ] Consider: RSS feed output
 - [ ] Consider: monitoring alerts if a venue returns 0 events
