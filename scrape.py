@@ -80,9 +80,15 @@ def scrape_browser():
 
 def filter_events(events):
     """Remove music/cinema/performance, deduplicate, sort by date."""
+    today = date.today()
+
     # Filter out excluded categories
     filtered = []
     for e in events:
+        # Skip past events
+        if e.start_date and e.start_date < today:
+            continue
+
         cat = e.category.lower().strip()
         # Check each comma-separated sub-category
         if any(part.strip() in EXCLUDE_CATEGORIES for part in cat.split(",")):
