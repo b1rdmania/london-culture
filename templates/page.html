@@ -71,14 +71,20 @@
         /* Date headers */
         .date-header {
             font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
-            font-size: 0.6875rem;
-            font-weight: 400;
-            color: #666;
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #8b8b99;
             letter-spacing: 0.02em;
             margin: 3rem 0 1.5rem 0;
+            padding-top: 1rem;
+            border-top: 1px solid #2a2a2a;
             text-transform: uppercase;
         }
-        .date-header:first-child { margin-top: 0; }
+        .date-header:first-child {
+            margin-top: 0;
+            border-top: none;
+            padding-top: 0;
+        }
 
         /* Events - minimal, spacious */
         .event {
