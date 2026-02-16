@@ -1,0 +1,6 @@
+output/
+data/events.json
+__pycache__/
+*.pyc
+venv/
+.env

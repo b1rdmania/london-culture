@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>London Culture</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+            line-height: 1.6; color: #1a1a1a; max-width: 720px;
+            margin: 0 auto; padding: 1.5rem 1rem;
+        }
+        header { padding: 1.5rem 0 1rem; border-bottom: 2px solid #1a1a1a; margin-bottom: 1.5rem; }
+        h1 { font-size: 1.5rem; font-weight: 600; letter-spacing: -0.01em; }
+        .subtitle { font-size: 0.9rem; color: #666; margin-top: 0.25rem; }
+        .updated { font-size: 0.75rem; color: #999; margin-top: 0.25rem; }
+
+        /* Filter bar */
+        .filters { margin-bottom: 1.5rem; }
+        .filter-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.5rem; }
+        .filter-label { font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.2rem; }
+        .chip {
+            display: inline-block; padding: 0.3rem 0.7rem;
+            font-size: 0.8rem; border: 1px solid #ddd; border-radius: 20px;
+            cursor: pointer; background: #fff; color: #555;
+            transition: all 0.15s;
+        }
+        .chip:hover { border-color: #999; color: #1a1a1a; }
+        .chip.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+        .count { font-size: 0.75rem; color: #999; margin-top: 0.5rem; }
+
+        /* Events */
+        .event {
+            margin-bottom: 1.25rem; padding-bottom: 1.25rem;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .event:last-child { border-bottom: none; }
+        .event-title a { color: #1a1a1a; text-decoration: none; font-weight: 500; font-size: 0.95rem; }
+        .event-title a:hover { text-decoration: underline; }
+        .event-meta { font-size: 0.82rem; color: #666; margin-top: 0.15rem; }
+        .event-meta .venue { font-weight: 500; }
+        .event .desc { font-size: 0.85rem; color: #666; margin-top: 0.2rem; }
+        .tag {
+            display: inline-block;
+            font-size: 0.6rem; color: #fff; background: #555;
+            padding: 0.1rem 0.35rem; border-radius: 2px;
+            text-transform: uppercase; letter-spacing: 0.04em;
+            vertical-align: middle; margin-right: 0.2rem;
+        }
+        .tag.free { background: #2a7d2a; }
+        .event.hidden { display: none; }
+
+        /* Date headers */
+        .date-header {
+            font-size: 0.85rem; font-weight: 600; color: #1a1a1a;
+            padding: 0.6rem 0 0.4rem; margin-top: 0.5rem;
+            border-bottom: 1px solid #ddd; margin-bottom: 1rem;
+        }
+
+        footer {
+            margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ddd;
+            font-size: 0.8rem; color: #999;
+        }
+        footer a { color: #999; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>London Culture</h1>
+        <p class="subtitle">Talks, openings, workshops, and places to meet interesting people.</p>
+        <p class="updated">Updated {{ updated_at }}</p>
+    </header>
+
+    <div class="filters">
+        <div class="filter-label">Type</div>
+        <div class="filter-row" id="cat-filters">
+            {% for cat in categories %}
+            <span class="chip{% if cat == 'All' %} active{% endif %}" data-filter="cat" data-value="{{ cat }}">{{ cat }}</span>
+            {% endfor %}
+        </div>
+
+        <div class="filter-label">Source</div>
+        <div class="filter-row" id="source-filters">
+            <span class="chip active" data-filter="source" data-value="All">All</span>
+            {% for source in sources %}
+            <span class="chip" data-filter="source" data-value="{{ source }}">{{ source }}</span>
+            {% endfor %}
+        </div>
+
+        <div class="count"><span id="visible-count">{{ events|length }}</span> events</div>
+    </div>
+
+    <div id="events">
+        {% set ns = namespace(current_date='') %}
+        {% for event in events %}
+            {% set event_date_str = event.start_date.strftime('%A %-d %B') if event.start_date else 'Date TBC' %}
+            {% if event_date_str != ns.current_date %}
+                {% set ns.current_date = event_date_str %}
+                <div class="date-header" data-date-header>{{ event_date_str }}</div>
+            {% endif %}
+            <div class="event" data-cat="{{ event._filter_cat }}" data-source="{{ event._source }}">
+                {% if event._filter_cat and event._filter_cat != 'Other' %}<span class="tag">{{ event._filter_cat }}</span>{% endif %}
+                {% if event.is_free %}<span class="tag free">Free</span>{% endif %}
+                <div class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></div>
+                <div class="event-meta">
+                    {% if event.time %}{{ event.time }}{% endif %}
+                    {% if event.venue %}<span class="venue"> · {{ event.venue }}</span>{% endif %}
+                    {% if event.area %} · {{ event.area }}{% endif %}
+                </div>
+                {% if event.description %}<div class="desc">{{ event.description }}</div>{% endif %}
+            </div>
+        {% endfor %}
+    </div>
+
+    <footer>
+        Scraped weekly from venue sites and Eventbrite. Something wrong? Check the source.
+    </footer>
+
+    <script>
+    (function() {
+        var activeCat = 'All';
+        var activeSource = 'All';
+
+        document.querySelectorAll('.chip').forEach(function(chip) {
+            chip.addEventListener('click', function() {
+                var filterType = this.dataset.filter;
+                var value = this.dataset.value;
+
+                // Update active state in this row
+                this.parentNode.querySelectorAll('.chip').forEach(function(c) {
+                    c.classList.remove('active');
+                });
+                this.classList.add('active');
+
+                if (filterType === 'cat') activeCat = value;
+                if (filterType === 'source') activeSource = value;
+
+                applyFilters();
+            });
+        });
+
+        function applyFilters() {
+            var count = 0;
+            var visibleDates = new Set();
+
+            document.querySelectorAll('.event').forEach(function(el) {
+                var catMatch = (activeCat === 'All' || el.dataset.cat === activeCat);
+                var sourceMatch = (activeSource === 'All' || el.dataset.source === activeSource);
+                var show = catMatch && sourceMatch;
+
+                el.classList.toggle('hidden', !show);
+                if (show) {
+                    count++;
+                    // Find the preceding date header
+                    var prev = el.previousElementSibling;
+                    while (prev && !prev.hasAttribute('data-date-header')) {
+                        prev = prev.previousElementSibling;
+                    }
+                    if (prev) visibleDates.add(prev);
+                }
+            });
+
+            // Show/hide date headers
+            document.querySelectorAll('[data-date-header]').forEach(function(h) {
+                h.classList.toggle('hidden', !visibleDates.has(h));
+            });
+
+            document.getElementById('visible-count').textContent = count;
+        }
+    })();
+    </script>
+</body>
+</html>

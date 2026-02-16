@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 600px; margin: 0 auto; padding: 16px; color: #1a1a1a; line-height: 1.5;">
+
+    <h1 style="font-size: 20px; margin-bottom: 2px;">London Culture</h1>
+    <p style="color: #666; font-size: 14px; margin-bottom: 24px;">Week of {{ week_of }}</p>
+
+    {% for event in events %}
+    <p style="margin-bottom: 12px;">
+        <a href="{{ event.url }}" style="color: #1a1a1a; font-weight: 500; text-decoration: none;">{{ event.title }}</a><br>
+        <span style="color: #666; font-size: 13px;">
+            {{ event.date_display }}
+            {% if event.venue %} · {{ event.venue }}{% endif %}
+            {% if event.area %} · {{ event.area }}{% endif %}
+        </span>
+        {% if event.is_free %}<span style="color: #2a7d2a; font-size: 12px; font-weight: 600;"> · FREE</span>{% endif %}
+    </p>
+    {% endfor %}
+
+    <hr style="border: none; border-top: 1px solid #ddd; margin: 32px 0 16px;">
+    <p style="font-size: 12px; color: #999;">
+        <a href="{{ page_url }}" style="color: #999;">View all events</a> ·
+        Scraped weekly from venue sites and Eventbrite
+    </p>
+</body>
+</html>
