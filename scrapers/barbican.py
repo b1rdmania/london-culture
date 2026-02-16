@@ -29,11 +29,29 @@ class BarbicanScraper(BaseScraper):
                 tags = [t.get_text(strip=True) for t in article.select("span.tag__plain")]
                 category = ", ".join(tags) if tags else ""
 
-                # Description
-                desc_el = article.select_one("div.search-listing__intro p")
-                desc = ""
-                if desc_el:
-                    desc = desc_el.get_text(strip=True)[:200]
+                # Date/time from intro (format: "Tue 17 Feb 2026, 19:00")
+                date_el = article.select_one("div.search-listing__intro p")
+                start_date = None
+                time_str = ""
+                if date_el:
+                    date_text = date_el.get_text(strip=True)
+                    # Parse "Tue 17 Feb 2026, 19:00" or "Tue 17 Feb 2026"
+                    m = re.search(r"(\d+)\s+(\w+)\s+(\d{4})(?:,\s*(\d+:\d+))?", date_text)
+                    if m:
+                        day, month_str, year = int(m.group(1)), m.group(2), int(m.group(3))
+                        time_str = m.group(4) if m.group(4) else ""
+                        months = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
+                                  "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
+                        month = months.get(month_str)
+                        if month:
+                            try:
+                                start_date = date(year, month, day)
+                            except ValueError:
+                                pass
+
+                # Description (try other selectors, not the date one)
+                desc_el = article.select_one("div.search-listing__intro div.typography, div.search-listing__description")
+                desc = desc_el.get_text(strip=True)[:200] if desc_el else ""
 
                 # Free?
                 is_free = bool(article.select_one(".search-listing__label--promoted"))
@@ -42,6 +60,8 @@ class BarbicanScraper(BaseScraper):
                     title=title,
                     venue=self.name,
                     url=href,
+                    start_date=start_date,
+                    time=time_str,
                     description=desc,
                     category=category,
                     is_free=is_free,
