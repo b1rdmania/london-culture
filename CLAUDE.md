@@ -86,9 +86,9 @@ https://github.com/b1rdmania/london-culture
 
 - [x] Git init + first commit
 - [x] Create GitHub repo + push
-- [ ] Enable GitHub Pages on gh-pages branch
+- [x] Enable GitHub Pages on gh-pages branch → **https://b1rdmania.github.io/london-culture/**
+- [x] Test GitHub Actions workflow end-to-end (manual trigger via workflow_dispatch)
 - [ ] Configure Resend: set `RESEND_API_KEY`, `DIGEST_EMAIL`, `PAGE_URL` as repo secrets
-- [ ] Test GitHub Actions workflow end-to-end (manual trigger via workflow_dispatch)
 - [ ] Send friend the bookmark URL
 - [ ] Consider: "New this week" detection via events.json diffing
 - [ ] Consider: RSS feed output
