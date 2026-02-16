@@ -63,6 +63,9 @@ class VAMScraper(BaseScraper):
         venue_el = card.select_one("p.b-events-featured__venue")
         area = venue_el.get_text(strip=True) if venue_el else "South Kensington"
 
+        desc_el = card.select_one("p.b-events-featured__description, p.b-events-featured__intro")
+        description = desc_el.get_text(strip=True) if desc_el else ""
+
         url = f"{self.base_url}{href}" if not href.startswith("http") else href
 
         return Event(
@@ -72,6 +75,7 @@ class VAMScraper(BaseScraper):
             start_date=start_date,
             category=event_type.title() if event_type else "",
             area=area,
+            description=description,
         )
 
     def _parse_teaser(self, card, seen_hrefs) -> Event | None:
@@ -101,8 +105,9 @@ class VAMScraper(BaseScraper):
         if start_date and start_date < date.today():
             return None
 
-        # Check sold out
-        sold_out = card.select_one("div.u-label-tag--sold-out")
+        # Description
+        desc_el = card.select_one("p.b-event-teaser__description, p.b-event-teaser__intro, div.b-event-teaser__summary")
+        description = desc_el.get_text(strip=True) if desc_el else ""
 
         url = f"{self.base_url}{href}" if not href.startswith("http") else href
 
@@ -113,6 +118,7 @@ class VAMScraper(BaseScraper):
             start_date=start_date,
             category=event_type.title() if event_type else "",
             area=area,
+            description=description,
         )
 
     def _parse_date(self, text: str) -> date | None:

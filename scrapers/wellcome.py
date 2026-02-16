@@ -52,6 +52,10 @@ class WellcomeScraper(BaseScraper):
 
                 event_url = f"https://wellcomecollection.org/events/{uid}"
 
+                # Description from promo text
+                promo = item.get("promo", {})
+                description = promo.get("caption", "") if promo else ""
+
                 events.append(Event(
                     title=title,
                     venue=self.name,
@@ -61,6 +65,7 @@ class WellcomeScraper(BaseScraper):
                     category=fmt_label,
                     is_free=True,  # Wellcome events are almost all free
                     area="Euston",
+                    description=description,
                 ))
 
         except Exception as e:

@@ -41,6 +41,10 @@ class LRBBookshopScraper(BaseScraper):
                 price_text = price_el.get_text(strip=True) if price_el else ""
                 is_free = "free" in price_text.lower()
 
+                # Description
+                desc_el = link.select_one("p.event-preview--description, div.event-preview--description")
+                description = desc_el.get_text(strip=True) if desc_el else ""
+
                 events.append(Event(
                     title=title,
                     venue=self.name,
@@ -50,6 +54,7 @@ class LRBBookshopScraper(BaseScraper):
                     category="Literary event",
                     is_free=is_free,
                     area="Bloomsbury",
+                    description=description,
                 ))
 
         except Exception as e:

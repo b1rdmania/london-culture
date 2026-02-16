@@ -48,6 +48,10 @@ class RichMixScraper(BaseScraper):
             # Free?
             is_free = bool(tease.select_one("span.flag"))
 
+            # Description
+            desc_el = tease.select_one("p.description, div.description, p.excerpt, div.excerpt")
+            description = desc_el.get_text(strip=True) if desc_el else ""
+
             events.append(Event(
                 title=title,
                 venue=self.name,
@@ -56,6 +60,7 @@ class RichMixScraper(BaseScraper):
                 category=category,
                 is_free=is_free,
                 area="Shoreditch",
+                description=description,
             ))
         return events
 
