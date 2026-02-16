@@ -65,8 +65,21 @@ class RichMixScraper(BaseScraper):
         return events
 
     def _parse_date(self, text: str) -> date | None:
-        """Parse dates like 'SUN 25 JAN', 'FRI 14 FEB', 'SAT 15 FEB'."""
+        """Parse dates like 'SUN 25 JAN', 'FRI 14 FEB', or ranges 'WED 10 DEC - SAT 28 FEB'."""
         text = text.strip().upper()
+
+        # Skip "now showing" or empty
+        if "NOW SHOWING" in text or not text:
+            return None
+
+        # Check for date range (use the end date)
+        if " - " in text:
+            # Extract end date from "WED 10 DEC - SAT 28 FEB"
+            parts = text.split(" - ")
+            if len(parts) == 2:
+                text = parts[1].strip()  # Use end date
+
+        # Parse single date or end date from range
         m = re.match(r"[A-Z]{3}\s+(\d+)\s+([A-Z]{3})", text)
         if m:
             day = int(m.group(1))
@@ -80,8 +93,8 @@ class RichMixScraper(BaseScraper):
                 year = date.today().year
                 try:
                     d = date(year, month, day)
-                    # If date is far in the past, it's probably next year
-                    if d < date.today() - __import__("datetime").timedelta(days=60):
+                    # If date is in the past, it's probably next year
+                    if d < date.today():
                         d = date(year + 1, month, day)
                     return d
                 except ValueError:
