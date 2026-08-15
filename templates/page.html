@@ -231,7 +231,7 @@
         <details>
             <summary>Sources this run</summary>
             <div class="health">
-                {% for name, n in health %}<span{% if n == 0 %} class="zero"{% endif %}>{{ name }} {{ n }}</span>{% endfor %}
+                {% for name, n in health %}<span{% if (n|string)[:1] == "0" %} class="zero"{% endif %}>{{ name }} {{ n }}</span>{% endfor %}
             </div>
         </details>
     </footer>

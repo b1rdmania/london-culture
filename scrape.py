@@ -20,12 +20,13 @@ from scrapers import (
     WhitechapelScraper, CamdenArtCentreScraper,
 )
 from scrapers.heuristic import GreshamScraper, BishopsgateScraper, HowToAcademyScraper
+from scrapers.base import BROWSER_UA, Event
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / "output"
 DATA = ROOT / "data"
 TEMPLATES = ROOT / "templates"
-PAGE_URL = os.environ.get("PAGE_URL", "https://b1rdmania.github.io/london-culture").rstrip("/")
+PAGE_URL = (os.environ.get("PAGE_URL") or "https://b1rdmania.github.io/london-culture").rstrip("/")
 
 # Categories to exclude globally
 EXCLUDE_CATEGORIES = {
@@ -81,8 +82,13 @@ def scrape_all():
 
     if sync_playwright:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
+            browser = p.chromium.launch(
+                headless=True, args=["--disable-blink-features=AutomationControlled"])
+            ctx = browser.new_context(
+                user_agent=BROWSER_UA, locale="en-GB", timezone_id="Europe/London",
+                viewport={"width": 1366, "height": 900})
+            ctx.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+            page = ctx.new_page()
             run(page)
             browser.close()
     else:
@@ -153,7 +159,8 @@ def normalize_category(cat: str, title: str = "") -> str:
 
 
 def load_previous():
-    """Previous run's events (first_seen map), from the live site or local data."""
+    """Previous run's events, from the live site or local data.
+    Returns (first_seen map by url, raw rows)."""
     prev = {}
     for src in (f"{PAGE_URL}/events.json", DATA / "events.json"):
         try:
@@ -169,10 +176,43 @@ def load_previous():
                     prev[row["url"]] = row.get("first_seen") or row.get("_run") or ""
             if prev:
                 logging.info(f"Loaded {len(prev)} previous events from {src}")
-                return prev
+                return prev, rows
         except Exception as e:
             logging.warning(f"Could not load previous events from {src}: {e}")
-    return prev
+    return prev, []
+
+
+def carry_forward(events, health, prev_rows, run_day):
+    """If a source returned 0 this run (blocked, site changed), keep its
+    previously published future events rather than dropping them all.
+    Cap staleness at 10 days so a dead source fades out."""
+    zero = {n for n, c in health if c == 0}
+    if not zero or not prev_rows:
+        return events, health
+    carried = 0
+    for row in prev_rows:
+        if row.get("source") not in zero or not row.get("start_date"):
+            continue
+        try:
+            sd = date.fromisoformat(row["start_date"])
+            last_ok = date.fromisoformat(row.get("_run") or row.get("first_seen"))
+        except (TypeError, ValueError):
+            continue
+        if sd < run_day or (run_day - last_ok).days > 10:
+            continue
+        e = Event(
+            title=row["title"], venue=row.get("venue", ""), url=row["url"],
+            start_date=sd, time=row.get("time", ""), description=row.get("description", ""),
+            category=row.get("category", ""), is_free=bool(row.get("is_free")),
+            area=row.get("area", ""), source=row["source"],
+        )
+        e._carried_run = row.get("_run") or row.get("first_seen")
+        events.append(e)
+        carried += 1
+    if carried:
+        logging.warning(f"Carried forward {carried} events from blocked sources: {', '.join(sorted(zero))}")
+        health = [(n, c if n not in zero else f"0 (kept {sum(1 for e in events if getattr(e, '_carried_run', None) and e.source == n)})") for n, c in health]
+    return events, health
 
 
 def annotate(events, prev, run_day):
@@ -247,7 +287,8 @@ def save_events(events, health, run_day):
             "end_date": e.end_date.isoformat() if e.end_date else None,
             "time": e.time, "description": e.description, "category": e.category,
             "lens": e._lens, "is_free": e.is_free, "area": e.area,
-            "first_seen": e._first_seen, "_run": run_day.isoformat(),
+            "first_seen": e._first_seen,
+            "_run": getattr(e, "_carried_run", None) or run_day.isoformat(),
         }
         for e in events
     ]
@@ -263,12 +304,13 @@ def save_events(events, health, run_day):
 def main():
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
     run_day = date.today()
-    prev = load_previous()
+    prev, prev_rows = load_previous()
     events, health = scrape_all()
+    events, health = carry_forward(events, health, prev_rows, run_day)
     events = filter_events(events)
     events = annotate(events, prev, run_day)
     logging.info(f"Total: {len(events)} events, {sum(1 for e in events if e._is_new)} new")
-    zero = [n for n, c in health if c == 0]
+    zero = [n for n, c in health if str(c).startswith("0")]
     if zero:
         logging.warning(f"Sources returning 0: {', '.join(zero)}")
     save_events(events, health, run_day)
