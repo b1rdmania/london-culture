@@ -21,6 +21,7 @@ from scrapers import (
 )
 from scrapers.heuristic import GreshamScraper, BishopsgateScraper, HowToAcademyScraper
 from scrapers.base import BROWSER_UA, Event
+from score import score_events
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / "output"
@@ -231,7 +232,7 @@ def annotate(events, prev, run_day):
     return events
 
 
-def build_html(events, health, run_day):
+def build_html(events, health, run_day, picks=()):
     OUTPUT.mkdir(exist_ok=True)
     sources = sorted({e.source for e in events})
     lenses = [l for l in LENSES if any(e._lens == l for e in events)]
@@ -240,7 +241,9 @@ def build_html(events, health, run_day):
     weekend = [d for d in range(0, 8) if (run_day + timedelta(days=d)).weekday() >= 5][:2]
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)))
     html = env.get_template("page.html").render(
-        events=events, sources=sources, lenses=lenses, health=health,
+        events=events, sources=sources, lenses=lenses, health=health, picks=picks,
+        scored=sum(1 for e in events if e._score is not None),
+        mixed_count=sum(1 for e in events if getattr(e, "_mixed", False)),
         today=run_day.isoformat(),
         week_end=(run_day + timedelta(days=7)).isoformat(),
         weekend_start=(run_day + timedelta(days=weekend[0])).isoformat() if weekend else run_day.isoformat(),
@@ -289,6 +292,8 @@ def save_events(events, health, run_day):
             "time": e.time, "description": e.description, "category": e.category,
             "lens": e._lens, "is_free": e.is_free, "area": e.area,
             "first_seen": e._first_seen,
+            "score": getattr(e, "_score", None), "why": getattr(e, "_why", ""),
+            "mixed": getattr(e, "_mixed", False), "tag": getattr(e, "_tag", ""),
             "_run": getattr(e, "_carried_run", None) or run_day.isoformat(),
         }
         for e in events
@@ -310,12 +315,15 @@ def main():
     events, health = carry_forward(events, health, prev_rows, run_day)
     events = filter_events(events)
     events = annotate(events, prev, run_day)
+    score_events(events, prev_rows)
+    picks = [e for e in events if (e._score or 0) >= 8 and e.start_date <= run_day + timedelta(days=14)]
+    picks.sort(key=lambda e: (-(e._score or 0), e.start_date))
     logging.info(f"Total: {len(events)} events, {sum(1 for e in events if e._is_new)} new")
     zero = [n for n, c in health if str(c).startswith("0")]
     if zero:
         logging.warning(f"Sources returning 0: {', '.join(zero)}")
     save_events(events, health, run_day)
-    build_html(events, health, run_day)
+    build_html(events, health, run_day, picks[:8])
     if "--email" in sys.argv:
         send_email(build_email(events))
 
