@@ -48,7 +48,7 @@ SCRAPERS = [
     # talks / politics / ideas
     ConwayHallScraper, GreshamScraper, BishopsgateScraper, HowToAcademyScraper,
     # writing
-    LRBBookshopScraper, PoetrySocietyScraper,
+    LRBBookshopScraper,
     # tech / scene
     LumaScraper, MeetupScraper, EventbriteScraper,
 ]
@@ -105,6 +105,10 @@ TITLE_SKIP = [
     "youth festival", "young poets", "family-friendly",
     "hnwi", "networking breakfast", "business breakfast",
     "general admission", "entry ticket", "admission ticket",
+    "run club", "running club", "jog", "5k", "10k", "parkrun", "marathon",
+    "private equity", "venture capital", " vc ", "investor", "wealth",
+    "black history", "equality", "diversity", "inclusion", "dei ",
+    "live painting", "poetry", "spoken word", "ceramic", "pottery",
 ]
 
 
