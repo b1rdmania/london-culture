@@ -1,5 +1,21 @@
 [
  {
+  "title": "Intro to Public Speaking",
+  "venue": "White Hart - Whitechapel",
+  "url": "https://www.eventbrite.co.uk/e/intro-to-public-speaking-tickets-1995661520329",
+  "source": "Eventbrite",
+  "start_date": "2026-08-15",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Learn why nerves are a speakers best friend and take back control when you speak. Develop the building blocks all speakers need to be great.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
   "title": "Shut Up and Write! [London/Waterstones Piccadilly]",
   "venue": "5th View",
   "url": "https://www.meetup.com/shutupandwritelondon/events/314280662/",
@@ -12,7 +28,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "W1J 9LE",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -28,7 +44,39 @@
   "lens": "Workshops",
   "is_free": true,
   "area": "Whitechapel",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Intensive Training Day (Intermediate/Advanced) - Debate Bootcamp",
+  "venue": "Crown Court Church of Scotland",
+  "url": "https://www.eventbrite.co.uk/e/intensive-training-day-intermediateadvanced-debate-bootcamp-tickets-1996091966806",
+  "source": "Eventbrite",
+  "start_date": "2026-08-15",
+  "end_date": null,
+  "time": "12:00",
+  "description": "Private coaching meets workshop. A tailored learning opportunity for individual development while practicing new skills immediatly.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Pottery Class",
+  "venue": "Angel Yard Edmonton",
+  "url": "https://www.eventbrite.co.uk/e/pottery-class-tickets-1995451455018",
+  "source": "Eventbrite",
+  "start_date": "2026-08-15",
+  "end_date": null,
+  "time": "14:00",
+  "description": "Come get your hands dirty and unleash your creativity at our Pottery Workshop!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -44,7 +92,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -60,7 +108,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Greater London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -76,7 +124,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -92,7 +140,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London SW1P 4RG",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -108,7 +156,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -124,7 +172,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Whitechapel",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -140,7 +188,7 @@
   "lens": "Workshops",
   "is_free": true,
   "area": "Whitechapel",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -156,7 +204,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -172,7 +220,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Whitechapel",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -188,7 +236,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -204,7 +252,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -220,7 +268,55 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Beginner Screen Printing Workshop: Create Your Own Limited Edition Prints",
+  "venue": "Print Club London",
+  "url": "https://www.eventbrite.co.uk/e/beginner-screen-printing-workshop-create-your-own-limited-edition-prints-tickets-1992359008427",
+  "source": "Eventbrite",
+  "start_date": "2026-08-16",
+  "end_date": null,
+  "time": "10:30",
+  "description": "Get to grips with the screen printing process in a welcoming East London studio!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Flow and Write: Yoga and Creative Writing",
+  "venue": "Keats House",
+  "url": "https://www.eventbrite.co.uk/e/flow-and-write-yoga-and-creative-writing-tickets-1989100895323",
+  "source": "Eventbrite",
+  "start_date": "2026-08-16",
+  "end_date": null,
+  "time": "10:45",
+  "description": "Join us at Keats House for a two hour yoga and creative journalling and writing workshop with Calleen Everitt.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Hand Building Pottery Class",
+  "venue": "5 Chelsea Manor St",
+  "url": "https://www.eventbrite.co.uk/e/hand-building-pottery-class-tickets-1991763715891",
+  "source": "Eventbrite",
+  "start_date": "2026-08-16",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Find your flow through calm, hands-on pottery",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -236,7 +332,23 @@
   "lens": "Writing",
   "is_free": false,
   "area": "W1J 9LE",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Candle Making Workshop",
+  "venue": "5 Chelsea Manor St",
+  "url": "https://www.eventbrite.co.uk/e/candle-making-workshop-tickets-1991760247517",
+  "source": "Eventbrite",
+  "start_date": "2026-08-16",
+  "end_date": null,
+  "time": "17:00",
+  "description": "Learn to make candles from start to finish at a candle making workshop in London",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -252,7 +364,7 @@
   "lens": "Other",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -268,7 +380,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -284,7 +396,71 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London Innovation Summit | Founders, AI & Investor Networking",
+  "venue": "Hay Hill Private Members Club",
+  "url": "https://www.eventbrite.co.uk/e/london-innovation-summit-founders-ai-investor-networking-tickets-1996805949347",
+  "source": "Eventbrite",
+  "start_date": "2026-08-17",
+  "end_date": null,
+  "time": "17:00",
+  "description": "Premium networking for founders, entrepreneurs, AI leaders & investors at Hay Hill, London. Connect, collaborate, grow",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Fashion Networking at BOXPARK With The Creatives",
+  "venue": "UNIT 21 BOXPARK Shoreditch",
+  "url": "https://www.eventbrite.co.uk/e/fashion-networking-at-boxpark-with-the-creatives-tickets-1992513931807",
+  "source": "Eventbrite",
+  "start_date": "2026-08-17",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Get ready to mingle with fellow fashionistas, designers, and artists at our Fashion Networking With The Creatives event -  Summer edition!",
+  "category": "Fashion & Beauty",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Hand-building Pottery Workshop @ cave Pimlico",
+  "venue": "Cave",
+  "url": "https://www.eventbrite.co.uk/e/hand-building-pottery-workshop-cave-pimlico-tickets-1992213298605",
+  "source": "Eventbrite",
+  "start_date": "2026-08-17",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join our relaxed and sociable hand-building pottery session, perfect for first timers & interim potters! Monday evenings in Pimlico, London",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event: Founders, Co-Founders Tech Startup Innovators",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/networking-event-founders-co-founders-tech-startup-innovators-tickets-1994411969890",
+  "source": "Eventbrite",
+  "start_date": "2026-08-17",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Come hang out with fellow startup brains and tech innovators to swap ideas and make cool connections!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -300,7 +476,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -316,7 +492,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -332,7 +508,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -348,7 +524,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -364,7 +540,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -380,7 +556,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -396,7 +572,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -412,7 +588,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -428,7 +604,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -444,7 +620,231 @@
   "lens": "Other",
   "is_free": false,
   "area": "V&A South Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Creative Panel Talks - Africa Fashion Week London",
+  "venue": "British Council",
+  "url": "https://www.eventbrite.co.uk/e/creative-panel-talks-africa-fashion-week-london-registration-1994101789131",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Africa Fashion Week London",
+  "category": "Fashion & Beauty",
+  "lens": "Talks",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Private Credit Network August Networking Drinks",
+  "venue": "30 St Mary Axe (The Gherkin)",
+  "url": "https://www.eventbrite.co.uk/e/private-credit-network-august-networking-drinks-tickets-1991539356827",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "The Private Credit Network is London\u2019s only Business Community for Professionals in Private Credit, Direct Lending and Alternative Debt.",
+  "category": "Business & Professional",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Private Equity Industry August City Networking Reception At The Gherkin",
+  "venue": "30 St Mary Axe (The Gherkin)",
+  "url": "https://www.eventbrite.co.uk/e/private-equity-industry-august-city-networking-reception-at-the-gherkin-tickets-1991539369866",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join Us at the Gherkin and Enjoy an Evening of Networking with Private Equity Firms and Service Providers",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Mindstone London AI Meetup",
+  "venue": "Saint James Church",
+  "url": "https://www.eventbrite.co.uk/e/mindstone-london-ai-meetup-tickets-1250498668179",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Delve into the world of AI, explore its practical applications, and marvel at the astonishing projects that are shaping our future.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startup Pitch & Networking       London",
+  "venue": "UCL Institute of Education (IOE)",
+  "url": "https://www.eventbrite.com/e/startup-pitch-networking-london-tickets-1993849182578",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A focused Pitch and Networking night with live startup pitches, direct investor feedback, and time to meet relevant founders and peers.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Tech Networking Event by Startup Valley  in  London",
+  "venue": "UCL Institute of Education (IOE)",
+  "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-london-tickets-1993849180572",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A focused Pitch and Networking night with live startup pitches, direct investor feedback, and time to meet relevant founders and peers.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startups &  Networking          London",
+  "venue": "UCL Institute of Education (IOE)",
+  "url": "https://www.eventbrite.com/e/startups-networking-london-tickets-1993849178566",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A focused Pitch and Networking night with live startup pitches, direct investor feedback, and time to meet relevant founders and peers.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Political Philosophy and Art",
+  "venue": "Fitzrovia Community Centre",
+  "url": "https://www.eventbrite.com/e/political-philosophy-and-art-tickets-1989293732103",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Explore contemporary political philosophy and experiment with art",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "STRIDE: Meliora | Coached Running",
+  "venue": "Fitness First Thomas More Sq",
+  "url": "https://www.eventbrite.co.uk/e/stride-meliora-coached-running-registration-1991992985643",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:15",
+  "description": "Meliora: STRIDE\u2019s annual coached running event, turning our pursuit of better into 8 weeks of structured training and one shared PB day.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event: Beauty Stylists, Photographers, Industry Pros",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/networking-event-beauty-stylists-photographers-industry-pros-tickets-1994412021043",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Meet up with fellow beauty stylists and photographers to swap tips, make connections, and boost your creative game.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startup Funding & Networking: VCs, Angels & Founders",
+  "venue": "Eight Members Club Moorgate",
+  "url": "https://www.eventbrite.co.uk/e/startup-funding-networking-vcs-angels-founders-tickets-1994995583494",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The ultimate networking night in central London.\nConnect with entrepreneurs, investors, creatives, and industry leaders driving change.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Caribe Supper Club by Keshia Sakarah",
+  "venue": "The Good Front Room",
+  "url": "https://www.eventbrite.co.uk/e/caribe-supper-club-by-keshia-sakarah-tickets-1997506311148",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Get ready for a chill night of Caribbean vibes and tasty eats curated by award winning chef and author, Keshia Sakarah.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "THAT GOD DAMN POETRY JAM! AUGOOSEBERRY JAM",
+  "venue": "The Fiddlers Elbow",
+  "url": "https://www.eventbrite.com/e/that-god-damn-poetry-jam-augooseberry-jam-tickets-1996356148982",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Come on and JAM at Camden's favourite Poetry and Spoken Word night at the Fiddler's Elbow, every third Tuesday of the month!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "World Citizens Discuss & Social: Soft Debates On Society, Culture, Politics",
+  "venue": "Curzon Aldgate",
+  "url": "https://www.eventbrite.co.uk/e/world-citizens-discuss-social-soft-debates-on-society-culture-politics-tickets-1982609899580",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "19:30",
+  "description": "A relaxed discussion group to learn and share perspectives on important topics. Make new friends and understand them!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -460,7 +860,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -476,7 +876,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -492,7 +892,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -508,7 +908,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -524,7 +924,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -540,7 +940,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -556,7 +956,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -572,7 +972,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -588,7 +988,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -604,7 +1004,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "EC1M 7AA",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -620,7 +1020,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -636,7 +1036,7 @@
   "lens": "Social",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -652,7 +1052,87 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "August ZEST: Creative Business Networking",
+  "venue": "Design District - Salon",
+  "url": "https://www.eventbrite.co.uk/e/august-zest-creative-business-networking-tickets-1987303118123",
+  "source": "Eventbrite",
+  "start_date": "2026-08-19",
+  "end_date": null,
+  "time": "12:30",
+  "description": "Join us for a monthly networking event that brings together business owners and fresh talent to share their knowledge and creativity.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "A Must Dine-in Supper Club No.0\u2013  Hand-Rolled Noodles",
+  "venue": "Avalon Cafe",
+  "url": "https://www.eventbrite.com/e/a-must-dine-in-supper-club-no0-hand-rolled-noodles-tickets-1997186701186",
+  "source": "Eventbrite",
+  "start_date": "2026-08-19",
+  "end_date": null,
+  "time": "17:30",
+  "description": "Wednesday evening supperclub serving noodles that get ROLLED in front of you @ Avalon Cafe on the 19th of August",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The London Network Event , Startup Founders, Tech Entrepreneurs, Investors",
+  "venue": "Sycamore Covent Garden",
+  "url": "https://www.eventbrite.co.uk/e/the-london-network-event-startup-founders-tech-entrepreneurs-investors-tickets-1992649827274",
+  "source": "Eventbrite",
+  "start_date": "2026-08-19",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Business networking event in central london. Connect w/ tech entrepreneurs, startup founders, finance professionals, B2B pros and investors.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "HONEYTRAP ~ BOOK LAUNCH",
+  "venue": "QueBar",
+  "url": "https://www.eventbrite.co.uk/e/honeytrap-book-launch-tickets-1996336072934",
+  "source": "Eventbrite",
+  "start_date": "2026-08-19",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Get ready to dive into secrets and suspense at the HONEYTRAP book launch\u2014fun, drinks, and thrills await!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Art Nest",
+  "venue": "WC1X 0LB",
+  "url": "https://www.eventbrite.co.uk/e/art-nest-tickets-1995072050208",
+  "source": "Eventbrite",
+  "start_date": "2026-08-19",
+  "end_date": null,
+  "time": "18:45",
+  "description": "Get ready to get your hands dirty and unleash your creativity at Art Nest - Experiment with new materials or bring your own project!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -668,7 +1148,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -684,7 +1164,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -700,7 +1180,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -716,7 +1196,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -732,7 +1212,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -748,7 +1228,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -764,7 +1244,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -780,7 +1260,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -796,7 +1276,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -812,7 +1292,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Young V&A",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -828,7 +1308,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Black & Mixed Heritage: Politics, Power & Westminster Walking Tour",
+  "venue": "Whitehall",
+  "url": "https://www.eventbrite.co.uk/e/black-mixed-heritage-politics-power-westminster-walking-tour-tickets-1992918180927",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Discover the hidden stories of Black & mixed-heritage people whose lives intersected with politics power and London.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -844,7 +1340,151 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Unmissable Book Launch at Word on the Water",
+  "venue": "Word On The Water - The London Bookbarge",
+  "url": "https://www.eventbrite.com/e/unmissable-book-launch-at-word-on-the-water-tickets-1994098963680",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "17:00",
+  "description": "An unmissable book launch with Armenian author Lucineh Danielian, presenting her latest book 'Lost Souls: Finding Solace'. Don't miss it!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London AI Networking Event | Fintech, Digital & Tech Innovators Meetup",
+  "venue": "Home House Studio, Private Members' Club",
+  "url": "https://www.eventbrite.co.uk/e/london-ai-networking-event-fintech-digital-tech-innovators-meetup-tickets-1996633262837",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "17:00",
+  "description": "Network with AI pros, fintech investors, and tech innovators at London's top event. Build real connections at Home House Studio.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The After Taste: Supper Club - By Michael Flakes",
+  "venue": "Proposition Studios",
+  "url": "https://www.eventbrite.co.uk/e/the-after-taste-supper-club-by-michael-flakes-tickets-1994945306113",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "18:00",
+  "description": "The After Taste is an elevated supper club experience created by Chef Michael Flakes, blending curated music and chef driven dining.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Carnival of Resistance: Exhibition & Book Launch Celebration \u2013 Private View",
+  "venue": "A Celebration of Demonstration",
+  "url": "https://www.eventbrite.co.uk/e/carnival-of-resistance-exhibition-book-launch-celebration-private-view-tickets-1994941823697",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us in Brixton Village for the exclusive private view of Carnival of Resistance, a landmark photography book celebrating Carnival",
+  "category": "Community & Culture",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Pub Philosophy",
+  "venue": "Hoxton Cabin",
+  "url": "https://www.eventbrite.co.uk/e/pub-philosophy-tickets-1991715443507",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "18:15",
+  "description": "An hour and a half of live philosophy, shaped by your questions \u2014 from the timeless to the unexpected.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Kaiwhenua Supperclub at The Exchange",
+  "venue": "The Exchange",
+  "url": "https://www.eventbrite.com/e/kaiwhenua-supperclub-at-the-exchange-tickets-1995443756993",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join acclaimed chef Matt Burgess for an intimate supper club celebrating the flavours, memories and traditions that have shaped",
+  "category": "Food & Drink",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Poetry and Spoken Word Open Mic",
+  "venue": "Orbit Beers Brewery & Taproom",
+  "url": "https://www.eventbrite.co.uk/e/poetry-and-spoken-word-open-mic-tickets-1980543449773",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "19:00",
+  "description": "3rd Thursday of every month is spoken word poetry night. Free to attend.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Billie's poetry open mic",
+  "venue": "The Rocketvan Coffee Shop & Box Shop Bar",
+  "url": "https://www.eventbrite.com/e/billies-poetry-open-mic-tickets-1994787421877",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "19:00",
+  "description": "It's free. It's fun. We're all here to have a good time. Performers have five minutes. \nSin \u00e9.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Fingers of Flame: The typewriter poetry slam",
+  "venue": "Off Broadway",
+  "url": "https://www.eventbrite.co.uk/e/fingers-of-flame-the-typewriter-poetry-slam-tickets-1987985342675",
+  "source": "Eventbrite",
+  "start_date": "2026-08-20",
+  "end_date": null,
+  "time": "20:00",
+  "description": "Get ready to slam your words live at Fingers of Flame\u2014where typewriters meet fiery wit, rhythm and rhyme",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -860,7 +1500,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -876,7 +1516,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -892,7 +1532,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -908,7 +1548,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -924,7 +1564,7 @@
   "lens": "Social",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -940,7 +1580,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -956,7 +1596,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -972,7 +1612,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -988,7 +1628,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1004,7 +1644,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1020,7 +1660,7 @@
   "lens": "Social",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1036,7 +1676,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1052,7 +1692,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "london",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1068,7 +1708,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1084,7 +1724,7 @@
   "lens": "Openings",
   "is_free": true,
   "area": "Whitechapel",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1100,7 +1740,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "V&A South Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1116,7 +1756,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Online",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1132,7 +1772,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Young V&A",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1148,7 +1788,39 @@
   "lens": "Other",
   "is_free": false,
   "area": "Young V&A",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "LONDON LEADERSHIP SERIES - The Energy Crisis",
+  "venue": "Orangebox",
+  "url": "https://www.eventbrite.co.uk/e/london-leadership-series-the-energy-crisis-registration-1988470540916",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "09:30",
+  "description": "Four carefully designed events for leaders who want room to think, question and speak honestly about the future of work.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Writing with Hope : at The Poetry Pharmacy",
+  "venue": "Poetry Pharmacy",
+  "url": "https://www.eventbrite.com/e/writing-with-hope-at-the-poetry-pharmacy-tickets-1994958761358",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Write, reflect and connect in this restorative creative writing workshop exploring hope. Open to all, no writing experience needed.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1164,7 +1836,71 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Big Talk Social",
+  "venue": "The Avalon",
+  "url": "https://www.eventbrite.com/e/the-big-talk-social-tickets-1996822358427",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "18:00",
+  "description": "The Big Talk Social: Bringing the rugby community together to raise mental health awareness, support each other, and start conversations.",
+  "category": "Community & Culture",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Indian Professionals in London - Eat, Drink and Socialise Meetup",
+  "venue": "Masala Kraft",
+  "url": "https://www.eventbrite.co.uk/e/indian-professionals-in-london-eat-drink-and-socialise-meetup-tickets-1992341162048",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Step into a stunning open-air terrace in the heart of Bankside, offering space to IPL guests a warm friday post work social meetup to chill",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Ring Making Workshop",
+  "venue": "Art4Space",
+  "url": "https://www.eventbrite.com/e/ring-making-workshop-tickets-1992168855675",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Make your own ring! Learn the basics of jewellery making in a fun, beginner-friendly workshop. All materials included.",
+  "category": "Fashion & Beauty",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Seasons Poetry Nights with Live Music : 'SUMMER VIBES' is the Theme",
+  "venue": "Cottons Shoreditch",
+  "url": "https://www.eventbrite.co.uk/e/seasons-poetry-nights-with-live-music-summer-vibes-is-the-theme-tickets-1993142489841",
+  "source": "Eventbrite",
+  "start_date": "2026-08-21",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Prt 4! Calling All Poets to Book A Slot! Live music, poetry & grown soulful vibes in London. Limited seats, book and arrive early!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1180,7 +1916,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1196,7 +1932,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1212,7 +1948,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1228,7 +1964,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1244,7 +1980,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1260,7 +1996,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1276,7 +2012,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1292,7 +2028,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1308,7 +2044,23 @@
   "lens": "Other",
   "is_free": false,
   "area": "V&A East Museum",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Kenjutsu - learn the real Samurai's swordfight and philosophy",
+  "venue": "Floreat Wandsworth Primary School (side entrance, in Garret Lane)",
+  "url": "https://www.eventbrite.co.uk/e/kenjutsu-learn-the-real-samurais-swordfight-and-philosophy-tickets-1245858950659",
+  "source": "Eventbrite",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Every Saturday, 10 am to 12 pm (see below for more details).  A trial  class to know more about the techniques created by Musashi",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1324,7 +2076,23 @@
   "lens": "Other",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "One Soup Three Sides - Ceramics workshop",
+  "venue": "Art Hub Studios CIC",
+  "url": "https://www.eventbrite.co.uk/e/one-soup-three-sides-ceramics-workshop-tickets-1993825757513",
+  "source": "Eventbrite",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "10:30",
+  "description": "Full day ceramics workshop making your own Japanese tableware set including a delicious home made lunch.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1340,7 +2108,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Persuading with Rhetoric  - Debate Workshop",
+  "venue": "White Hart - Whitechapel",
+  "url": "https://www.eventbrite.co.uk/e/persuading-with-rhetoric-debate-workshop-tickets-1995661934568",
+  "source": "Eventbrite",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "11:00",
+  "description": "An introduction to rhetoric and persuasive speaking so you can begin to develop your own personal persuasive speaking style.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1356,7 +2140,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Soho",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1372,7 +2156,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1388,7 +2172,23 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Introduction to Risograph",
+  "venue": "30 Poplar Pl",
+  "url": "https://www.eventbrite.co.uk/e/introduction-to-risograph-tickets-1984464651192",
+  "source": "Eventbrite",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "14:00",
+  "description": "In this group workshop, you'll learn how to create artwork for risograph printing and learn how to use the TACO! Print Studio",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1404,7 +2204,23 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Speak n Spoke \u2013 A Night of Spoken Word, Music & Connection",
+  "venue": "Station Ten",
+  "url": "https://www.eventbrite.com/e/speak-n-spoke-a-night-of-spoken-word-music-connection-tickets-1997089591729",
+  "source": "Eventbrite",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "20:00",
+  "description": "Speak n Spoke \u2013 A Night of Spoken Word, Music & Connection",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1420,7 +2236,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1436,7 +2252,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1452,7 +2268,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London SW1P 4RG",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1468,7 +2284,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1484,7 +2300,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1500,7 +2316,7 @@
   "lens": "Tech",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1516,7 +2332,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1532,7 +2348,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1548,7 +2364,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "St Albans",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1564,7 +2380,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1580,7 +2396,87 @@
   "lens": "Openings",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Holiday workshops: Invention and Design (Year 3 and 4)",
+  "venue": "The Royal Institution of Great Britain",
+  "url": "https://www.eventbrite.co.uk/e/holiday-workshops-invention-and-design-year-3-and-4-tickets-1990791725642",
+  "source": "Eventbrite",
+  "start_date": "2026-08-24",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Learn what it takes to be an inventor in this fun and engaging workshop",
+  "category": "Family & Education",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event: Founders, Co-Founders, Entrepreneurs for Startups",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/networking-event-founders-co-founders-entrepreneurs-for-startups-tickets-1994413858539",
+  "source": "Eventbrite",
+  "start_date": "2026-08-24",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Meet cool startup folks, swap ideas, and make connections that could kickstart your next big venture!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Planning Mixer for Architecture, Urban Design & Environmental Consultancy",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/planning-mixer-for-architecture-urban-design-environmental-consultancy-tickets-1994418195511",
+  "source": "Eventbrite",
+  "start_date": "2026-08-24",
+  "end_date": null,
+  "time": "18:10",
+  "description": "Come hang out and brainstorm cool ideas for architecture, urban design, and environmental projects with fellow creatives!",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "BioTech Startups, Investors, Innovators & Professionals Networking Event",
+  "venue": "The Refinery",
+  "url": "https://www.eventbrite.co.uk/e/biotech-startups-investors-innovators-professionals-networking-event-tickets-1993817116668",
+  "source": "Eventbrite",
+  "start_date": "2026-08-24",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Connect with BioTech innovators in London! Network, collaborate, and grow with like-minded professionals and industry leaders.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "BioTech, Pharma, MedTech Networking & Pitch Event in London",
+  "venue": "Blue Fin Building",
+  "url": "https://www.eventbrite.co.uk/e/biotech-pharma-medtech-networking-pitch-event-in-london-tickets-1996217854339",
+  "source": "Eventbrite",
+  "start_date": "2026-08-24",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1596,7 +2492,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1612,7 +2508,119 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event: Meet The Startup Founders, Co Founders, Innovators",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/networking-event-meet-the-startup-founders-co-founders-innovators-tickets-1993741892671",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Get ready to mingle with the brains behind the next big thing in tech and innovation, a networking event you don't want to miss!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Graphic Design & Digital Creatives Networking for Startups & Directors",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/graphic-design-digital-creatives-networking-for-startups-directors-tickets-1993763111136",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "18:20",
+  "description": "Meet fellow creatives and startup pros for a chill night of networking, ideas, and design vibes.",
+  "category": "Fashion & Beauty",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London Creative Networking Event \u2013 Designers, Founders & Startups",
+  "venue": "Sycamore Covent Garden",
+  "url": "https://www.eventbrite.co.uk/e/london-creative-networking-event-designers-founders-startups-tickets-1994317585584",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The ultimate networking night in central London.\nConnect with entrepreneurs, investors, creatives, and industry leaders driving change.",
+  "category": "Business & Professional",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Future of Architecture & Interior Design Networking",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/future-of-architecture-interior-design-networking-tickets-1993909271305",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Mix, mingle, and get inspired by the latest trends shaping architecture and interior design futures.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startup Founders & Innovators London Networking Event",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/startup-founders-innovators-london-networking-event-tickets-1995077157484",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join fellow startup founders and innovators for a fun, in-person networking night in London!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Business and Startups Social Networking Event with Elevator Pitch",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/business-and-startups-social-networking-event-with-elevator-pitch-tickets-1994171155608",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join us at the highly anticipated  London Business and Startups Networking Event,  create connexions with  like-minded entrepreneurs!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Psychology of Dictators",
+  "venue": "The Blues Kitchen Brixton",
+  "url": "https://www.eventbrite.co.uk/e/the-psychology-of-dictators-tickets-1993008150027",
+  "source": "Eventbrite",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Explore the minds behind history\u2019s worst atrocities and what they reveal about power, evil, and human nature. Followed by Q&A.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1628,7 +2636,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1644,7 +2652,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1660,7 +2668,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1676,7 +2684,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1692,7 +2700,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1708,7 +2716,71 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Supper & Stories - A Likewise Community Supper Club",
+  "venue": "Likewise Hub",
+  "url": "https://www.eventbrite.co.uk/e/supper-stories-a-likewise-community-supper-club-tickets-1988063814386",
+  "source": "Eventbrite",
+  "start_date": "2026-08-26",
+  "end_date": null,
+  "time": "17:20",
+  "description": "Join us for a warm and vibrant supper club experience, where great food, connection, and conversation come to life. Click to find out more.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Firepit Tales - Spoken Word Open Mic",
+  "venue": "Firepit Art Gallery and Studios CIC",
+  "url": "https://www.eventbrite.co.uk/e/firepit-tales-spoken-word-open-mic-tickets-1996333406960",
+  "source": "Eventbrite",
+  "start_date": "2026-08-26",
+  "end_date": null,
+  "time": "18:30",
+  "description": "It\u2019s all about connection: people, words and shared experience. Everyone Welcome.",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Bodies by Atelier - Nude life drawing",
+  "venue": "Mare Street Market Kings Cross",
+  "url": "https://www.eventbrite.co.uk/e/bodies-by-atelier-nude-life-drawing-tickets-1994007973526",
+  "source": "Eventbrite",
+  "start_date": "2026-08-26",
+  "end_date": null,
+  "time": "18:40",
+  "description": "Nude life drawing with 2 male models",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Quigs X Arodazi Bookmark Making Workshop",
+  "venue": "Cable Street Studios",
+  "url": "https://www.eventbrite.co.uk/e/quigs-x-arodazi-bookmark-making-workshop-tickets-1997144184016",
+  "source": "Eventbrite",
+  "start_date": "2026-08-26",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Hello lovely humans,  come along to our brand new showroom for bookmark making, charcuterie, French cider and shopping <3",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1724,7 +2796,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1740,7 +2812,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Brixton",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1756,7 +2828,119 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Kolo Tamam Supper Club (ILL3AB x EDAMI)",
+  "venue": "EDAMI",
+  "url": "https://www.eventbrite.co.uk/e/kolo-tamam-supper-club-ill3ab-x-edami-tickets-1996918406710",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Our new monthly supper club series celebrating the tastes and sounds of the Arab world from Morocco to Iraq and everywhere in between.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Poetry Night",
+  "venue": "Perkyn's",
+  "url": "https://www.eventbrite.com/e/poetry-night-tickets-1995717608089",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "18:30",
+  "description": "A relaxed evening of open mic hosted by award-winning poet and facilitator, Grace Atkinson.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "EM Life Drawing} Mythic Forms: Transforming the Body Into Figures of Legend",
+  "venue": "Firepit Art Gallery and Studios CIC",
+  "url": "https://www.eventbrite.co.uk/e/em-life-drawing-mythic-forms-transforming-the-body-into-figures-of-legend-tickets-1988638532383",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "18:45",
+  "description": "We do not instruct; instead, we invite participants to share. We believe that art connects people, and sharings improve creativity!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Life, Stuck Together: The Handmade Journal Making Workshop",
+  "venue": "The Vine",
+  "url": "https://www.eventbrite.com/e/life-stuck-together-the-handmade-journal-making-workshop-tickets-1985942879613",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join us at Blooms and Evergreen and craft a one-of-a-kind handmade journal using a vibrant medley of papers and textures.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Book Launch (Acid House) Party",
+  "venue": "26 Curtain Rd",
+  "url": "https://www.eventbrite.co.uk/e/book-launch-acid-house-party-tickets-1996364467864",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Launch of the new book 'A Hitchhiker's Guide to Acid House' by cult author, Ryan Battles. Q&A with Paninaro magazine plus vinyl DJs.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Fun and Engaging Public Speaking",
+  "venue": "DoubleTree by Hilton London Kensington",
+  "url": "https://www.eventbrite.co.uk/e/fun-and-engaging-public-speaking-tickets-1990343817938",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Make 2026 the Year You Transform Your Speaking Skills! with London Corinthians - Club with the buzz with currently areas best speakers!!!!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Around the Table x Lilac: Supper Club",
+  "venue": "Lilac Eatery and Coffee House",
+  "url": "https://www.eventbrite.com/e/around-the-table-x-lilac-supper-club-tickets-1997569875270",
+  "source": "Eventbrite",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Three seasonal courses, with a speaker between each one. A supper club on food and sustainability, at Lilac in Kentish Town.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1772,7 +2956,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1788,7 +2972,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1804,7 +2988,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1820,7 +3004,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "United Kingdom",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1836,7 +3020,103 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "'Write A Complete Story' Creative Writing Workshop - London Bridge SE1",
+  "venue": "John Harvard Library, Borough",
+  "url": "https://www.eventbrite.co.uk/e/write-a-complete-story-creative-writing-workshop-london-bridge-se1-tickets-1996594797787",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "09:30",
+  "description": "A fun, exciting, inspiring workshop that focuses on bringing all the key elements together to write a wonderful story.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Empire and Legacy: Colonisation, Decolonisation and the Politics of Memory",
+  "venue": "Mahatma Gandhi statue",
+  "url": "https://www.eventbrite.co.uk/e/empire-and-legacy-colonisation-decolonisation-and-the-politics-of-memory-tickets-1992914954276",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "11:00",
+  "description": "This alternative tour tells the story of colonisation, decolonisation and the legacy of the British Empire through statues and monuments.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Poetry Open Mic Night at Culture House",
+  "venue": "Culture House",
+  "url": "https://www.eventbrite.co.uk/e/poetry-open-mic-night-at-culture-house-tickets-1995467379649",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "18:00",
+  "description": "This event offers a platform for people to share their art, stories, and heritage through poetry and spoken word.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Movers & Shakers: VCs, Angel Investors & Startups in London",
+  "venue": "Devonshire Terrace",
+  "url": "https://www.eventbrite.co.uk/e/movers-shakers-vcs-angel-investors-startups-in-london-tickets-1994418325901",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "18:10",
+  "description": "Mix and mingle for a chill evening of networking, laughs, and fresh business vibes.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event: Art, Fashion & Entertainment Professionals in London",
+  "venue": "Devonshire Terrace",
+  "url": "https://www.eventbrite.co.uk/e/networking-event-art-fashion-entertainment-professionals-in-london-tickets-1994413988929",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Get ready to mix and mingle with the coolest crowd of entertainment pros..",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Supper at Scarlett's - August supper club",
+  "venue": "8 Culford Mews",
+  "url": "https://www.eventbrite.co.uk/e/supper-at-scarletts-august-supper-club-tickets-1996121928422",
+  "source": "Eventbrite",
+  "start_date": "2026-08-28",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Inspired by the restaurants I grew up going to in the south of France, this set menu supper club will feed your mind & soul x",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1852,7 +3132,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1868,7 +3148,71 @@
   "lens": "Openings",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "PageMasters Zine Fair 2026 @ South London Gallery",
+  "venue": "South London Gallery",
+  "url": "https://www.eventbrite.co.uk/e/pagemasters-zine-fair-2026-south-london-gallery-tickets-1995676837142",
+  "source": "Eventbrite",
+  "start_date": "2026-08-29",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Pagemasters Zine Fair turns 10! Join us at South London Gallery with 40+ publishers tables and 40 new titles on the communal table!",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Art For The Sake Of Art",
+  "venue": "Rift Studios",
+  "url": "https://www.eventbrite.co.uk/e/art-for-the-sake-of-art-tickets-1995490470715",
+  "source": "Eventbrite",
+  "start_date": "2026-08-29",
+  "end_date": null,
+  "time": "14:00",
+  "description": "\u200bNurture your mental well-being and freely explore your creativity. Join an open art session to express yourself with provided materials.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Creative writing workshop: Writing with nature",
+  "venue": "Good Shepherd Studios",
+  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-nature-tickets-1993763749044",
+  "source": "Eventbrite",
+  "start_date": "2026-08-29",
+  "end_date": null,
+  "time": "14:00",
+  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Chronicles of Hopeful Hearts - Book Launch",
+  "venue": "Calvary Charismatic Baptist Church, Poplar",
+  "url": "https://www.eventbrite.co.uk/e/chronicles-of-hopeful-hearts-book-launch-tickets-1992957648977",
+  "source": "Eventbrite",
+  "start_date": "2026-08-29",
+  "end_date": null,
+  "time": "17:45",
+  "description": "A celebration of faith, community, and the power of hope.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1884,7 +3228,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1900,7 +3244,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1916,7 +3260,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1932,7 +3276,23 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Badge Cafe",
+  "venue": "Rich Mix",
+  "url": "https://richmix.org.uk/take-part/badge-cafe",
+  "source": "Rich Mix",
+  "start_date": "2026-08-30",
+  "end_date": null,
+  "time": "",
+  "description": "",
+  "category": "Other",
+  "lens": "Other",
+  "is_free": false,
+  "area": "Shoreditch",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1948,7 +3308,39 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Crystal Jewellery Making Workshop",
+  "venue": "Mandala Caf\u00e9 Bethnal Green",
+  "url": "https://www.eventbrite.co.uk/e/crystal-jewellery-making-workshop-tickets-1991357979322",
+  "source": "Eventbrite",
+  "start_date": "2026-08-30",
+  "end_date": null,
+  "time": "12:00",
+  "description": "Come join us for a fun and creative workshop where you'll learn how to make your own beautiful crystal jewellery!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Dear Young Minister | Book Launch with Prophet Jeremiah Babatunde",
+  "venue": "World Harvest Christian Centre",
+  "url": "https://www.eventbrite.co.uk/e/dear-young-minister-book-launch-with-prophet-jeremiah-babatunde-tickets-1996329347819",
+  "source": "Eventbrite",
+  "start_date": "2026-08-30",
+  "end_date": null,
+  "time": "17:00",
+  "description": "Dear Young Minister book launch by Prophet Jeremiah Babatunde. Sun 30 Aug 2026, 5pm, World Harvest Christian Centre, London.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1964,7 +3356,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1980,7 +3372,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -1996,7 +3388,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2012,7 +3404,39 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Commemoration and Disability Creative Workshop: Mosaics",
+  "venue": "Fitzrovia Chapel",
+  "url": "https://www.eventbrite.co.uk/e/commemoration-and-disability-creative-workshop-mosaics-tickets-1993847000050",
+  "source": "Eventbrite",
+  "start_date": "2026-09-01",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A creative mosaic workshop for disabled adults inspired by the history and architecture of the Fitzrovia Chapel",
+  "category": "Community & Culture",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Conspiracy Balloon Debate - Victoria Debates",
+  "venue": "BAM Karaoke Box | Victoria",
+  "url": "https://www.eventbrite.co.uk/e/the-conspiracy-balloon-debate-victoria-debates-tickets-1996827059488",
+  "source": "Eventbrite",
+  "start_date": "2026-09-01",
+  "end_date": null,
+  "time": "18:30",
+  "description": "A debate free for all as you vote reality TV style for the most entertaining conspiracies.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2028,7 +3452,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2044,7 +3468,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2060,7 +3484,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2076,7 +3500,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "Hackney",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2092,7 +3516,7 @@
   "lens": "Workshops",
   "is_free": true,
   "area": "Strand",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2108,7 +3532,71 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "September - F2F London People Analytics Meetup",
+  "venue": "TBC",
+  "url": "https://www.eventbrite.co.uk/e/september-f2f-london-people-analytics-meetup-tickets-1981574116525",
+  "source": "Eventbrite",
+  "start_date": "2026-09-02",
+  "end_date": null,
+  "time": "17:30",
+  "description": "Join our next People Analytics London Meetup! It'll be a casual event, with lots of time for networking and talking about work projects.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The London Startup Meetup 2026",
+  "venue": "Big Chill King's Cross",
+  "url": "https://www.eventbrite.ie/e/the-london-startup-meetup-2026-tickets-1988409148289",
+  "source": "Eventbrite",
+  "start_date": "2026-09-02",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Meet peers in the London startup ecosystem and make new connections!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Marketing, Advertising, PR Networking Mixer",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/marketing-advertising-pr-networking-mixer-tickets-1996975981919",
+  "source": "Eventbrite",
+  "start_date": "2026-09-02",
+  "end_date": null,
+  "time": "18:20",
+  "description": "Mix, mingle, and swap your best marketing hacks with fellow pros in a chill, no-pressure setting.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Vitality Collective: Startup Funding, VCs, Angels & Founders",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/the-vitality-collective-startup-funding-vcs-angels-founders-tickets-1996606715433",
+  "source": "Eventbrite",
+  "start_date": "2026-09-02",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Meet founders, VCs, and angels ready to share startup funding tips and stories in a chill, no-fluff setting.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2124,7 +3612,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2140,7 +3628,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Greenwich",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2156,7 +3644,87 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Strand",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking and Freelancing: Essential Skills for the Creative Industries",
+  "venue": "Docklands campus Royal Docks Centre for Sustainability",
+  "url": "https://www.eventbrite.co.uk/e/networking-and-freelancing-essential-skills-for-the-creative-industries-tickets-1995981235606",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "13:00",
+  "description": "Networking and Freelancing: Essential Skills for the Creative Industries with award-winning freelance Creative Producer Ade Bamgbala",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Interior Design and Architecture Networking Event",
+  "venue": "HOUSE OF ESTILA",
+  "url": "https://www.eventbrite.co.uk/e/interior-design-and-architecture-networking-event-tickets-1997060964103",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "19:00",
+  "description": "PEL Network helps you connect with the right people at luxurious locations. So you can boost your business ten fold.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Book Launch: Big Man by Dean Atta",
+  "venue": "Hackney Central Library",
+  "url": "https://www.eventbrite.co.uk/e/book-launch-big-man-by-dean-atta-tickets-1991691830881",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join award-winning author Dean Atta for the launch of his debut adult novel, Big Man.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Free Mind - Spoken Word",
+  "venue": "13 Bradbury St",
+  "url": "https://www.eventbrite.co.uk/e/free-mind-spoken-word-tickets-1993023992412",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Let your thoughts run wild and your words flow free at this chill spoken word night.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Francis Fukuyama on the New World Order",
+  "venue": "Union Chapel",
+  "url": "https://www.eventbrite.co.uk/e/francis-fukuyama-on-the-new-world-order-tickets-1984974413906",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Francis Fukuyama on the New World Order",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2172,7 +3740,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2188,7 +3756,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2204,7 +3772,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2220,7 +3788,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2236,7 +3804,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2252,7 +3820,39 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Soho",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Beauty, Bites, Bubbles by www.Unrushd.com  (\u00a3100 complimentary gift bag)",
+  "venue": "Private residence garden - Close to Regents park",
+  "url": "https://www.eventbrite.co.uk/e/beauty-bites-bubbles-by-wwwunrushdcom-100-complimentary-gift-bag-tickets-1994658290642",
+  "source": "Eventbrite",
+  "start_date": "2026-09-04",
+  "end_date": null,
+  "time": "17:30",
+  "description": "Thoughtfully curated wellness event with seasonal food, bottomless  drinks, meaningful connections and a \u00a3100+ luxury gift bag (ladies only)",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "A People's History of London - Book Launch",
+  "venue": "St Annes Soho",
+  "url": "https://www.eventbrite.co.uk/e/a-peoples-history-of-london-book-launch-tickets-1996369731608",
+  "source": "Eventbrite",
+  "start_date": "2026-09-04",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Launch for the Second Edition of A People's History of London",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2268,7 +3868,71 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Who Knows Where the Time Goes?  A Reflective Saturday Writing Workshop",
+  "venue": "Rampayne Street",
+  "url": "https://www.eventbrite.co.uk/e/who-knows-where-the-time-goes-a-reflective-saturday-writing-workshop-tickets-1995062901845",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "10:00",
+  "description": "A day of reflection to help you slow down, gain clarity and reconnect with what matters most.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Qi Gong  & Tea  with Matter Wellness",
+  "venue": "Loom Club",
+  "url": "https://www.eventbrite.co.uk/e/qi-gong-tea-with-matter-wellness-tickets-1991267550848",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Chill out and recharge with Matter Wellness this Saturday \u2013 slow vibes, good energy, and you time.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Writing the Seen:  Ekphrastic Poetry Workshop & Performance",
+  "venue": "Bagri Foundation",
+  "url": "https://www.eventbrite.co.uk/e/writing-the-seen-ekphrastic-poetry-workshop-performance-tickets-1997019503092",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Join Karenjit Sandhu for a 2-hour poetry writing workshop exploring ekphrasis, a literary form that responds to a work of art.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Move and Sketch at  Nunnery Gallery",
+  "venue": "Nunnery Gallery",
+  "url": "https://www.eventbrite.co.uk/e/move-and-sketch-at-nunnery-gallery-tickets-1993496822660",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "12:00",
+  "description": "A walk in a group environment at Nunnery Gallery, exploring the new exhibition from Knitting the Air learning about air quality in London.",
+  "category": "Health & Wellness",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2284,7 +3948,119 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London WC1V 6NX",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Wax Melts Making Workshop",
+  "venue": "Cricklewood Library and Community Cafe",
+  "url": "https://www.eventbrite.co.uk/e/wax-melts-making-workshop-tickets-1994422743113",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "13:30",
+  "description": "Get creative  making your own beautifully scented wax melts.",
+  "category": "Home & Lifestyle",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "How\u2019s Home - the book launch road trip",
+  "venue": "The Old Street Gallery",
+  "url": "https://www.eventbrite.co.uk/e/hows-home-the-book-launch-road-trip-tickets-1995529971864",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "15:00",
+  "description": "What happens to our essence when life happens? When the health issue shows up?  The divorce? The heart break? The loss? Or even success?",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "RSVP - Launch Supper Club",
+  "venue": "E16 1DP",
+  "url": "https://www.eventbrite.co.uk/e/rsvp-launch-supper-club-registration-1992913295314",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us for the Inaugural RSVP Supper Club",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Tom's Supper Club @ Palm2springs",
+  "venue": "Palm 2",
+  "url": "https://www.eventbrite.com/e/toms-supper-club-palm2springs-tickets-1992306696962",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Hey! Come down for some lovely french fare. BYOB, little stubbies of french lager will be provided.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Bufo Bufo Summer Supper Club",
+  "venue": "Dovedales Bakery",
+  "url": "https://www.eventbrite.co.uk/e/bufo-bufo-summer-supper-club-tickets-1996651959760",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "19:00",
+  "description": "An evening of seasonal food and friends",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "MI Story: Held At The Table",
+  "venue": "South London Louie",
+  "url": "https://www.eventbrite.co.uk/e/mi-story-held-at-the-table-tickets-1990521088158",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Held at the Table is an intimate supper club experience created for bereaved parents \u2014 a gentle space for comfort and shared understanding.",
+  "category": "Food & Drink",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "LGBTQ+ Meetup",
+  "venue": "The London Art Bar",
+  "url": "https://www.eventbrite.co.uk/e/lgbtq-meetup-tickets-1997459154100",
+  "source": "Eventbrite",
+  "start_date": "2026-09-05",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Meet more LGBTQ+ people at this friendly meetup",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2300,7 +4076,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2316,7 +4092,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2332,7 +4108,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London  SE21 7AD",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2348,7 +4124,39 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Hot Takes Presentation Night",
+  "venue": "Prince of Peckham Pub",
+  "url": "https://www.eventbrite.co.uk/e/hot-takes-presentation-night-tickets-1997271491797",
+  "source": "Eventbrite",
+  "start_date": "2026-09-06",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us for our Hot Takes Presentation Night! An evening of bold opinions  laughs, friendly debates, and great company!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Draft #6 - Scratch Night at The Space",
+  "venue": "The Space",
+  "url": "https://www.eventbrite.com/e/draft-6-scratch-night-at-the-space-tickets-1997257813886",
+  "source": "Eventbrite",
+  "start_date": "2026-09-06",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Come join us at Draft - Scratch Night at The Space for a fun evening of raw, unfiltered talent and creativity!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2364,7 +4172,71 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "AI Tools for Employability & Modern Work",
+  "venue": "Hanwell Community Centre",
+  "url": "https://www.eventbrite.co.uk/e/ai-tools-for-employability-modern-work-tickets-1996099925611",
+  "source": "Eventbrite",
+  "start_date": "2026-09-07",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Use AI tools to strengthen your CV, applications, and interview prep \u2014 while keeping data safe and staying in control.\nLevel: beginner \u00b7 Ideal for: Adults returning to work or changing careers\n8-week ",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Networking Event:Tech Founders, AI, Intelligent Systems for Startups & Pros",
+  "venue": "The Anthologist",
+  "url": "https://www.eventbrite.co.uk/e/networking-eventtech-founders-ai-intelligent-systems-for-startups-pros-tickets-1996433623711",
+  "source": "Eventbrite",
+  "start_date": "2026-09-07",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Chill with tech founders and AI pros while swapping startup stories and smart ideas in a laid-back vibe.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "An introduction to quantum theory 2026 (short course)",
+  "venue": "The Royal Institution of Great Britain",
+  "url": "https://www.eventbrite.co.uk/e/an-introduction-to-quantum-theory-2026-short-course-tickets-1993905840042",
+  "source": "Eventbrite",
+  "start_date": "2026-09-07",
+  "end_date": null,
+  "time": "19:00",
+  "description": "James Millen returns with a 6-part introduction to the world of quantum theory",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Luke Harding and Alastair Campbell: Trump, Putin and A New Age of Conquest",
+  "venue": "King's Place",
+  "url": "https://www.eventbrite.co.uk/e/luke-harding-and-alastair-campbell-trump-putin-and-a-new-age-of-conquest-tickets-1994291977991",
+  "source": "Eventbrite",
+  "start_date": "2026-09-07",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Luke Harding and Alastair Campbell: Trump, Putin and the New Age of Conquest",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2380,7 +4252,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2396,7 +4268,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2412,7 +4284,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2428,7 +4300,71 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Chalk & Talk: The Intelligent Hirer Live",
+  "venue": "Poolhouse",
+  "url": "https://www.eventbrite.com/e/chalk-talk-the-intelligent-hirer-live-tickets-1992053881785",
+  "source": "Eventbrite",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Strategic thinking for the modern recruiter. Join 100+ HR and talent leaders for a day of insight, discussion and networking.",
+  "category": "Business & Professional",
+  "lens": "Talks",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "History Makers  at the National Portrait Gallery",
+  "venue": "National Portrait Gallery",
+  "url": "https://www.eventbrite.co.uk/e/history-makers-at-the-national-portrait-gallery-tickets-1997328138228",
+  "source": "Eventbrite",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "time": "16:00",
+  "description": "From the Tudors to the Suffragettes, hear tales from behind the portraits from regicide,  gothic horror to the dark deeds of empire.",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Introduction to Pottery",
+  "venue": "The Paxton Centre",
+  "url": "https://www.eventbrite.co.uk/e/introduction-to-pottery-tickets-1987119600216",
+  "source": "Eventbrite",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Come and create with clay the most tactile craft!",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Wealth Tax Debate: Laffer vs Bastani",
+  "venue": "Westminster",
+  "url": "https://www.eventbrite.co.uk/e/wealth-tax-debate-laffer-vs-bastani-tickets-1996615614049",
+  "source": "Eventbrite",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join us for a live edition of Reality Check to debate whether the UK should adopt a wealth tax.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2444,7 +4380,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2460,7 +4396,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2476,7 +4412,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2492,7 +4428,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2508,7 +4444,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2524,7 +4460,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2540,7 +4476,87 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Taster session for The Creative Writing Programme in London Bridge",
+  "venue": "John Harvard Library, Borough",
+  "url": "https://www.eventbrite.co.uk/e/taster-session-for-the-creative-writing-programme-in-london-bridge-tickets-1983078952530",
+  "source": "Eventbrite",
+  "start_date": "2026-09-09",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Join us for a practical writing workshop and find out more about our course and our innovative approach to teaching creative writing.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startup Founders Meetup I London",
+  "venue": "Sindercombe Social",
+  "url": "https://www.eventbrite.com/e/startup-founders-meetup-i-london-tickets-1995075502534",
+  "source": "Eventbrite",
+  "start_date": "2026-09-09",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A curated room for AI and Tech founders, investors, and professionals.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Rita Hinden Memorial Lecture: Yuan Yang MP",
+  "venue": "City St George's, University of London",
+  "url": "https://www.eventbrite.com/e/rita-hinden-memorial-lecture-yuan-yang-mp-tickets-1997555262563",
+  "source": "Eventbrite",
+  "start_date": "2026-09-09",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Yuan Yang MP delivers the second annual Rita Hinden Memorial Lecture, organised by Renewal: A Journal of Social Democracy",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Yarn Play with Nicola J Reid - September 2026",
+  "venue": "Firepit",
+  "url": "https://www.eventbrite.co.uk/e/yarn-play-with-nicola-j-reid-september-2026-tickets-1996465698648",
+  "source": "Eventbrite",
+  "start_date": "2026-09-09",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Unleash your creativity and have some fun by using recycled yarn & sustainable materials to create accessories.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Decolonise The Curriculum? - Whitechapel Debates",
+  "venue": "White Hart",
+  "url": "https://www.eventbrite.co.uk/e/decolonise-the-curriculum-whitechapel-debates-tickets-1996833854813",
+  "source": "Eventbrite",
+  "start_date": "2026-09-09",
+  "end_date": null,
+  "time": "19:00",
+  "description": "This House Would Prioritise Schools Teaching British Colonialism Over Domestic History",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2556,7 +4572,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Brixton",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2572,7 +4588,87 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "AI Builders Monthly London",
+  "venue": "beyond The Bower",
+  "url": "https://www.eventbrite.com/e/ai-builders-monthly-london-tickets-1993837667135",
+  "source": "Eventbrite",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "time": "18:00",
+  "description": "London's AI builders gather to demo cutting-edge tools like OpenClaw, Claude Code, and RAG, with hands-on tech and deep dives into AI agent\u2026",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "AI Builders Monthly London - Sep 10",
+  "venue": "beyond The Bower",
+  "url": "https://www.eventbrite.com/e/ai-builders-monthly-london-sep-10-tickets-1995321621683",
+  "source": "Eventbrite",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "time": "18:00",
+  "description": "London's top AI devs and builders demo OpenClaw, Claude Code, RAG, and agents in hands-on monthly speed shows and talks.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Store Cupboard Supper Club",
+  "venue": "Food & Drink Studio, 3rd Floor, Fortnum & Mason",
+  "url": "https://www.eventbrite.co.uk/e/store-cupboard-supper-club-tickets-1996788398853",
+  "source": "Eventbrite",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "time": "18:30",
+  "description": "A dinner celebrating the untapped potential of preserved ingredients.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "More Homes, Better Places - designing place-led intensification",
+  "venue": "Temple Bar",
+  "url": "https://www.eventbrite.co.uk/e/more-homes-better-places-designing-place-led-intensification-tickets-1993437214370",
+  "source": "Eventbrite",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "time": "18:30",
+  "description": "How the intensification of housing through retrofit, infill and neighbourhood design can best support people, place and planet.",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Da Poetry Jam",
+  "venue": "Soul Mama Music Venue | Restaurant",
+  "url": "https://www.eventbrite.co.uk/e/da-poetry-jam-tickets-1987603548719",
+  "source": "Eventbrite",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Da Poetry Jam \nGet ready for a soul-stirring night of spoken word, rhythm and raw emotion at Da Poetry Jam.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2588,7 +4684,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2604,7 +4700,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Soho",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2620,7 +4716,71 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Tea, Memory & Poetry: A Creative Writing Workshop",
+  "venue": "Newby Teas Boutique - By Appointment Only",
+  "url": "https://www.eventbrite.com/e/tea-memory-poetry-a-creative-writing-workshop-tickets-1997004194303",
+  "source": "Eventbrite",
+  "start_date": "2026-09-11",
+  "end_date": null,
+  "time": "14:00",
+  "description": "Join us for a reflective afternoon of tea, poetry and museum objects at the Chitra Collection.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "LadyRella Book Launch",
+  "venue": "The Peckham Pelican",
+  "url": "https://www.eventbrite.com/e/ladyrella-book-launch-tickets-1979017406336",
+  "source": "Eventbrite",
+  "start_date": "2026-09-11",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us online for the LadyRella Book Launch\u2014discover magic, mystery, and a story like no other!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Deb8Ldn x ACLT @ The Old Street Gallery",
+  "venue": "The Old Street Gallery",
+  "url": "https://www.eventbrite.co.uk/e/deb8ldn-x-aclt-the-old-street-gallery-tickets-1989964371002",
+  "source": "Eventbrite",
+  "start_date": "2026-09-11",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Building community and connection through meaningful conversations!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Is Islam Compatible With The West?",
+  "venue": "Emmanuel Centre",
+  "url": "https://www.eventbrite.co.uk/e/is-islam-compatible-with-the-west-tickets-1991184889606",
+  "source": "Eventbrite",
+  "start_date": "2026-09-11",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Two live debates, one night: Nawaz vs Ibrahim on Islam and the West, plus Winston Marshall vs Xavier Soylash.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2636,7 +4796,7 @@
   "lens": "Social",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2652,7 +4812,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2668,7 +4828,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2684,7 +4844,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2700,7 +4860,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2716,7 +4876,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Camp Parliament for Youth London 2026",
+  "venue": "25 N Row",
+  "url": "https://www.eventbrite.com/e/camp-parliament-for-youth-london-2026-tickets-1994802715621",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "08:00",
+  "description": "Camp Parliament for Youth London 2026 introduces girls and boys to the UK government including standing for office & serving in Parliament.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2732,7 +4908,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2748,7 +4924,103 @@
   "lens": "Social",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "DIY  Art Market",
+  "venue": "Copeland Park & Bussey Building",
+  "url": "https://www.eventbrite.co.uk/e/diy-art-market-tickets-1963100955804",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "11:00",
+  "description": "London's go-to-destination to pick up artwork on a budget, whilst supporting emerging talent.",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Word Space & Waterstones: Poetry Writing Workshop",
+  "venue": "Waterstones",
+  "url": "https://www.eventbrite.co.uk/e/word-space-waterstones-poetry-writing-workshop-tickets-1996327585548",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "12:00",
+  "description": "poetry workshop for improving skills - feedback, readings, constructive critique, digging deep into your words, meeting creative friends",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Yogasana and Philosophy half day workshop with Bibi Fabiola",
+  "venue": "Yonder Indoor Climbing Gym",
+  "url": "https://www.eventbrite.co.uk/e/yogasana-and-philosophy-half-day-workshop-with-bibi-fabiola-tickets-1993470827909",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "13:30",
+  "description": "A half day workshop understanding the deeper layers of yoga within yoga philosophy & how we can apply these principles into our daily lives",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Alma Nine Elms Supper Club",
+  "venue": "Alma Nine Elms",
+  "url": "https://www.eventbrite.com/e/alma-nine-elms-supper-club-tickets-1994696836935",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join our Supper Club for a set dinner menu,,  a welcoming local community and a memorable evening in Nine Elms.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Altar of Azitsi Official Book Launch",
+  "venue": "Putney Public Library",
+  "url": "https://www.eventbrite.co.uk/e/the-altar-of-azitsi-official-book-launch-tickets-1996226104014",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Celebrate the launch of The Altar of Azitsi with an evening of readings and signed copies of Eleana Assima\u2019s debut romantasy.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Scatty Chefs X Cowboy Chefs -  A Supper Club in aid of FoodCycle.",
+  "venue": "Brockwell Park Community Greenhouses",
+  "url": "https://www.eventbrite.com/e/scatty-chefs-x-cowboy-chefs-a-supper-club-in-aid-of-foodcycle-tickets-1984707681101",
+  "source": "Eventbrite",
+  "start_date": "2026-09-12",
+  "end_date": null,
+  "time": "18:30",
+  "description": "A one-night-only supper club in a botanical setting - delicious food, drinks and 10/10 vibes; with all proceeds going to FoodCycle.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2764,7 +5036,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2780,7 +5052,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2796,7 +5068,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2812,7 +5084,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2828,7 +5100,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2844,7 +5116,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Independent Ceramics Market",
+  "venue": "Copeland Park",
+  "url": "https://www.eventbrite.co.uk/e/independent-ceramics-market-tickets-1963128509217",
+  "source": "Eventbrite",
+  "start_date": "2026-09-13",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Thrown, baked, & glazed!",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2860,7 +5148,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2876,7 +5164,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2892,7 +5180,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2908,7 +5196,23 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Book Launch: Eternal Gravity",
+  "venue": "Libreria Bookshop",
+  "url": "https://www.eventbrite.co.nz/e/book-launch-eternal-gravity-tickets-1984197245374",
+  "source": "Eventbrite",
+  "start_date": "2026-09-14",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us to celebrate the launch of \"Eternal Gravity\" \u2013 where love, physics and destiny collide.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2924,7 +5228,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2940,7 +5244,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2956,7 +5260,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Soho",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2972,7 +5276,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -2988,7 +5292,87 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Designing What Comes Next: Hope, Growth & Change in the UK\u2019s Design Economy",
+  "venue": "133-135 Bethnal Grn Rd",
+  "url": "https://www.eventbrite.co.uk/e/designing-what-comes-next-hope-growth-change-in-the-uks-design-economy-tickets-1995669606515",
+  "source": "Eventbrite",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Join us in person to explore fresh ideas shaping hope, growth, and change in the UK\u2019s Design Economy.",
+  "category": "Business & Professional",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Future is Served - South Asian Re-Mixed Supper Club",
+  "venue": "Stanley's Rooftop Bar",
+  "url": "https://www.eventbrite.com/e/the-future-is-served-south-asian-re-mixed-supper-club-tickets-1988546932405",
+  "source": "Eventbrite",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "time": "17:00",
+  "description": "An intimate and exclusive supper club in a unique setting with The Meals Collective. Powered by Urban Rajah - NIQ Million Club 2026.",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Spectre of Pep Guardiola - book launch with Jon Mackenzie",
+  "venue": "The Blue Monk",
+  "url": "https://www.eventbrite.co.uk/e/the-spectre-of-pep-guardiola-book-launch-with-jon-mackenzie-tickets-1990115339553",
+  "source": "Eventbrite",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Exploring the evolution of modern football tactics through the prism of the greatest manager of the last 20 years: Pep Guardiola",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startups, Entrepreneurship & Innovation Networking for Founders & Pro",
+  "venue": "Sycamore Covent Garden",
+  "url": "https://www.eventbrite.co.uk/e/startups-entrepreneurship-innovation-networking-for-founders-pro-tickets-1995330912472",
+  "source": "Eventbrite",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The ultimate networking night in central London.\nConnect with entrepreneurs, investors, creatives, and industry leaders driving change.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Are \u201cInfluencers\u201d Really Good For You? - Victoria Debates",
+  "venue": "BAM Karaoke Box | Victoria",
+  "url": "https://www.eventbrite.co.uk/e/are-influencers-really-good-for-you-victoria-debates-tickets-1996837298112",
+  "source": "Eventbrite",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "time": "18:30",
+  "description": "This House Regrets \u201cInfluencers\u201d",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3004,7 +5388,7 @@
   "lens": "Other",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3020,7 +5404,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Covent Garden",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3036,7 +5420,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3052,7 +5436,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3068,7 +5452,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3084,7 +5468,55 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Voices of Justice:Transforming Communication in Policing & Criminal Justice",
+  "venue": "The British Academy",
+  "url": "https://www.eventbrite.co.uk/e/voices-of-justicetransforming-communication-in-policing-criminal-justice-tickets-1981861448944",
+  "source": "Eventbrite",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "time": "09:45",
+  "description": "Hybrid conference uniting researchers and practitioners to improve policing and criminal justice through better communication and trust.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Politics and Business Networking | Elevating Your Potential - London",
+  "venue": "The Lucky Pig Cocktail Bar",
+  "url": "https://www.eventbrite.com/e/politics-and-business-networking-elevating-your-potential-london-tickets-1995477651372",
+  "source": "Eventbrite",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Strive welcomes you to 'Politics and Business Networking', an event for tenured and newcomers at Lucky Pig! Event is 18+. Limited Tickets.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "SMALL TALKS: a London social",
+  "venue": "The Tokenhouse, Moorgate",
+  "url": "https://www.eventbrite.co.uk/e/small-talks-a-london-social-tickets-1994685722692",
+  "source": "Eventbrite",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Short talks. Guaranteed conversation.",
+  "category": "Community & Culture",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3100,7 +5532,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3116,7 +5548,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3132,7 +5564,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Strand",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3148,7 +5580,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3164,7 +5596,71 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Soho",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Screenprinting Poster Workshop - Print Club Soda",
+  "venue": "Pigment Press",
+  "url": "https://www.eventbrite.co.uk/e/screenprinting-poster-workshop-print-club-soda-tickets-1992774744906",
+  "source": "Eventbrite",
+  "start_date": "2026-09-17",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us at Pigment Press for a fun and creative screen printing workshop in collaboration with the Hawks Nest.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "MAIN London - AI and Automation Networking event",
+  "venue": "The Moniker",
+  "url": "https://www.eventbrite.co.uk/e/main-london-ai-and-automation-networking-event-tickets-1984455973236",
+  "source": "Eventbrite",
+  "start_date": "2026-09-17",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us in London for a fun in-person meet-up all about AI and automation!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Soul Compositions 2nd Birthday : A Spoken Word / Poetry Open Mic Night",
+  "venue": "Thingy Cafe",
+  "url": "https://www.eventbrite.co.uk/e/soul-compositions-2nd-birthday-a-spoken-word-poetry-open-mic-night-tickets-1997558392926",
+  "source": "Eventbrite",
+  "start_date": "2026-09-17",
+  "end_date": null,
+  "time": "18:45",
+  "description": "Welcome to Soul Compositions, a new spoken word open mic night, where the beauty of language meets the rhythm of the heart.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Convergence of the Arts 2026: Poetry x Film",
+  "venue": "ArtHouse Crouch End",
+  "url": "https://www.eventbrite.co.uk/e/convergence-of-the-arts-2026-poetry-x-film-tickets-1991806643288",
+  "source": "Eventbrite",
+  "start_date": "2026-09-17",
+  "end_date": null,
+  "time": "20:30",
+  "description": "We're wrapping up this year's edition of Convergence of the Arts fundraisers with a Poetry & Film Night! Come vibe and help create change!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3180,7 +5676,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3196,7 +5692,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3212,7 +5708,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3228,7 +5724,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3244,7 +5740,71 @@
   "lens": "Social",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Global Menopause and Cancer Conference 2026",
+  "venue": "Lloyd's Register",
+  "url": "https://www.eventbrite.co.uk/e/global-menopause-and-cancer-conference-2026-tickets-1993596757568",
+  "source": "Eventbrite",
+  "start_date": "2026-09-18",
+  "end_date": null,
+  "time": "09:30",
+  "description": "\u201cA place where healthcare professionals can openly discuss the questions that don't yet have perfect answers.\u201d",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "SBID Industry Day 2026",
+  "venue": "The Cumberland Hotel, London",
+  "url": "https://www.eventbrite.co.uk/e/sbid-industry-day-2026-tickets-1981936818376",
+  "source": "Eventbrite",
+  "start_date": "2026-09-18",
+  "end_date": null,
+  "time": "10:00",
+  "description": "Professional industry networking event hosting exclusive B2B engagement opportunities, exhibition & Talks programme for interior designers.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Home Design Talk: The Inspiration Behind Our Chelsea Art Festival Stage",
+  "venue": "Peter Jones & Partners",
+  "url": "https://www.eventbrite.co.uk/e/home-design-talk-the-inspiration-behind-our-chelsea-art-festival-stage-tickets-1997460312565",
+  "source": "Eventbrite",
+  "start_date": "2026-09-18",
+  "end_date": null,
+  "time": "14:00",
+  "description": "Discover the artistic inspiration behind our Chelsea Art Festival stage designs.",
+  "category": "Home & Lifestyle",
+  "lens": "Talks",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "THE GREEN SOCIALIST: Zack Polanski, Russell Warfield and Ava Evans",
+  "venue": "Foyles",
+  "url": "https://www.eventbrite.co.uk/e/the-green-socialist-zack-polanski-russell-warfield-and-ava-evans-tickets-1995666740944",
+  "source": "Eventbrite",
+  "start_date": "2026-09-18",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Russell Warfield, Zack Polanski and Ava Evans visit Foyles to celebrate the publication of 'The Green Socialist'",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3260,7 +5820,71 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Sitting in the Fire of Conflict.  A Reflective Saturday Writing Workshop",
+  "venue": "Rampayne Street",
+  "url": "https://www.eventbrite.co.uk/e/sitting-in-the-fire-of-conflict-a-reflective-saturday-writing-workshop-tickets-1995064242856",
+  "source": "Eventbrite",
+  "start_date": "2026-09-19",
+  "end_date": null,
+  "time": "10:00",
+  "description": "A day of reflection exploring conflict, communication and authentic connection.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Amplify Her Writing Workshop",
+  "venue": "The Ministry, Borough | Workspace & Members' Club | South London",
+  "url": "https://www.eventbrite.com/e/amplify-her-writing-workshop-tickets-1992213051867",
+  "source": "Eventbrite",
+  "start_date": "2026-09-19",
+  "end_date": null,
+  "time": "11:00",
+  "description": "Amplify Her is a thriving community committed to empowering women in the music industry through live events.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Intergenerational Meetup",
+  "venue": "London LGBTQ+ Community Centre",
+  "url": "https://www.eventbrite.co.uk/e/intergenerational-meetup-tickets-1990315200342",
+  "source": "Eventbrite",
+  "start_date": "2026-09-19",
+  "end_date": null,
+  "time": "15:30",
+  "description": "A space for LGBTQ+ folks of different generations to meet.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Private Healthcare Networking Event",
+  "venue": "Grind at the National Theatre",
+  "url": "https://www.eventbrite.co.uk/e/private-healthcare-networking-event-tickets-1987323470999",
+  "source": "Eventbrite",
+  "start_date": "2026-09-19",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join a healthcare networking event for professionals in private healthcare to connect, collaborate, and grow your professional network.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3276,7 +5900,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3292,7 +5916,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3308,7 +5932,23 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London Fashion Week Networking event",
+  "venue": "DoubleTree by Hilton London Kensington",
+  "url": "https://www.eventbrite.co.uk/e/london-fashion-week-networking-event-tickets-1992513255785",
+  "source": "Eventbrite",
+  "start_date": "2026-09-20",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Come and join us at The Creatives networking event during London Fashion Week to network with like minded creatives.",
+  "category": "Fashion & Beauty",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3324,7 +5964,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "St Albans",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3340,7 +5980,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3356,7 +5996,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3372,7 +6012,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3388,7 +6028,55 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London Creative Network September 2026 Networking Reception At The Gherkin",
+  "venue": "The Sterling in the Gherkin",
+  "url": "https://www.eventbrite.co.uk/e/london-creative-network-september-2026-networking-reception-at-the-gherkin-tickets-1991768230394",
+  "source": "Eventbrite",
+  "start_date": "2026-09-22",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Monthly London Creatives Networking- Where Artists, Designers, Filmmakers, Writers, and Marketers Meet to Inspire, Collaborate, and Innovate",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Chess Club Drama Club - London Book Launch Event",
+  "venue": "Guildhall",
+  "url": "https://www.eventbrite.co.uk/e/chess-club-drama-club-london-book-launch-event-tickets-1986091614483",
+  "source": "Eventbrite",
+  "start_date": "2026-09-22",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us for the Chess Club Drama Club London Book Launch Event \u2013 leadership, creativity, inclusion, food, drink and Club Mix music!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Edge Debate 201: Who\u2019s Afraid of Good Research and Information?",
+  "venue": "NLA - The London Centre",
+  "url": "https://www.eventbrite.co.uk/e/edge-debate-201-whos-afraid-of-good-research-and-information-tickets-1996654979793",
+  "source": "Eventbrite",
+  "start_date": "2026-09-22",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The UK's built environment sector is a powerhouse of the economy yet has no nationwide source of trusted research information - discuss!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3404,7 +6092,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3420,7 +6108,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3436,7 +6124,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3452,7 +6140,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3468,7 +6156,87 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London Design Social",
+  "venue": "Chelsea Old Town Hall",
+  "url": "https://www.eventbrite.com/e/london-design-social-tickets-1997390051412",
+  "source": "Eventbrite",
+  "start_date": "2026-09-23",
+  "end_date": null,
+  "time": "10:00",
+  "description": "The Design Social is a curated popup created to better connect interior designers with the creatives behind the boutique brands they love.",
+  "category": "Home & Lifestyle",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "2026 Housing Design Awards - London",
+  "venue": "Tuke Hall, Regent University, Inner Circle Regents Park (behind Baker Street Tube)",
+  "url": "https://www.eventbrite.co.uk/e/2026-housing-design-awards-london-tickets-1993815138752",
+  "source": "Eventbrite",
+  "start_date": "2026-09-23",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us for a 75-minute showcase revealing this year's Housing Design Award winners through films, slides and animation.",
+  "category": "Home & Lifestyle",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Jacaranda Books Box Sets Launch Party",
+  "venue": "50 Victoria Embankment",
+  "url": "https://www.eventbrite.co.uk/e/jacaranda-books-box-sets-launch-party-tickets-1988549075816",
+  "source": "Eventbrite",
+  "start_date": "2026-09-23",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us for a special celebration as we launch the Jacaranda Books Box Sets - tickets redeemable against any box set purchase on the night!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Marketing Meetup IRL: Brixton, London",
+  "venue": "Piano House",
+  "url": "https://www.eventbrite.co.uk/e/the-marketing-meetup-irl-brixton-london-tickets-1994819334328",
+  "source": "Eventbrite",
+  "start_date": "2026-09-23",
+  "end_date": null,
+  "time": "18:00",
+  "description": "The London Marketing Meetup is an informal, friendly place to meet, learn, and share knowledge with one another. Come in 'listen' mode  :)",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Trauma to Triumph Book Launch",
+  "venue": "Soul Mama Islington",
+  "url": "https://www.eventbrite.co.uk/e/trauma-to-triumph-book-launch-tickets-1997427179463",
+  "source": "Eventbrite",
+  "start_date": "2026-09-23",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Join the official launch of Trauma to Triumph an inspiring evening of resilience, transformation and finding the strength to move forward.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3484,7 +6252,7 @@
   "lens": "Other",
   "is_free": false,
   "area": "Bloomsbury",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3500,7 +6268,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3516,7 +6284,87 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Home Design Talk: Moodboarding Masterclass",
+  "venue": "Peter Jones & Partners",
+  "url": "https://www.eventbrite.co.uk/e/home-design-talk-moodboarding-masterclass-tickets-1991551352707",
+  "source": "Eventbrite",
+  "start_date": "2026-09-24",
+  "end_date": null,
+  "time": "14:00",
+  "description": "Discover how to create the perfect interior moodboard",
+  "category": "Home & Lifestyle",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Castle Play Space: Creative writing workshop: Journeys and transformations",
+  "venue": "The Castle Play Space",
+  "url": "https://www.eventbrite.co.uk/e/castle-play-space-creative-writing-workshop-journeys-and-transformations-tickets-1995465591300",
+  "source": "Eventbrite",
+  "start_date": "2026-09-24",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A chance to nurture your creativity in a calm, supportive environment. Babies welcome!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Poetry Open Mic Night - September 2026",
+  "venue": "The Hall, Putney Public Library",
+  "url": "https://www.eventbrite.co.uk/e/poetry-open-mic-night-september-2026-tickets-1996371046541",
+  "source": "Eventbrite",
+  "start_date": "2026-09-24",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Come join us for a night of poetry at Poets in Putney - bring your own poems or just listen and enjoy the vibes!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Aesthetics of Risk: Art, Design, and the Cultural Politics of Uncertainty",
+  "venue": "Gorvy Lecture Theatre, Royal College of Art",
+  "url": "https://www.eventbrite.co.uk/e/aesthetics-of-risk-art-design-and-the-cultural-politics-of-uncertainty-tickets-1996466324520",
+  "source": "Eventbrite",
+  "start_date": "2026-09-24",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us for the book launch of Aesthetics of Risk: Art, Design, and the Cultural Politics of Uncertainty by Francesca Laura Cavallo.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Carlo Rovelli: Lessons on Physics and Philosophy",
+  "venue": "Union Chapel",
+  "url": "https://www.eventbrite.co.uk/e/carlo-rovelli-lessons-on-physics-and-philosophy-tickets-1985916273032",
+  "source": "Eventbrite",
+  "start_date": "2026-09-24",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Carlo Rovelli: Lessons on Physics and Philosophy",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3532,7 +6380,7 @@
   "lens": "Openings",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3548,7 +6396,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3564,7 +6412,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3580,7 +6428,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3596,7 +6444,87 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Stratford Creative Writing Workshop",
+  "venue": "Stratford Library",
+  "url": "https://www.eventbrite.co.uk/e/stratford-creative-writing-workshop-tickets-1993661588479",
+  "source": "Eventbrite",
+  "start_date": "2026-09-25",
+  "end_date": null,
+  "time": "17:30",
+  "description": "Discover your voice, build your confidence, and grow through creative writing.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Go\u00fbt\u00e9 Bon Supper Club: Anniversary",
+  "venue": "Enola's Kitchen",
+  "url": "https://www.eventbrite.co.uk/e/goute-bon-supper-club-anniversary-tickets-1994986170339",
+  "source": "Eventbrite",
+  "start_date": "2026-09-25",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Celebrating a whole year of hosting tantalising supper clubs! Go\u00fbt\u00e9 Bon, sa bon! Caribbean fusion food and beverages that taste fabulous!",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Paper Tiger Poetry",
+  "venue": "Tea House Theatre",
+  "url": "https://www.eventbrite.com/e/paper-tiger-poetry-tickets-1996355504053",
+  "source": "Eventbrite",
+  "start_date": "2026-09-25",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Paper Tiger Poetry \u2014 Open Mic Night!  \nFriday 25th September  \nTea House Theatre, 139 Vauxhall Walk, SE11 5HL  \nSign\u2011up from 6:30pm | \u00a35",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Building Your First GenAI Solution",
+  "venue": "Warren Centre Basement",
+  "url": "https://www.eventbrite.co.uk/e/building-your-first-genai-solution-tickets-1996436196406",
+  "source": "Eventbrite",
+  "start_date": "2026-09-25",
+  "end_date": null,
+  "time": "18:30",
+  "description": "GenAI is reshaping industries across the board\u2014from creative arts to finance\u2014unlocking new efficiencies, insights, and possibilities.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Discourse: Physics and philosophy: On the equality of all things  (Theatre)",
+  "venue": "The Royal Institution of Great Britain",
+  "url": "https://www.eventbrite.co.uk/e/discourse-physics-and-philosophy-on-the-equality-of-all-things-theatre-tickets-1992834089407",
+  "source": "Eventbrite",
+  "start_date": "2026-09-25",
+  "end_date": null,
+  "time": "19:20",
+  "description": "Physicist Carlo Rovelli explores modern physics, the limits of knowledge and our place in the universe.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3612,7 +6540,39 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Book Launch  - Bed 24 Chronicles  Conference",
+  "venue": "St Philips Church",
+  "url": "https://www.eventbrite.co.uk/e/book-launch-bed-24-chronicles-conference-tickets-1996332805160",
+  "source": "Eventbrite",
+  "start_date": "2026-09-26",
+  "end_date": null,
+  "time": "13:00",
+  "description": "Dive into the wild world of Bed 24 Chronicles and meet the minds behind the story at this chill launch event!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "South Bermondsey",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Creative writing workshop: Writing with art",
+  "venue": "Good Shepherd Studios",
+  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-art-tickets-1993764204406",
+  "source": "Eventbrite",
+  "start_date": "2026-09-26",
+  "end_date": null,
+  "time": "14:00",
+  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3628,7 +6588,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "B-Sides and Outtakes Book Launch",
+  "venue": "Kismet Caf\u00e9 \u2022 Art gallery \u2022 Event Space",
+  "url": "https://www.eventbrite.co.uk/e/b-sides-and-outtakes-book-launch-tickets-1014649533067",
+  "source": "Eventbrite",
+  "start_date": "2026-09-26",
+  "end_date": null,
+  "time": "17:00",
+  "description": "Food, drink, music & poetry. Free entry!  I'd love for you to come celebrate the launch of my new book with me.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3644,7 +6620,7 @@
   "lens": "Politics & Ideas",
   "is_free": true,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3660,7 +6636,23 @@
   "lens": "Social",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Manya African Dining Series Launch - The Soft Life Supper Club",
+  "venue": "The Africa Centre",
+  "url": "https://www.eventbrite.co.uk/e/manya-african-dining-series-launch-the-soft-life-supper-club-tickets-1989625329921",
+  "source": "Eventbrite",
+  "start_date": "2026-09-27",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Kick back and enjoy a chill night of West African flavors and good vibes at The Soft Life Supper Club launch! from our special guest chef",
+  "category": "Food & Drink",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3676,7 +6668,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3692,7 +6684,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3708,7 +6700,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3724,7 +6716,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3740,7 +6732,23 @@
   "lens": "Politics & Ideas",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Debate:  Is Christianity the Basis of Western Civilisation?",
+  "venue": "Tea House Theatre",
+  "url": "https://www.eventbrite.co.uk/e/debate-is-christianity-the-basis-of-western-civilisation-tickets-1995908572268",
+  "source": "Eventbrite",
+  "start_date": "2026-09-28",
+  "end_date": null,
+  "time": "18:30",
+  "description": "What is \"the West\" built on? The Greek heritage or the Judeo-Christian? And can secularism sustain it?",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3756,7 +6764,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3772,7 +6780,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3788,7 +6796,39 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Rethinking AI: Entrepreneurship and Technology for Social Good",
+  "venue": "TBC",
+  "url": "https://www.eventbrite.co.uk/e/rethinking-ai-entrepreneurship-and-technology-for-social-good-tickets-1991898370647",
+  "source": "Eventbrite",
+  "start_date": "2026-09-29",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Join us in exploring this important conversation",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Startup Funding & Networking: VCs, Angels & Founders",
+  "venue": "Savage Garden Rooftop Bar",
+  "url": "https://www.eventbrite.co.uk/e/startup-funding-networking-vcs-angels-founders-tickets-1994865301818",
+  "source": "Eventbrite",
+  "start_date": "2026-09-29",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The ultimate networking night in central London.\nConnect with entrepreneurs, investors, creatives, and industry leaders driving change.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3804,7 +6844,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "The Mall",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3820,7 +6860,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3836,7 +6876,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3852,7 +6892,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3868,7 +6908,87 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Earth To Us Exhibition (October 1st - 24th)",
+  "venue": "Firepit Art Gallery and Studios CIC",
+  "url": "https://www.eventbrite.com/e/earth-to-us-exhibition-october-1st-24th-registration-1989314495206",
+  "source": "Eventbrite",
+  "start_date": "2026-10-01",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A Living Archive for Queer POC Nature Connection",
+  "category": "Community & Culture",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Earth To Us Exhibition - Opening Night",
+  "venue": "Firepit Art Gallery and Studios CIC",
+  "url": "https://www.eventbrite.com/e/earth-to-us-exhibition-opening-night-registration-1997683843151",
+  "source": "Eventbrite",
+  "start_date": "2026-10-01",
+  "end_date": null,
+  "time": "18:00",
+  "description": "A Living Archive for Queer POC Nature Connection",
+  "category": "Community & Culture",
+  "lens": "Openings",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "London - ISEP x  People, Planet, Pint\u2122: Sustainability Meetup",
+  "venue": "Tamesis Dock",
+  "url": "https://www.eventbrite.co.uk/e/london-isep-x-people-planet-pinttm-sustainability-meetup-tickets-1991271937970",
+  "source": "Eventbrite",
+  "start_date": "2026-10-01",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Come along to a special collaboration between ISEP & People Planet Pint bringing professionals & those interested in sustainability together",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Goldsmiths MA Art & (Global) Politics (Activism) - Alumni/Students Mixer",
+  "venue": "Whitechapel Gallery",
+  "url": "https://www.eventbrite.co.uk/e/goldsmiths-ma-art-global-politics-activism-alumnistudents-mixer-registration-1995661641692",
+  "source": "Eventbrite",
+  "start_date": "2026-10-01",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Goldsmiths Art & (Global) Politics Activism - Alumni/Students Mixer with special guest Peter Kennard.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Indian Wellness Rituals x Bengali Supper Club",
+  "venue": "SE5 0DE",
+  "url": "https://www.eventbrite.com/e/indian-wellness-rituals-x-bengali-supper-club-tickets-1991088760080",
+  "source": "Eventbrite",
+  "start_date": "2026-10-01",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Angie & Sohini are coming together to take you on a sensory journey through ancient traditions, and delicious home cooked food.",
+  "category": "Health & Wellness",
+  "lens": "Social",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3884,7 +7004,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3900,7 +7020,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3916,7 +7036,39 @@
   "lens": "Social",
   "is_free": false,
   "area": "Liverpool Street",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "AI & Society Run & Coffee Club | London Event",
+  "venue": "Italian Gardens",
+  "url": "https://www.eventbrite.com/e/ai-society-run-coffee-club-london-event-tickets-1993883851273",
+  "source": "Eventbrite",
+  "start_date": "2026-10-04",
+  "end_date": null,
+  "time": "08:30",
+  "description": "Join us for a fun run and coffee chat in London, mixing AI talks with good vibes and a morning coffee/tea!",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "THE POETRY CHALLENGE 2026",
+  "venue": "St. Margaret's House",
+  "url": "https://www.eventbrite.co.uk/e/the-poetry-challenge-2026-tickets-1991305983802",
+  "source": "Eventbrite",
+  "start_date": "2026-10-04",
+  "end_date": null,
+  "time": "15:00",
+  "description": "Recite a poem from memory - for charity and cake!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3932,7 +7084,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3948,7 +7100,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3964,7 +7116,7 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3980,7 +7132,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -3996,7 +7148,23 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "THE CITY ENVIRONMENT DEBATE            'LIVING IN HARMONY WITH NATURE'",
+  "venue": "Arup",
+  "url": "https://www.eventbrite.co.uk/e/the-city-environment-debate-living-in-harmony-with-nature-tickets-1993314263621",
+  "source": "Eventbrite",
+  "start_date": "2026-10-06",
+  "end_date": null,
+  "time": "16:00",
+  "description": "How will we achieve the global behaviour change required?",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4012,7 +7180,39 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "WM College Foundation Art and Design - Talk and Tour Event",
+  "venue": "WM College",
+  "url": "https://www.eventbrite.co.uk/e/wm-college-foundation-art-and-design-talk-and-tour-event-tickets-1992813489793",
+  "source": "Eventbrite",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "time": "10:00",
+  "description": "This event is an opportunity to find out more about the Foundation Course in Art and Design offered here at WM College.",
+  "category": "Other",
+  "lens": "Talks",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "RTG Quarterly Networking Event - The Purpose Architects",
+  "venue": "Uncommon Creative Studio",
+  "url": "https://www.eventbrite.com/e/rtg-quarterly-networking-event-the-purpose-architects-tickets-1995842895828",
+  "source": "Eventbrite",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "time": "17:30",
+  "description": "An evening of keynote, panel and networking on what it takes to build a purpose led business. In partnership with Paddy & Scott's and UCS",
+  "category": "Food & Drink",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4028,7 +7228,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4044,7 +7244,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4060,7 +7260,55 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "The Health Nav - CEP Private Networking Dinner",
+  "venue": "Arthur Hooper's",
+  "url": "https://www.eventbrite.co.uk/e/the-health-nav-cep-private-networking-dinner-tickets-1988311875343",
+  "source": "Eventbrite",
+  "start_date": "2026-10-08",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us for the Health Nav - CEP Private Networking Dinner and connect with industry pros in a relaxed setting!",
+  "category": "Health & Wellness",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Philosophies of East & West - First Evening to 18 Week Course",
+  "venue": "New Acropolis Cultural Association",
+  "url": "https://www.eventbrite.co.uk/e/philosophies-of-east-west-first-evening-to-18-week-course-tickets-1996033238147",
+  "source": "Eventbrite",
+  "start_date": "2026-10-08",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Introduction to the major concepts from Eastern & Western Philosophy, exploring their relevance and practical application.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "David Larbi: Poetry Night with special guests",
+  "venue": "Southwark Cathedral",
+  "url": "https://www.eventbrite.co.uk/e/david-larbi-poetry-night-with-special-guests-tickets-1991458053647",
+  "source": "Eventbrite",
+  "start_date": "2026-10-08",
+  "end_date": null,
+  "time": "19:30",
+  "description": "Join us for a special evening of poetry with David Larbi and guests at Southwark Cathedral",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4076,7 +7324,7 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4092,7 +7340,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Local Nature \u2013 Highgate Cemetery Photography Book Making Workshop",
+  "venue": "Highgate Cemetery",
+  "url": "https://www.eventbrite.com/e/local-nature-highgate-cemetery-photography-book-making-workshop-tickets-1986565484842",
+  "source": "Eventbrite",
+  "start_date": "2026-10-10",
+  "end_date": null,
+  "time": "08:30",
+  "description": "A one day workshop of photography, picture editing and bookmaking at North London's iconic Highgate Cemetery and at Eddie's home studio.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4108,7 +7372,23 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "5x15 Special: Inside the Mind of Slavoj \u017di\u017eek",
+  "venue": "Union Chapel",
+  "url": "https://www.eventbrite.co.uk/e/5x15-special-inside-the-mind-of-slavoj-zizek-tickets-1988984658656",
+  "source": "Eventbrite",
+  "start_date": "2026-10-11",
+  "end_date": null,
+  "time": "19:00",
+  "description": "A shameless tour through the films, books and music that shaped a philosopher.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4124,7 +7404,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4140,7 +7420,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4156,7 +7436,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4172,7 +7452,23 @@
   "lens": "Talks",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Private Client Conference 2026 at The View",
+  "venue": "43 Lincoln's Inn Fields",
+  "url": "https://www.eventbrite.co.uk/e/private-client-conference-2026-at-the-view-tickets-1989097600468",
+  "source": "Eventbrite",
+  "start_date": "2026-10-13",
+  "end_date": null,
+  "time": "12:00",
+  "description": "Radcliffe barristers and guest speakers will cover a broad range of current hot topics in the private client world.",
+  "category": "",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4188,7 +7484,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4204,7 +7500,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4220,7 +7516,23 @@
   "lens": "Politics & Ideas",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Philosophies of East & West - First Evening to 18 Week Course",
+  "venue": "The Bridge",
+  "url": "https://www.eventbrite.co.uk/e/philosophies-of-east-west-first-evening-to-18-week-course-tickets-1994507123497",
+  "source": "Eventbrite",
+  "start_date": "2026-10-14",
+  "end_date": null,
+  "time": "19:00",
+  "description": "Introduction to the major concepts from Eastern & Western Philosophy, exploring their relevance and practical application.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4236,7 +7548,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4252,7 +7564,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4268,7 +7580,39 @@
   "lens": "Politics & Ideas",
   "is_free": true,
   "area": "Holborn",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Going Under: Anaesthesia, Art and Altered States creative writing workshop",
+  "venue": "Association of Anaesthetists of Great Britain and Ireland",
+  "url": "https://www.eventbrite.co.uk/e/going-under-anaesthesia-art-and-altered-states-creative-writing-workshop-tickets-1994289803487",
+  "source": "Eventbrite",
+  "start_date": "2026-10-15",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Explore the language and images surrounding anaesthesia in this creative writing workshop led by writer, poet and researcher Sarah Fletcher.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Jacob Mchangama in conversation with Jeffrey Howard - Gower Street",
+  "venue": "Waterstones",
+  "url": "https://www.eventbrite.co.uk/e/jacob-mchangama-in-conversation-with-jeffrey-howard-gower-street-tickets-1987120284262",
+  "source": "Eventbrite",
+  "start_date": "2026-10-15",
+  "end_date": null,
+  "time": "18:30",
+  "description": "The Future of Free Speech confronts a stark truth: the right to speak freely is under siege.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4284,7 +7628,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4300,7 +7644,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Battle of Ideas 2026",
+  "venue": "Church House",
+  "url": "https://www.eventbrite.co.uk/e/battle-of-ideas-2026-tickets-1851549427179",
+  "source": "Eventbrite",
+  "start_date": "2026-10-17",
+  "end_date": null,
+  "time": "09:00",
+  "description": "The 21st Battle of Ideas festival will take place on Saturday 17 & Sunday 18 October 2026 at Church House, London.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4316,7 +7676,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4332,7 +7692,7 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4348,7 +7708,7 @@
   "lens": "Openings",
   "is_free": true,
   "area": "Euston",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4364,7 +7724,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4380,7 +7740,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4396,7 +7756,23 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Evening Talk: Witchcraft, Necromancy, Politics -Eleanor Cobham\u2019s 1441 Trial",
+  "venue": "The London Archives",
+  "url": "https://www.eventbrite.co.uk/e/evening-talk-witchcraft-necromancy-politics-eleanor-cobhams-1441-trial-tickets-1997145364547",
+  "source": "Eventbrite",
+  "start_date": "2026-10-21",
+  "end_date": null,
+  "time": "17:30",
+  "description": "Eleanor Cobham faced trial in 1441 for plotting against Henry VI with occult methods. Explore the crime, the people and the places.",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4412,7 +7788,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4428,7 +7804,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4444,7 +7820,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4460,7 +7836,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4476,7 +7852,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4492,7 +7868,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4508,7 +7884,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4524,7 +7900,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4540,7 +7916,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4556,7 +7932,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4572,7 +7948,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4588,7 +7964,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4604,7 +7980,55 @@
   "lens": "Writing",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Deaf Rave Festival - Daytime",
+  "venue": "Rich Mix",
+  "url": "https://richmix.org.uk/live-events/deaf-rave-festival-daytime",
+  "source": "Rich Mix",
+  "start_date": "2026-10-31",
+  "end_date": null,
+  "time": "",
+  "description": "",
+  "category": "Other",
+  "lens": "Other",
+  "is_free": false,
+  "area": "Shoreditch",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Deaf Rave Festival \u2013 Nighttime",
+  "venue": "Rich Mix",
+  "url": "https://richmix.org.uk/live-events/deaf-rave-festival-nighttime",
+  "source": "Rich Mix",
+  "start_date": "2026-10-31",
+  "end_date": null,
+  "time": "",
+  "description": "",
+  "category": "Social",
+  "lens": "Social",
+  "is_free": false,
+  "area": "Shoreditch",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "Creative writing workshop: Writing with ghosts",
+  "venue": "Good Shepherd Studios",
+  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-ghosts-tickets-1993770368844",
+  "source": "Eventbrite",
+  "start_date": "2026-10-31",
+  "end_date": null,
+  "time": "14:00",
+  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4620,7 +8044,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4636,7 +8060,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4652,7 +8076,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4668,7 +8092,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4684,7 +8108,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4700,7 +8124,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4716,7 +8140,23 @@
   "lens": "Talks",
   "is_free": false,
   "area": "Barbican",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "RA Live | London | Creative Networking",
+  "venue": "Signature Brew Haggerston",
+  "url": "https://www.eventbrite.co.uk/e/ra-live-london-creative-networking-tickets-1995073631939",
+  "source": "Eventbrite",
+  "start_date": "2026-11-04",
+  "end_date": null,
+  "time": "14:00",
+  "description": "Come and connect with like\u2013minded creatives at RA Live in London!",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4732,7 +8172,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4748,7 +8188,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4764,7 +8204,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4780,7 +8220,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4796,7 +8236,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4812,7 +8252,7 @@
   "lens": "Talks",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4828,7 +8268,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4844,7 +8284,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4860,7 +8300,23 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
+  "_run": "2026-08-15"
+ },
+ {
+  "title": "AI for Equity book launch (London)",
+  "venue": "University of Westminster - Little Titchfield Street Campus",
+  "url": "https://www.eventbrite.co.uk/e/ai-for-equity-book-launch-london-tickets-1997144173986",
+  "source": "Eventbrite",
+  "start_date": "2026-11-12",
+  "end_date": null,
+  "time": "18:30",
+  "description": "Join us in London for the AI for Equity book launch - connect, and explore how AI can boost fairness!",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4876,7 +8332,7 @@
   "lens": "Workshops",
   "is_free": false,
   "area": "Kensington",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  },
  {
@@ -4892,7 +8348,7 @@
   "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-15",
+  "first_seen": "2026-08-07",
   "_run": "2026-08-15"
  }
 ]
