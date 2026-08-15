@@ -1,6 +1,6 @@
 # London Culture
 
-Weekly aggregator of creative social events in London. Static page + email digest for a friend (mid-40s, East London) who wants to meet interesting people at talks, openings, workshops — not sit alone in a cinema.
+Daily aggregator of talks, openings, workshops, tech and politics events in London. Static page + email digest for a friend (mid-40s, East London) who wants to meet interesting people at talks, openings, workshops — not sit alone in a cinema.
 
 ## What This Is
 
@@ -10,7 +10,17 @@ Python scraper that pulls events from 10 sources, filters out music/cinema/kids 
 
 **Social events only.** No exhibitions (solitary), no music/cinema/performance (not social), no kids/family events. We want: talks, gallery openings, workshops (life drawing, ceramics, printmaking), creative networking, supper clubs, book launches, Friday Lates.
 
-## Sources (10)
+## 2026-08-15 rebuild (read this first)
+
+- **Daily** cron (06:00 UTC), was weekly.
+- GitHub Actions IPs get **405 from Eventbrite / 403 from Rich Mix**. `BaseScraper._get_text` uses a browser UA and falls back to the shared Playwright page on 403/405/429. `scrape.py` gives every scraper `.page`.
+- **New scrapers**: `schema_org.py` (generic JSON-LD: Luma, Conway Hall, Meetup, Poetry Society), `heuristic.py` (plain-HTML listing → link + nearest date: How To Academy, Gresham [browser], Bishopsgate [browser]), `galleries.py` (Whitechapel detail pages; Camden written but its listing is JS — not in the run list).
+- **Dead/blocked**: ArtRabbit, newexhibitions, RSA, Southbank, Foyles, London Library, Chatham House, British Academy (Cloudflare); Frontline Club, LSE, UCL, IEA (JS widgets, no dates in DOM); SLG (no dates on cards).
+- **Page**: When (today/7 days/weekend) · Interest lenses · New-this-week / Free toggles · URL-hash state · source health in footer. `_lens` set by `normalize_category(category, title)` in scrape.py.
+- **New detection**: `output/events.json` is published; next run fetches it from PAGE_URL and keeps `first_seen` per URL. Baseline run (no previous) flags nothing new.
+- **Idea parked**: write tech-lens events into the londonmaxxxing Supabase `events` table (needs service-role key as a repo secret).
+
+## Sources (original 10)
 
 ### Simple scrapers (requests + BeautifulSoup):
 1. **Rich Mix** — `/whats-on/this-week` + `/whats-on/next-week`, `div.tease` elements

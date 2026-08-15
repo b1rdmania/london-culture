@@ -1,32 +1,31 @@
 #!/usr/bin/env python3
-"""London Culture — weekly digest of creative social events worth going to."""
+"""London Culture — daily digest of talks, openings, workshops, tech and
+politics events in London worth leaving the house for."""
 
 import json
 import logging
 import os
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
+import requests
 from jinja2 import Environment, FileSystemLoader
 
 from scrapers import (
-    RichMixScraper,
-    EventbriteScraper,
-    BarbicanScraper,
-    DesignMuseumScraper,
-    ICAScraper,
-    WellcomeScraper,
-    PhotographersGalleryScraper,
-    SomersetHouseScraper,
-    LRBBookshopScraper,
-    VAMScraper,
+    RichMixScraper, EventbriteScraper, BarbicanScraper, DesignMuseumScraper,
+    ICAScraper, WellcomeScraper, PhotographersGalleryScraper, SomersetHouseScraper,
+    LRBBookshopScraper, VAMScraper,
+    LumaScraper, ConwayHallScraper, MeetupScraper, PoetrySocietyScraper,
+    WhitechapelScraper, CamdenArtCentreScraper,
 )
+from scrapers.heuristic import GreshamScraper, BishopsgateScraper, HowToAcademyScraper
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / "output"
 DATA = ROOT / "data"
 TEMPLATES = ROOT / "templates"
+PAGE_URL = os.environ.get("PAGE_URL", "https://b1rdmania.github.io/london-culture").rstrip("/")
 
 # Categories to exclude globally
 EXCLUDE_CATEGORIES = {
@@ -35,219 +34,247 @@ EXCLUDE_CATEGORIES = {
     "performing & visual arts",
 }
 
+# Scrapers that need a rendered page (JS lists) — get the Playwright page up front.
+BROWSER_ONLY = {GreshamScraper, BishopsgateScraper}
 
-def scrape_simple():
-    """Run the requests-based scrapers."""
-    scrapers = [
-        RichMixScraper(),
-        EventbriteScraper(),
-        BarbicanScraper(),
-        DesignMuseumScraper(),
-        WellcomeScraper(),
-        PhotographersGalleryScraper(),
-        SomersetHouseScraper(),
-        LRBBookshopScraper(),
-        VAMScraper(),
-    ]
-    all_events = []
-    for s in scrapers:
-        events = s.scrape()
-        logging.info(f"{s.name}: {len(events)} events")
-        all_events.extend(events)
-    return all_events
+SCRAPERS = [
+    # institutions
+    BarbicanScraper, DesignMuseumScraper, WellcomeScraper, PhotographersGalleryScraper,
+    SomersetHouseScraper, VAMScraper, ICAScraper, RichMixScraper,
+    # galleries
+    WhitechapelScraper,
+    # talks / politics / ideas
+    ConwayHallScraper, GreshamScraper, BishopsgateScraper, HowToAcademyScraper,
+    # writing
+    LRBBookshopScraper, PoetrySocietyScraper,
+    # tech / scene
+    LumaScraper, MeetupScraper, EventbriteScraper,
+]
 
 
-def scrape_browser():
-    """Run Playwright-based scrapers."""
-    browser_scrapers = [ICAScraper()]
-    all_events = []
+def scrape_all():
+    """Run every scraper, sharing one Playwright page as a fallback."""
+    all_events, health = [], []
     try:
         from playwright.sync_api import sync_playwright
+    except ImportError:
+        sync_playwright = None
+        logging.warning("Playwright not installed — browser fallback disabled")
+
+    def run(page):
+        for S in SCRAPERS:
+            s = S()
+            s.page = page
+            if S in BROWSER_ONLY and page is not None:
+                s._get_text = lambda url, wait_ms=0, s=s: s._browser_text(url, wait_ms or 4000)
+            try:
+                events = s.scrape(page=page) if S is ICAScraper else s.scrape()
+            except Exception as e:
+                logging.error(f"{s.name} crashed: {e}")
+                events = []
+            for e in events:
+                if not e.source:
+                    e.source = s.name
+            logging.info(f"{s.name}: {len(events)} events")
+            health.append((s.name, len(events)))
+            all_events.extend(events)
+
+    if sync_playwright:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            for s in browser_scrapers:
-                events = s.scrape(page=page)
-                logging.info(f"{s.name}: {len(events)} events")
-                all_events.extend(events)
+            run(page)
             browser.close()
-    except ImportError:
-        logging.warning("Playwright not installed — skipping ICA")
-    except Exception as e:
-        logging.error(f"Browser scraping failed: {e}")
-    return all_events
+    else:
+        run(None)
+    return all_events, health
+
+
+TITLE_SKIP = [
+    "concert", "gig:", "dj set", "live band",
+    "family workshop", "design baby", "kids", "children", "toddler", "baby",
+    "under 5", "school of", "schools live", "play after school", "sound explorers",
+    "mini jam", "teacher drop-in", "ks1", "ks2", "eyfs", "(livestream)",
+    "youth festival", "young poets", "family-friendly",
+    "hnwi", "networking breakfast", "business breakfast",
+    "general admission", "entry ticket", "admission ticket",
+]
 
 
 def filter_events(events):
-    """Remove music/cinema/performance, deduplicate, sort by date."""
+    """Remove music/cinema/kids/spam, deduplicate, sort by date."""
     today = date.today()
-
-    # Filter out excluded categories
+    horizon = today + timedelta(days=90)
     filtered = []
     for e in events:
-        # Skip past events
-        if e.start_date and e.start_date < today:
+        if not e.start_date or e.start_date < today or e.start_date > horizon:
             continue
-
         cat = e.category.lower().strip()
-        # Check each comma-separated sub-category
         if any(part.strip() in EXCLUDE_CATEGORIES for part in cat.split(",")):
             continue
-        # Also check title for music/cinema keywords
-        title_lower = e.title.lower()
-        if any(w in title_lower for w in ["concert", "gig:", "dj set", "live band"]):
-            continue
-        # Skip kids/family/schools events
-        if any(w in title_lower for w in [
-            "family workshop", "design baby", "kids", "children",
-            "toddler", "baby", "under 5", "school of", "schools live",
-            "play after school", "sound explorers", "mini jam",
-            "teacher drop-in", "ks1", "ks2", "eyfs",
-        ]):
-            continue
-        # Skip livestream duplicates
-        if "(livestream)" in title_lower:
+        t = e.title.lower()
+        if any(w in t for w in TITLE_SKIP):
             continue
         filtered.append(e)
 
-    # Deduplicate by title+date
-    seen = set()
-    unique = []
+    seen, unique = set(), []
     for e in filtered:
         key = (e.title.lower().strip(), e.start_date)
         if key not in seen:
             seen.add(key)
             unique.append(e)
-
-    # Sort by date
-    return sorted(unique, key=lambda e: (e.start_date or date.max, e.time or ""))
+    return sorted(unique, key=lambda e: (e.start_date, e.time or ""))
 
 
-def normalize_category(cat: str) -> str:
-    """Map raw categories to display categories for filtering."""
-    cat_lower = cat.lower().strip()
-    if any(w in cat_lower for w in ["talk", "lecture", "conversation", "panel", "discussion"]):
-        return "Talks"
-    if any(w in cat_lower for w in ["workshop", "class", "course", "drawing"]):
-        return "Workshops"
-    if any(w in cat_lower for w in ["opening", "private view", "exhibition"]):
+LENSES = ["Talks", "Politics & Ideas", "Tech", "Writing", "Openings", "Workshops", "Social"]
+
+
+def normalize_category(cat: str, title: str = "") -> str:
+    """Map raw categories to the interest lenses used on the page."""
+    c = cat.lower().strip()
+    t = title.lower()
+    if c in {l.lower() for l in LENSES}:
+        return next(l for l in LENSES if l.lower() == c)
+    if any(w in c or w in t for w in ["politic", "democra", "philosoph", "geopolit", "debate", "economy", "economics"]):
+        return "Politics & Ideas"
+    if any(w in c or w in t for w in ["tech", "startup", "founder", "ai ", "a.i.", "software", "developer", "coding"]):
+        return "Tech"
+    if any(w in c or w in t for w in ["poetry", "poet", "book launch", "novel", "writing", "author", "bookshop"]):
+        return "Writing"
+    if any(w in c for w in ["opening", "private view", "late"]) or any(w in t for w in ["private view", "opening", "friday late", "late:"]):
         return "Openings"
-    if any(w in cat_lower for w in ["network", "social", "meet", "supper"]):
+    if any(w in c for w in ["workshop", "class", "course", "drawing", "make"]) or any(w in t for w in ["workshop", "life drawing", "masterclass"]):
+        return "Workshops"
+    if any(w in c for w in ["network", "social", "meet", "supper", "drinks", "quiz"]) or any(w in t for w in ["supper club", "drinks", "quiz", "social"]):
         return "Social"
-    if any(w in cat_lower for w in ["art", "visual", "design"]):
-        return "Art & Design"
-    return "Other"
+    if any(w in c for w in ["talk", "lecture", "conversation", "panel", "discussion", "tour", "art", "visual", "design", "exhibition"]):
+        return "Talks"
+    return "Talks" if any(w in t for w in ["talk", "in conversation", "lecture", "panel"]) else "Other"
 
 
-CORE_VENUES = {
-    "Barbican", "Design Museum", "Rich Mix", "ICA",
-    "Wellcome Collection", "Photographers' Gallery", "Somerset House",
-    "London Review Bookshop", "V&A",
-}
+def load_previous():
+    """Previous run's events (first_seen map), from the live site or local data."""
+    prev = {}
+    for src in (f"{PAGE_URL}/events.json", DATA / "events.json"):
+        try:
+            if isinstance(src, str):
+                r = requests.get(src, timeout=15)
+                if r.status_code != 200:
+                    continue
+                rows = r.json()
+            else:
+                rows = json.loads(src.read_text())
+            for row in rows:
+                if row.get("url"):
+                    prev[row["url"]] = row.get("first_seen") or row.get("_run") or ""
+            if prev:
+                logging.info(f"Loaded {len(prev)} previous events from {src}")
+                return prev
+        except Exception as e:
+            logging.warning(f"Could not load previous events from {src}: {e}")
+    return prev
 
 
-def build_html(events):
-    """Generate static HTML page with JS filtering."""
-    OUTPUT.mkdir(exist_ok=True)
-
-    # Add normalized category and source to each event for filtering
+def annotate(events, prev, run_day):
+    """Set lens, first_seen, is_new. 'New' = first seen within the last 7 days."""
+    cutoff = run_day - timedelta(days=7)
+    baseline = not prev  # first ever run: nothing is "new"
     for e in events:
-        e._filter_cat = normalize_category(e.category)
-        e._source = e.venue if e.venue in CORE_VENUES else "Eventbrite"
+        e._lens = normalize_category(e.category, e.title)
+        fs = prev.get(e.url) or run_day.isoformat()
+        e._first_seen = fs
+        try:
+            e._is_new = (not baseline) and date.fromisoformat(fs) > cutoff
+        except ValueError:
+            e._is_new = not baseline
+    return events
 
-    # Source filter: only core venues + Eventbrite
-    venue_order = [
-        "Barbican", "Design Museum", "ICA", "Rich Mix",
-        "Wellcome Collection", "Photographers' Gallery", "Somerset House",
-        "London Review Bookshop", "V&A", "Eventbrite",
-    ]
-    sources = [v for v in venue_order if any(e._source == v for e in events)]
 
-    categories = ["All", "Talks", "Workshops", "Openings", "Social", "Art & Design", "Other"]
-
+def build_html(events, health, run_day):
+    OUTPUT.mkdir(exist_ok=True)
+    sources = sorted({e.source for e in events})
+    lenses = [l for l in LENSES if any(e._lens == l for e in events)]
+    if any(e._lens == "Other" for e in events):
+        lenses.append("Other")
+    weekend = [d for d in range(0, 8) if (run_day + timedelta(days=d)).weekday() >= 5][:2]
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)))
-    template = env.get_template("page.html")
-    html = template.render(
-        events=events,
-        sources=sources,
-        categories=categories,
-        updated_at=datetime.now().strftime("%-d %B %Y"),
+    html = env.get_template("page.html").render(
+        events=events, sources=sources, lenses=lenses, health=health,
+        today=run_day.isoformat(),
+        week_end=(run_day + timedelta(days=7)).isoformat(),
+        weekend_start=(run_day + timedelta(days=weekend[0])).isoformat() if weekend else run_day.isoformat(),
+        weekend_end=(run_day + timedelta(days=weekend[-1])).isoformat() if weekend else run_day.isoformat(),
+        new_count=sum(1 for e in events if e._is_new),
+        free_count=sum(1 for e in events if e.is_free),
+        updated_at=datetime.now().strftime("%-d %B %Y, %H:%M"),
     )
     (OUTPUT / "index.html").write_text(html)
-    logging.info(f"Built {OUTPUT / 'index.html'}")
+    logging.info(f"Built {OUTPUT / 'index.html'} ({len(events)} events)")
 
 
 def build_email(events):
-    """Generate email HTML."""
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)))
-    template = env.get_template("email.html")
-    html = template.render(
-        events=events[:40],  # Cap email at 40 events
+    return env.get_template("email.html").render(
+        events=[e for e in events if e._is_new][:40] or events[:40],
         week_of=date.today().strftime("%-d %B %Y"),
-        page_url=os.environ.get("PAGE_URL", ""),
+        page_url=PAGE_URL,
     )
-    return html
 
 
 def send_email(html):
-    """Send the digest email via Resend."""
     api_key = os.environ.get("RESEND_API_KEY")
     to_email = os.environ.get("DIGEST_EMAIL")
     if not api_key or not to_email:
         logging.warning("RESEND_API_KEY or DIGEST_EMAIL not set — skipping email")
         return
-
     import resend
     resend.api_key = api_key
     resend.Emails.send({
         "from": os.environ.get("FROM_EMAIL", "London Culture <onboarding@resend.dev>"),
         "to": [to_email],
-        "subject": f"London Culture — Week of {date.today().strftime('%-d %b %Y')}",
+        "subject": f"London Culture — {date.today().strftime('%-d %b %Y')}",
         "html": html,
     })
     logging.info(f"Email sent to {to_email}")
 
 
-def save_events(events):
-    """Persist events to JSON."""
-    DATA.mkdir(exist_ok=True)
-    data = [
+def save_events(events, health, run_day):
+    """Persist to data/ and output/ (output is what the next run reads back)."""
+    rows = [
         {
-            "title": e.title,
-            "venue": e.venue,
-            "url": e.url,
+            "title": e.title, "venue": e.venue, "url": e.url, "source": e.source,
             "start_date": e.start_date.isoformat() if e.start_date else None,
             "end_date": e.end_date.isoformat() if e.end_date else None,
-            "time": e.time,
-            "description": e.description,
-            "category": e.category,
-            "is_free": e.is_free,
-            "area": e.area,
+            "time": e.time, "description": e.description, "category": e.category,
+            "lens": e._lens, "is_free": e.is_free, "area": e.area,
+            "first_seen": e._first_seen, "_run": run_day.isoformat(),
         }
         for e in events
     ]
-    (DATA / "events.json").write_text(json.dumps(data, indent=2))
+    DATA.mkdir(exist_ok=True)
+    OUTPUT.mkdir(exist_ok=True)
+    payload = json.dumps(rows, indent=1)
+    (DATA / "events.json").write_text(payload)
+    (OUTPUT / "events.json").write_text(payload)
+    (OUTPUT / "health.json").write_text(json.dumps(
+        {"run": run_day.isoformat(), "sources": dict(health)}, indent=1))
 
 
 def main():
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s %(levelname)s %(message)s",
-        datefmt="%H:%M:%S",
-    )
-
-    all_events = scrape_simple()
-    all_events.extend(scrape_browser())
-    all_events = filter_events(all_events)
-
-    logging.info(f"Total: {len(all_events)} events")
-
-    save_events(all_events)
-    build_html(all_events)
-
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
+    run_day = date.today()
+    prev = load_previous()
+    events, health = scrape_all()
+    events = filter_events(events)
+    events = annotate(events, prev, run_day)
+    logging.info(f"Total: {len(events)} events, {sum(1 for e in events if e._is_new)} new")
+    zero = [n for n, c in health if c == 0]
+    if zero:
+        logging.warning(f"Sources returning 0: {', '.join(zero)}")
+    save_events(events, health, run_day)
+    build_html(events, health, run_day)
     if "--email" in sys.argv:
-        html = build_email(all_events)
-        send_email(html)
+        send_email(build_email(events))
 
 
 if __name__ == "__main__":

@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>London Culture</title>
+    <meta name="description" content="Daily list of talks, openings, workshops, tech and politics events in London worth leaving the house for.">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -144,6 +145,23 @@
             color: #666;
         }
 
+        .filter-row .sep { color: #333; }
+        .new-tag {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.625rem; color: #0a0a0a; background: #d4d4d8;
+            padding: 0 0.3rem; border-radius: 2px; margin-left: 0.4rem;
+            vertical-align: middle; letter-spacing: 0.04em;
+        }
+        .event.is-new .event-title a { color: #fff; }
+        .empty {
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.75rem; color: #666; margin: 2rem 0; display: none;
+        }
+        footer .health { margin-top: 1rem; line-height: 1.8; }
+        footer .health span { white-space: nowrap; margin-right: 0.75rem; }
+        footer .health .zero { color: #a55; }
+        details summary { cursor: pointer; color: #555; margin-top: 1rem; }
+
         /* Mobile adjustments */
         @media (max-width: 640px) {
             body { padding: 2rem 1rem; }
@@ -155,24 +173,31 @@
 <body>
     <header>
         <h1>London Culture</h1>
-        <p class="subtitle">Talks, openings, workshops, and places to meet interesting people.</p>
-        <p class="updated">Updated {{ updated_at }}</p>
+        <p class="subtitle">Talks, openings, workshops, tech, politics — things in London worth leaving the house for.</p>
+        <p class="updated">Updated {{ updated_at }} · {{ events|length }} events · {{ new_count }} new this week</p>
     </header>
 
     <div class="filters">
-        <div class="filter-label">Type</div>
-        <div class="filter-row" id="cat-filters">
-            {% for cat in categories %}
-            <span class="chip{% if cat == 'All' %} active{% endif %}" data-filter="cat" data-value="{{ cat }}">{{ cat }}</span>
+        <div class="filter-label">When</div>
+        <div class="filter-row" id="when-filters">
+            <span class="chip active" data-filter="when" data-value="all">All</span>
+            <span class="chip" data-filter="when" data-value="today">Today</span>
+            <span class="chip" data-filter="when" data-value="week">Next 7 days</span>
+            <span class="chip" data-filter="when" data-value="weekend">Weekend</span>
+        </div>
+
+        <div class="filter-label">Interest</div>
+        <div class="filter-row" id="lens-filters">
+            <span class="chip active" data-filter="lens" data-value="All">All</span>
+            {% for lens in lenses %}
+            <span class="chip" data-filter="lens" data-value="{{ lens }}">{{ lens }}</span>
             {% endfor %}
         </div>
 
-        <div class="filter-label">Source</div>
-        <div class="filter-row" id="source-filters">
-            <span class="chip active" data-filter="source" data-value="All">All</span>
-            {% for source in sources %}
-            <span class="chip" data-filter="source" data-value="{{ source }}">{{ source }}</span>
-            {% endfor %}
+        <div class="filter-label">Only</div>
+        <div class="filter-row" id="flag-filters">
+            <span class="chip" data-toggle="new">New this week ({{ new_count }})</span>
+            <span class="chip" data-toggle="free">Free ({{ free_count }})</span>
         </div>
 
         <div class="count"><span id="visible-count">{{ events|length }}</span> events</div>
@@ -181,79 +206,104 @@
     <div id="events">
         {% set ns = namespace(current_date='') %}
         {% for event in events %}
-            {% set event_date_str = event.start_date.strftime('%A %-d %B') if event.start_date else 'Date TBC' %}
+            {% set event_date_str = event.start_date.strftime('%A %-d %B') %}
             {% if event_date_str != ns.current_date %}
                 {% set ns.current_date = event_date_str %}
                 <div class="date-header" data-date-header>{{ event_date_str }}</div>
             {% endif %}
-            <div class="event" data-cat="{{ event._filter_cat }}" data-source="{{ event._source }}">
-                <div class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></div>
+            <div class="event{% if event._is_new %} is-new{% endif %}" data-lens="{{ event._lens }}" data-source="{{ event.source }}" data-date="{{ event.start_date.isoformat() }}" data-new="{{ 1 if event._is_new else 0 }}" data-free="{{ 1 if event.is_free else 0 }}">
+                <div class="event-title"><a href="{{ event.url }}">{{ event.title }}</a>{% if event._is_new %}<span class="new-tag">new</span>{% endif %}</div>
                 <div class="event-meta">
-                    {% if event.is_free %}<span class="free">free</span>{% endif %}
+                    {% if event.is_free %}<span class="free"></span>{% endif %}
                     {% if event.time %}{{ event.time }}{% endif %}
                     {% if event.venue %} · {{ event.venue }}{% endif %}
-                    {% if event._filter_cat and event._filter_cat != 'Other' %}<span class="type"> · {{ event._filter_cat|lower }}</span>{% endif %}
+                    {% if event.area and event.area.lower() != 'london' and event.area.lower() not in event.venue.lower() %} · {{ event.area }}{% endif %}
+                    {% if event._lens and event._lens != 'Other' %}<span class="type"> · {{ event._lens|lower }}</span>{% endif %}
                 </div>
                 {% if event.description %}<div class="desc">{{ event.description }}</div>{% endif %}
             </div>
         {% endfor %}
     </div>
+    <div class="empty" id="empty">Nothing matches. Loosen a filter.</div>
 
     <footer>
-        Scraped weekly from venue sites and Eventbrite. Something wrong? Check the source.
+        Scraped daily from venue sites, Luma, Meetup and Eventbrite. Something wrong? Check the source.
+        <details>
+            <summary>Sources this run</summary>
+            <div class="health">
+                {% for name, n in health %}<span{% if n == 0 %} class="zero"{% endif %}>{{ name }} {{ n }}</span>{% endfor %}
+            </div>
+        </details>
     </footer>
 
     <script>
     (function() {
-        var activeCat = 'All';
-        var activeSource = 'All';
+        var TODAY = '{{ today }}', WEEK_END = '{{ week_end }}';
+        var WKND_START = '{{ weekend_start }}', WKND_END = '{{ weekend_end }}';
+        var state = { when: 'all', lens: 'All', new: false, free: false };
 
-        document.querySelectorAll('.chip').forEach(function(chip) {
+        // Restore from hash, e.g. #when=week&lens=Tech&free=1
+        location.hash.slice(1).split('&').forEach(function(kv) {
+            var p = kv.split('='); if (!p[0]) return;
+            var v = decodeURIComponent(p[1] || '');
+            if (p[0] === 'new' || p[0] === 'free') state[p[0]] = v === '1';
+            else if (p[0] in state) state[p[0]] = v;
+        });
+
+        document.querySelectorAll('.chip[data-filter]').forEach(function(chip) {
             chip.addEventListener('click', function() {
-                var filterType = this.dataset.filter;
-                var value = this.dataset.value;
-
-                // Update active state in this row
-                this.parentNode.querySelectorAll('.chip').forEach(function(c) {
-                    c.classList.remove('active');
-                });
-                this.classList.add('active');
-
-                if (filterType === 'cat') activeCat = value;
-                if (filterType === 'source') activeSource = value;
-
-                applyFilters();
+                state[this.dataset.filter] = this.dataset.value;
+                render();
+            });
+        });
+        document.querySelectorAll('.chip[data-toggle]').forEach(function(chip) {
+            chip.addEventListener('click', function() {
+                state[this.dataset.toggle] = !state[this.dataset.toggle];
+                render();
             });
         });
 
-        function applyFilters() {
-            var count = 0;
-            var visibleDates = new Set();
+        function inWhen(d) {
+            if (state.when === 'today') return d === TODAY;
+            if (state.when === 'week') return d >= TODAY && d <= WEEK_END;
+            if (state.when === 'weekend') return d >= WKND_START && d <= WKND_END;
+            return true;
+        }
 
+        function render() {
+            document.querySelectorAll('.chip[data-filter]').forEach(function(c) {
+                c.classList.toggle('active', state[c.dataset.filter] === c.dataset.value);
+            });
+            document.querySelectorAll('.chip[data-toggle]').forEach(function(c) {
+                c.classList.toggle('active', !!state[c.dataset.toggle]);
+            });
+            var count = 0, visibleDates = new Set();
             document.querySelectorAll('.event').forEach(function(el) {
-                var catMatch = (activeCat === 'All' || el.dataset.cat === activeCat);
-                var sourceMatch = (activeSource === 'All' || el.dataset.source === activeSource);
-                var show = catMatch && sourceMatch;
-
+                var show = inWhen(el.dataset.date)
+                    && (state.lens === 'All' || el.dataset.lens === state.lens)
+                    && (!state.new || el.dataset.new === '1')
+                    && (!state.free || el.dataset.free === '1');
                 el.classList.toggle('hidden', !show);
                 if (show) {
                     count++;
-                    // Find the preceding date header
                     var prev = el.previousElementSibling;
-                    while (prev && !prev.hasAttribute('data-date-header')) {
-                        prev = prev.previousElementSibling;
-                    }
+                    while (prev && !prev.hasAttribute('data-date-header')) prev = prev.previousElementSibling;
                     if (prev) visibleDates.add(prev);
                 }
             });
-
-            // Show/hide date headers
             document.querySelectorAll('[data-date-header]').forEach(function(h) {
                 h.classList.toggle('hidden', !visibleDates.has(h));
             });
-
             document.getElementById('visible-count').textContent = count;
+            document.getElementById('empty').style.display = count ? 'none' : 'block';
+            var parts = [];
+            if (state.when !== 'all') parts.push('when=' + state.when);
+            if (state.lens !== 'All') parts.push('lens=' + encodeURIComponent(state.lens));
+            if (state.new) parts.push('new=1');
+            if (state.free) parts.push('free=1');
+            history.replaceState(null, '', parts.length ? '#' + parts.join('&') : location.pathname);
         }
+        render();
     })();
     </script>
 </body>

@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date
 from typing import Optional
 import logging
@@ -6,6 +6,17 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+
+# A real browser UA. The old "LondonCulture/1.0" UA got 403/405 from
+# Eventbrite and Rich Mix on GitHub Actions' datacenter IPs.
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+
+
+class BlockedError(Exception):
+    """Site refused us (403/405/429) — try the browser fallback."""
 
 
 @dataclass
@@ -20,6 +31,7 @@ class Event:
     category: str = ""
     is_free: bool = False
     area: str = ""  # e.g. "Dalston", "Shoreditch", "South Kensington"
+    source: str = ""  # scraper name (venue may differ, e.g. Eventbrite/Luma)
 
     @property
     def date_display(self) -> str:
@@ -38,19 +50,43 @@ class Event:
 class BaseScraper:
     name: str = ""
     base_url: str = ""
+    # Set by the runner when a Playwright page is available. Used as a
+    # fallback when a site blocks plain requests.
+    page = None
 
     def __init__(self):
         self.logger = logging.getLogger(self.__class__.__name__)
         self.session = requests.Session()
         self.session.headers.update({
-            "User-Agent": "LondonCulture/1.0 (personal event aggregator)"
+            "User-Agent": BROWSER_UA,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-GB,en;q=0.9",
         })
 
     def scrape(self) -> list[Event]:
         raise NotImplementedError
 
-    def _get(self, url: str) -> BeautifulSoup:
+    def _get_text(self, url: str, wait_ms: int = 0) -> str:
+        """Fetch a URL. Plain requests first; on 403/405/429 fall back to
+        the shared Playwright page if the runner gave us one."""
         time.sleep(1)
-        resp = self.session.get(url, timeout=15)
-        resp.raise_for_status()
-        return BeautifulSoup(resp.text, "html.parser")
+        try:
+            resp = self.session.get(url, timeout=20)
+            if resp.status_code in (403, 405, 429):
+                raise BlockedError(f"{resp.status_code} for {url}")
+            resp.raise_for_status()
+            return resp.text
+        except BlockedError as e:
+            if self.page is None:
+                raise
+            self.logger.warning(f"{e} — retrying via browser")
+            return self._browser_text(url, wait_ms)
+
+    def _browser_text(self, url: str, wait_ms: int = 0) -> str:
+        self.page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        if wait_ms:
+            self.page.wait_for_timeout(wait_ms)
+        return self.page.content()
+
+    def _get(self, url: str) -> BeautifulSoup:
+        return BeautifulSoup(self._get_text(url), "html.parser")

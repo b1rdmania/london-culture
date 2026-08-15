@@ -1,16 +1,17 @@
 # London Culture
 
-**A weekly digest of social creative events in London.**
+**A daily list of things in London worth leaving the house for.**
 
-Browse talks, gallery openings, workshops, book launches, Friday Lates, and other events where you can meet interesting people — not sit alone in a cinema.
+Talks, gallery openings, workshops, book launches, tech meetups, politics and ideas — events where you meet people, not sit alone in a cinema.
 
 ## What's Included
 
-- **Talks & workshops** at venues like Barbican, ICA, Design Museum, Wellcome Collection
-- **Gallery openings** and artist talks at Photographers' Gallery, Somerset House, V&A
-- **Creative networking** events from Eventbrite
-- **Book launches** at London Review Bookshop
-- **Friday Lates** and special events
+- **Talks & workshops** — Barbican, ICA, Design Museum, Wellcome Collection, V&A, Somerset House
+- **Politics & ideas** — Conway Hall, How To Academy, Gresham College, Bishopsgate Institute
+- **Galleries** — Photographers' Gallery, Whitechapel Gallery, Rich Mix
+- **Writing** — London Review Bookshop, Poetry Society
+- **Tech** — Luma, Meetup
+- **Everything social** — Eventbrite searches (life drawing, supper clubs, private views, book launches, debates…)
 
 ## What's Excluded
 
@@ -20,7 +21,7 @@ Browse talks, gallery openings, workshops, book launches, Friday Lates, and othe
 
 ## How It Works
 
-The page updates **every Monday at 9am UTC** via automated scraping of 10 London venues. Events are sorted chronologically and filterable by type (Talks, Workshops, Openings, etc.) and source.
+The page updates **daily at 06:00 UTC**. Filter by when (today / next 7 days / weekend), interest (Talks, Politics & Ideas, Tech, Writing, Openings, Workshops, Social), and toggle **new this week** or **free**. Filters persist in the URL hash.
 
 ## View the Page
 
@@ -30,8 +31,6 @@ The page updates **every Monday at 9am UTC** via automated scraping of 10 London
 
 ## Technical Details
 
-Python scraper using BeautifulSoup + Playwright, deployed via GitHub Actions to GitHub Pages.
-
-**Sources:** Rich Mix, Eventbrite, Barbican, Design Museum, Wellcome Collection, Photographers' Gallery, Somerset House, London Review Bookshop, V&A, ICA
+Python scraper (requests + BeautifulSoup, Playwright fallback for sites that block datacenter IPs or render with JS), deployed via GitHub Actions to GitHub Pages. `output/events.json` and `output/health.json` are published alongside the page; the next run reads `events.json` back to work out what's new.
 
 See `CLAUDE.md` for implementation details.

@@ -15,7 +15,29 @@ SEARCHES = [
     "ceramics-workshop",
     "design-talk",
     "art-opening",
+    "private-view",
+    "book-launch",
+    "poetry-night",
+    "writing-workshop",
+    "ai-meetup",
+    "startup-founders",
+    "politics",
+    "debate",
+    "philosophy",
 ]
+
+# Searches whose results should be lensed as tech / writing regardless of
+# Eventbrite's own category tag.
+SEARCH_LENS = {
+    "ai-meetup": "Tech",
+    "startup-founders": "Tech",
+    "book-launch": "Writing",
+    "poetry-night": "Writing",
+    "writing-workshop": "Writing",
+    "politics": "Politics & Ideas",
+    "debate": "Politics & Ideas",
+    "philosophy": "Politics & Ideas",
+}
 
 # Skip events outside London proper
 LONDON_AREAS = {
@@ -54,15 +76,11 @@ class EventbriteScraper(BaseScraper):
         return events
 
     def _scrape_search(self, search_term: str, seen_ids: set) -> list[Event]:
-        import time
-        time.sleep(1)
-
         url = f"{self.base_url}/d/united-kingdom--london/{search_term}/?page=1"
-        resp = self.session.get(url, timeout=15)
-        resp.raise_for_status()
+        text = self._get_text(url, wait_ms=1500)
 
         # Extract __SERVER_DATA__ JSON
-        m = re.search(r"window\.__SERVER_DATA__\s*=\s*({.*?});\s*\n", resp.text, re.DOTALL)
+        m = re.search(r"window\.__SERVER_DATA__\s*=\s*({.*?});\s*\n", text, re.DOTALL)
         if not m:
             return []
 
@@ -76,9 +94,9 @@ class EventbriteScraper(BaseScraper):
                 continue
             seen_ids.add(eid)
 
-            name = item.get("name", "").strip()
+            name = (item.get("name") or "").strip()
             event_url = item.get("url", "")
-            summary = item.get("summary", "").strip()
+            summary = (item.get("summary") or "").strip()
             start_str = item.get("start_date", "")
             start_time = item.get("start_time", "")
 
@@ -108,12 +126,13 @@ class EventbriteScraper(BaseScraper):
             address = venue_info.get("address", {})
             area = address.get("localized_area_display", "")
 
-            # Category from tags
-            category = ""
-            for tag in item.get("tags", []):
-                if tag.get("prefix") == "EventbriteCategory":
-                    category = tag.get("display_name", "")
-                    break
+            # Category from tags (search lens wins)
+            category = SEARCH_LENS.get(search_term, "")
+            if not category:
+                for tag in item.get("tags", []):
+                    if tag.get("prefix") == "EventbriteCategory":
+                        category = tag.get("display_name", "")
+                        break
 
             # Skip online-only events
             if item.get("is_online_event"):
@@ -133,6 +152,10 @@ class EventbriteScraper(BaseScraper):
 
             display_venue = venue_name if venue_name else "Eventbrite"
 
+            # Free?
+            price = item.get("ticket_availability") or {}
+            is_free = bool(price.get("is_free")) if isinstance(price, dict) else False
+
             events.append(Event(
                 title=name,
                 venue=display_venue,
@@ -142,6 +165,8 @@ class EventbriteScraper(BaseScraper):
                 description=summary[:200] if summary else "",
                 category=category,
                 area=area,
+                is_free=is_free,
+                source=self.name,
             ))
 
         return events

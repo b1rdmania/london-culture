@@ -9,3 +9,5 @@ from .photographers_gallery import PhotographersGalleryScraper
 from .somerset_house import SomersetHouseScraper
 from .lrb_bookshop import LRBBookshopScraper
 from .vam import VAMScraper
+from .schema_org import LumaScraper, ConwayHallScraper, MeetupScraper, PoetrySocietyScraper
+from .galleries import WhitechapelScraper, CamdenArtCentreScraper
