@@ -218,10 +218,11 @@ def carry_forward(events, health, prev_rows, run_day):
 def annotate(events, prev, run_day):
     """Set lens, first_seen, is_new. 'New' = first seen within the last 7 days."""
     cutoff = run_day - timedelta(days=7)
-    baseline = not prev  # first ever run: nothing is "new"
+    baseline = (not prev) or "--rebaseline" in sys.argv  # nothing is "new"
+    default_seen = (run_day - timedelta(days=8)).isoformat() if baseline else run_day.isoformat()
     for e in events:
         e._lens = normalize_category(e.category, e.title)
-        fs = prev.get(e.url) or run_day.isoformat()
+        fs = (None if baseline else prev.get(e.url)) or default_seen
         e._first_seen = fs
         try:
             e._is_new = (not baseline) and date.fromisoformat(fs) > cutoff
