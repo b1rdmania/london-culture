@@ -4,9 +4,10 @@
 # Installed as a launchd job: see launchd/com.b1rdmania.london-culture.plist
 set -euo pipefail
 cd "$(dirname "$0")"
-export PATH="/opt/homebrew/bin:/usr/local/bin:$HOME/Library/Python/3.12/bin:$PATH"
+export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/Library/Python/3.12/bin:$PATH"
 git pull -q --rebase origin master || true
-python3 scrape.py "$@"
+PY=${LC_PYTHON:-/usr/local/bin/python3}
+"$PY" scrape.py "$@"
 WT=$(mktemp -d)
 git worktree add -q "$WT" gh-pages 2>/dev/null || { git fetch -q origin gh-pages; git worktree add -q "$WT" gh-pages; }
 cp output/index.html output/events.json output/health.json "$WT"/
