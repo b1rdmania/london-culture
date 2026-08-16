@@ -17,67 +17,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Flow and Write: Yoga and Creative Writing",
-  "venue": "Keats House",
-  "url": "https://www.eventbrite.co.uk/e/flow-and-write-yoga-and-creative-writing-tickets-1989100895323",
-  "source": "Eventbrite",
-  "start_date": "2026-08-16",
-  "end_date": null,
-  "time": "10:45",
-  "description": "Join us at Keats House for a two hour yoga and creative journalling and writing workshop with Calleen Everitt.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Shut Up and Write! SUNDAY at London/Waterstones Piccadilly",
-  "venue": "5th View",
-  "url": "https://www.meetup.com/shutupandwritelondon/events/315612367/",
-  "source": "Meetup",
-  "start_date": "2026-08-16",
-  "end_date": null,
-  "time": "12:30pm",
-  "description": "Join us at the top of the biggest bookshop in Europe to work in company on your own writing, be it a book, blog, screenplay, dissertation, poem, song, coursework, memoir, play, journal, travel writing, work stuff or anyt",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "W1J 9LE",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E8 2DS",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187702810%2F2719466299541%2F1%2Foriginal.20260626-104545?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.288&s=eabd5f2ae100b4719c6da9cf2a96f084",
   "_run": "2026-08-16"
- },
- {
-  "title": "Candle Making Workshop",
-  "venue": "5 Chelsea Manor St",
-  "url": "https://www.eventbrite.co.uk/e/candle-making-workshop-tickets-1991760247517",
-  "source": "Eventbrite",
-  "start_date": "2026-08-16",
-  "end_date": null,
-  "time": "17:00",
-  "description": "Learn to make candles from start to finish at a candle making workshop in London",
-  "category": "Hobbies & Special Interest",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Audio Described Tours of 'Tenderness and Rage'",
@@ -97,46 +39,30 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
-  "title": "The Metamorphosis by Franz Kafka",
-  "venue": "Green Park",
-  "url": "https://www.meetup.com/women-reading-philosophical-fiction/events/315750823/",
-  "source": "Meetup",
+  "title": "Psychedelic Coffee #10: Medicine + Growth Conversations, Rotating Small Groups + Real Connection",
+  "venue": "Bubba Oasis",
+  "url": "https://luma.com/5tw536ut",
+  "source": "Luma",
   "start_date": "2026-08-16",
-  "end_date": null,
+  "end_date": "2026-08-16",
   "time": "2pm",
-  "description": "For the first event I'm picking a short classic that can be easily read in a day! If you're interested in extra context/analysis, feel free to check out the podcast episode https://www.thepanpsycast.com/panpsycast2/episo",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
+  "description": "",
+  "category": "Tech",
+  "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-07",
+  "first_seen": "2026-08-16",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Reading Room",
-  "venue": "Bishopsgate Institute",
-  "url": "https://www.bishopsgate.org.uk/whats-on/activity/reading-room",
-  "source": "Bishopsgate Institute",
-  "start_date": "2026-08-17",
-  "end_date": null,
-  "time": "",
-  "description": "",
-  "category": "Talks",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "Liverpool Street",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/pc/92574e64-096d-42a5-b3d8-2c483b758f63.png",
   "_run": "2026-08-16"
  },
  {
@@ -147,7 +73,7 @@
   "start_date": "2026-08-17",
   "end_date": null,
   "time": "18:00",
-  "description": "Get ready to mingle with fellow fashionistas, designers, and artists at our Fashion Networking With The Creatives event -  Summer edition!",
+  "description": "This networking event is now sold out. A new Fashion Networking date has been added for Thursday 20th August. Please see the description.",
   "category": "Fashion & Beauty",
   "lens": "Other",
   "is_free": false,
@@ -157,7 +83,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1 6GY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1081364993%2F124502026997%2F1%2Foriginal.20250725-165141?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C114%2C1080%2C540&s=3437f472ef6ceaaf82faea424e9944ff",
+  "_run": "2026-08-16"
  },
  {
   "title": "Networking Event: Founders, Co-Founders Tech Startup Innovators",
@@ -177,26 +105,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "\u2018Portrait of a City\u2019 Exclusive Preview - Dulwich Picture Gallery.",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/southwark-friends/events/316090298/",
-  "source": "Meetup",
-  "start_date": "2026-08-17",
-  "end_date": null,
-  "time": "2pm",
-  "description": "",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "EC2V 7BB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189118704%2F2828540380631%2F1%2Foriginal.20251024-095157?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C612%2C306&s=ac550914245340430494844411c4bdf5",
   "_run": "2026-08-16"
  },
  {
@@ -217,6 +127,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -237,26 +149,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Book Club: Piranesi",
-  "venue": "BFI Riverfront Bar",
-  "url": "https://www.meetup.com/london-sci-fi-fantasy-authors/events/315023505/",
-  "source": "Meetup",
-  "start_date": "2026-08-17",
-  "end_date": null,
-  "time": "6:30pm",
-  "description": "Join us for an evening of great discussion, favourite quotes and likeminded company! Explore Adult Sci-Fi/Fantasy with LSFA. Circa 400 pages, published in and after 2010. **The Novel:** Piranesi - Susanna Clarke Check ou",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/4r/fac727bc-f100-40ef-ab20-c5cb4df5939f.png",
   "_run": "2026-08-16"
  },
  {
@@ -277,6 +171,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -297,26 +193,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "London Bridge Writers' Group - Pub Meet",
-  "venue": "George",
-  "url": "https://www.meetup.com/london-bridge-writers/events/315720078/",
-  "source": "Meetup",
-  "start_date": "2026-08-17",
-  "end_date": null,
-  "time": "7pm",
-  "description": "**The Talbot Room at the George Inn** The George provides the room free of charge (they are awesome), and we encourage you to purchase drinks (and food \u2013 the burgers are great!). As it\u2019s a pub and not a picnic area, plea",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -337,6 +215,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -357,6 +237,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -377,6 +259,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -397,7 +281,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E20 1JQ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189534019%2F146099634322%2F1%2Foriginal.20260724-082026?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.471&fp-y=0.02&s=2288fb3b23c710fb90acda2a53b7df21",
+  "_run": "2026-08-16"
  },
  {
   "title": "Private Credit Network August Networking Drinks",
@@ -417,7 +303,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC3A 8BF",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185376872%2F27591438487%2F1%2Foriginal.20260525-180340?w=302&auto=format%2Ccompress&q=75&sharp=10&s=4862481dd09e927ad461e00f520f3439",
+  "_run": "2026-08-16"
  },
  {
   "title": "Mindstone London AI Meetup",
@@ -437,7 +325,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC1R 0EA",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F847368009%2F430233980946%2F1%2Foriginal.20240911-092103?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0965909090909&fp-y=0.269230769231&s=2539a30e02c54b3087b564373f21b02b",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startup Pitch & Networking       London",
@@ -457,7 +347,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188767131%2F3003053363819%2F1%2Foriginal.20260713-172137?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.011&fp-y=0.055&s=d73bc3a85d8a532a010908abc14b589c",
+  "_run": "2026-08-16"
  },
  {
   "title": "Tech Networking Event by Startup Valley  in  London",
@@ -477,7 +369,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188767370%2F3003053363819%2F1%2Foriginal.20260713-172401?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.02&fp-y=0.066&s=ad3d71868924d01fb862076c32a443fa",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startups &  Networking          London",
@@ -497,27 +391,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Political Philosophy and Art",
-  "venue": "Fitzrovia Community Centre",
-  "url": "https://www.eventbrite.com/e/political-philosophy-and-art-tickets-1989293732103",
-  "source": "Eventbrite",
-  "start_date": "2026-08-18",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Explore contemporary political philosophy and experiment with art",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188767759%2F3003053363819%2F1%2Foriginal.20260713-172848?w=410&auto=format%2Ccompress&q=75&sharp=10&s=90ffa92b9af041b96bcd68f2de5e6300",
+  "_run": "2026-08-16"
  },
  {
   "title": "STRIDE: Meliora | Coached Running",
@@ -537,7 +413,31 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1W 1YW",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187989290%2F2999215870093%2F1%2Foriginal.20260701-095143?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498&fp-y=0.448&s=903694fd731e932cad746935526be756",
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Content Creators, Influencers & Digital Media Professionals Networking",
+  "venue": "The Refinery Citypoint",
+  "url": "https://www.eventbrite.co.uk/e/content-creators-influencers-digital-media-professionals-networking-tickets-1993737718185",
+  "source": "Eventbrite",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "18:20",
+  "description": "Meet cool creators and influencers, swap tips, and grow your digital squad in a chill, fun vibe.",
+  "category": "Business & Professional",
+  "lens": "Other",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180644349%2F2920368650211%2F1%2Foriginal.20260325-103516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=803667a8b367afa57a76fe8d2760912d",
+  "_run": "2026-08-16"
  },
  {
   "title": "Networking Event: Beauty Stylists, Photographers, Industry Pros",
@@ -557,7 +457,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189118723%2F2828540380631%2F1%2Foriginal.20260325-100331?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C612%2C306&s=d58805dd170ae7b13cb90b597ebce913",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startup Funding & Networking: VCs, Angels & Founders",
@@ -577,7 +479,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2A 2BX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189497297%2F2774909735751%2F1%2Foriginal.20260723-191432?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0f5bc639e3115032d8253c944903b789",
+  "_run": "2026-08-16"
  },
  {
   "title": "Caribe Supper Club by Keshia Sakarah",
@@ -597,7 +501,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E8 3GU",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190754003%2F444332917456%2F1%2Foriginal.20260810-225332?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.099&s=aff8deeb4da8c30e20f00cabf16e116c",
+  "_run": "2026-08-16"
  },
  {
   "title": "World Citizens Discuss & Social: Soft Debates On Society, Culture, Politics",
@@ -617,7 +523,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1 8PS",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F832173649%2F547771642265%2F1%2Foriginal.20240822-111801?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=274%2C198%2C1568%2C784&s=c96729ec864ff63fc648f8dfbccef97d",
+  "_run": "2026-08-16"
  },
  {
   "title": "ARTSCAPE - create and enjoy art",
@@ -637,6 +545,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -657,6 +567,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/cg/fd896773-18c1-4613-93da-15ea02fb8e43.png",
   "_run": "2026-08-16"
  },
  {
@@ -677,26 +589,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "A Sci Fi/Fantasy Writing Session",
-  "venue": "Grafton Pub",
-  "url": "https://www.meetup.com/london-sci-fi-fantasy-authors/events/313221437/",
-  "source": "Meetup",
-  "start_date": "2026-08-18",
-  "end_date": null,
-  "time": "6:30pm",
-  "description": "**DUE TO LIMITED SPACE PLEASE ONLY RSVP IF ATTENDING. IF NO LONGER ATTENDING PLEASE UPDATE YOUR RSVP.** Join us in the upstairs room of the Grafton Pub in Camden for another writing-focused session. Bring whatever you\u2019re",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/st/eba4a772-12e6-4af5-a0df-1bc474659615.png",
   "_run": "2026-08-16"
  },
  {
@@ -717,26 +611,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Soho Scribblers - 2.5h writing in person",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/writetogether/events/315891614/",
-  "source": "Meetup",
-  "start_date": "2026-08-18",
-  "end_date": null,
-  "time": "6pm",
-  "description": "",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "EC1R",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -757,6 +633,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC3A",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -777,6 +655,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC3A",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -789,7 +669,7 @@
   "time": "7pm",
   "description": "**Please note: we will be reading the Hugh Aplin translation.** Written in secret during the darkest days of Stalin's reign, The Master and Margarita became an overnight literary phenomenon when it was finally published ",
   "category": "Writing",
-  "lens": "Writing",
+  "lens": "Other",
   "is_free": false,
   "area": "EC1M 7AA",
   "first_seen": "2026-08-07",
@@ -797,6 +677,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC1M",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -817,6 +699,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -837,27 +721,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/0v/7c21f3bf-65cb-4adc-84de-2d904f1a2cf2.png",
   "_run": "2026-08-16"
- },
- {
-  "title": "Holiday workshops: Intro to space science (Year 7-9)",
-  "venue": "The Royal Institution of Great Britain",
-  "url": "https://www.eventbrite.co.uk/e/holiday-workshops-intro-to-space-science-year-7-9-tickets-1991360758635",
-  "source": "Eventbrite",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "time": "11:00",
-  "description": "Dive into the theory of rockets and space travel, and design a mission to Mars.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-15",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Bankside Gallery",
@@ -877,67 +743,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "August ZEST: Creative Business Networking",
-  "venue": "Design District - Salon",
-  "url": "https://www.eventbrite.co.uk/e/august-zest-creative-business-networking-tickets-1987303118123",
-  "source": "Eventbrite",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "time": "12:30",
-  "description": "Join us for a monthly networking event that brings together business owners and fresh talent to share their knowledge and creativity.",
-  "category": "Business & Professional",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "A Must Dine-in Supper Club No.0\u2013  Hand-Rolled Noodles",
-  "venue": "Avalon Cafe",
-  "url": "https://www.eventbrite.com/e/a-must-dine-in-supper-club-no0-hand-rolled-noodles-tickets-1997186701186",
-  "source": "Eventbrite",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "time": "17:30",
-  "description": "Wednesday evening supperclub serving noodles that get ROLLED in front of you @ Avalon Cafe on the 19th of August",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "HONEYTRAP ~ BOOK LAUNCH",
-  "venue": "QueBar",
-  "url": "https://www.eventbrite.co.uk/e/honeytrap-book-launch-tickets-1996336072934",
-  "source": "Eventbrite",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Get ready to dive into secrets and suspense at the HONEYTRAP book launch\u2014fun, drinks, and thrills await!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Art Nest",
@@ -957,7 +765,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC1X 0LB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182467158%2F263745903612%2F1%2Foriginal.20260418-123044?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05986ae8fb007aa5b4715d8a285943cd",
+  "_run": "2026-08-16"
  },
  {
   "title": "How the West Came to Hate Queer Love",
@@ -977,6 +787,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -997,6 +809,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/jw/10a51dac-d14f-4144-9213-529f2fd2368f.gif",
   "_run": "2026-08-16"
  },
  {
@@ -1017,6 +831,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/fn/44eba691-dc7c-4bf9-bead-793ded46dec0.png",
   "_run": "2026-08-16"
  },
  {
@@ -1037,46 +853,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "The final ALGORAVIOLI",
-  "venue": "The Greyhound - Peckham",
-  "url": "https://luma.com/z5zxgcuc",
-  "source": "Luma",
-  "start_date": "2026-08-19",
-  "end_date": "2026-08-19",
-  "time": "7pm",
-  "description": "",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": true,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Evening critiquing session",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/hampstead-writers/events/316096998/",
-  "source": "Meetup",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "N1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1097,6 +875,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1117,6 +897,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1137,6 +919,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/e8/3aef1a67-2c8e-40ad-92f5-9367bcc26a69.png",
   "_run": "2026-08-16"
  },
  {
@@ -1157,6 +941,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1177,6 +963,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1197,67 +985,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Shut Up and Write! in Lewisham",
-  "venue": "Halcyon Books",
-  "url": "https://www.meetup.com/shutupandwritelondon/events/315902524/",
-  "source": "Meetup",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "11am",
-  "description": "Be it a book, blog, script, essay, dissertation, resume, melody, poem or just plain work stuff, you're invited to write it with us. No one will see what you've written or give you unsolicited advice. Instead of just thin",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187995214%2F545431553511%2F1%2Foriginal.20260701-120937?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b8c44c5c379a2cdc735da5575290be67",
   "_run": "2026-08-16"
- },
- {
-  "title": "Unmissable Book Launch at Word on the Water",
-  "venue": "Word On The Water - The London Bookbarge",
-  "url": "https://www.eventbrite.com/e/unmissable-book-launch-at-word-on-the-water-tickets-1994098963680",
-  "source": "Eventbrite",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "17:00",
-  "description": "An unmissable book launch with Armenian author Lucineh Danielian, presenting her latest book 'Lost Souls: Finding Solace'. Don't miss it!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "London AI Networking Event | Fintech, Digital & Tech Innovators Meetup",
-  "venue": "Home House Studio, Private Members' Club",
-  "url": "https://www.eventbrite.co.uk/e/london-ai-networking-event-fintech-digital-tech-innovators-meetup-tickets-1996633262837",
-  "source": "Eventbrite",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "17:00",
-  "description": "Network with AI pros, fintech investors, and tech innovators at London's top event. Build real connections at Home House Studio.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "The After Taste: Supper Club - By Michael Flakes",
@@ -1277,27 +1007,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Carnival of Resistance: Exhibition & Book Launch Celebration \u2013 Private View",
-  "venue": "A Celebration of Demonstration",
-  "url": "https://www.eventbrite.co.uk/e/carnival-of-resistance-exhibition-book-launch-celebration-private-view-tickets-1994941823697",
-  "source": "Eventbrite",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Join us in Brixton Village for the exclusive private view of Carnival of Resistance, a landmark photography book celebrating Carnival",
-  "category": "Community & Culture",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E2 0EL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189469018%2F777920882023%2F1%2Foriginal.20260723-130339?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e870ca21ef7cf14cfaa4cf6f8eceee5b",
+  "_run": "2026-08-16"
  },
  {
   "title": "Pub Philosophy",
@@ -1317,27 +1029,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Kaiwhenua Supperclub at The Exchange",
-  "venue": "The Exchange",
-  "url": "https://www.eventbrite.com/e/kaiwhenua-supperclub-at-the-exchange-tickets-1995443756993",
-  "source": "Eventbrite",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join acclaimed chef Matt Burgess for an intimate supper club celebrating the flavours, memories and traditions that have shaped",
-  "category": "Food & Drink",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E2 8DY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174954311%2F220864381546%2F1%2Foriginal.20260115-145107?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=366393ba6d33ae9534a37861352a25d1",
+  "_run": "2026-08-16"
  },
  {
   "title": "Small Galleries of Mayfair Tour - Art Appreciation Summer Special '26",
@@ -1357,6 +1051,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1377,6 +1073,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/gallery-images/lt/b35d9c32-58d8-4a88-8714-c7b40c765579.png",
   "_run": "2026-08-16"
  },
  {
@@ -1397,26 +1095,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Open Decks Social & Cypher presented by DistroKid",
-  "venue": "Qube Elephant & Castle - Recording studios, events space & offices",
-  "url": "https://luma.com/vhebu4ys",
-  "source": "Luma",
-  "start_date": "2026-08-20",
-  "end_date": "2026-08-20",
-  "time": "6:30pm",
-  "description": "",
-  "category": "Social",
-  "lens": "Social",
-  "is_free": true,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/7n/1a3a5d12-86dc-4876-ba24-7e9e6ac1ad81.png",
   "_run": "2026-08-16"
  },
  {
@@ -1437,6 +1117,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/jf/e3884153-93e7-4dfb-9949-74f7d1642dd5.png",
   "_run": "2026-08-16"
  },
  {
@@ -1457,6 +1139,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC2M",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1477,6 +1161,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1497,6 +1183,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/01/23b2db60-fe11-426b-9ceb-470907e213ae.png",
   "_run": "2026-08-16"
  },
  {
@@ -1517,6 +1205,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/mb/e954972b-ba46-43e2-9401-8a7010c82fec.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -1537,26 +1227,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Thursday **British Library** Writing Group + Pub",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/writetogether/events/315922275/",
-  "source": "Meetup",
-  "start_date": "2026-08-20",
-  "end_date": null,
-  "time": "6pm",
-  "description": "",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/r4/e4616a7c-306b-4299-9d9d-962c0e608057.gif",
   "_run": "2026-08-16"
  },
  {
@@ -1577,6 +1249,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "E11",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1597,6 +1271,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1617,6 +1293,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1637,6 +1315,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1657,6 +1337,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1677,6 +1359,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1697,6 +1381,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1717,7 +1403,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC1V 8AS",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190782253%2F473962268165%2F1%2Foriginal.20260811-092147?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7fc808859bbc3ad43f90dee314cca45b",
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Interpreted Tours of The Coming of Age",
@@ -1737,67 +1425,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "The Big Talk Social",
-  "venue": "The Avalon",
-  "url": "https://www.eventbrite.com/e/the-big-talk-social-tickets-1996822358427",
-  "source": "Eventbrite",
-  "start_date": "2026-08-21",
-  "end_date": null,
-  "time": "18:00",
-  "description": "The Big Talk Social: Bringing the rugby community together to raise mental health awareness, support each other, and start conversations.",
-  "category": "Community & Culture",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Indian Professionals in London - Eat, Drink and Socialise Meetup",
-  "venue": "Masala Kraft",
-  "url": "https://www.eventbrite.co.uk/e/indian-professionals-in-london-eat-drink-and-socialise-meetup-tickets-1992341162048",
-  "source": "Eventbrite",
-  "start_date": "2026-08-21",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Step into a stunning open-air terrace in the heart of Bankside, offering space to IPL guests a warm friday post work social meetup to chill",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Ring Making Workshop",
-  "venue": "Art4Space",
-  "url": "https://www.eventbrite.com/e/ring-making-workshop-tickets-1992168855675",
-  "source": "Eventbrite",
-  "start_date": "2026-08-21",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Make your own ring! Learn the basics of jewellery making in a fun, beginner-friendly workshop. All materials included.",
-  "category": "Fashion & Beauty",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Art Appreciation Summer Special - Five Great pictures at the National Gallery",
@@ -1817,6 +1447,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1837,6 +1469,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/k3/dbd30791-80b4-4b7b-ab49-aad3f366b3ff.png",
   "_run": "2026-08-16"
  },
  {
@@ -1857,6 +1491,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/xw/811be990-b02b-4f9a-9f69-da360af2dbcb.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -1877,46 +1513,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "WRITE CLUB: one hour of silent writing (or reading) in the company of others",
-  "venue": "The Southbank Centre",
-  "url": "https://www.meetup.com/experimentsin/events/315825117/",
-  "source": "Meetup",
-  "start_date": "2026-08-21",
-  "end_date": null,
-  "time": "6pm",
-  "description": "The first rule of WRITE CLUB is that you do not talk ***during*** WRITE CLUB. This very simple meetup is based on the premise that public and peer accountability enables more productive writing than sitting at home and g",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Camden Writing Group - 2h in-person",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/writetogether/events/315935912/",
-  "source": "Meetup",
-  "start_date": "2026-08-21",
-  "end_date": null,
-  "time": "6pm",
-  "description": "",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1937,6 +1535,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1957,6 +1557,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/z8/1c186a5b-e384-443b-a6ea-1c61887568ad.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -1977,6 +1579,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -1997,27 +1601,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Kenjutsu - learn the real Samurai's swordfight and philosophy",
-  "venue": "Floreat Wandsworth Primary School (side entrance, in Garret Lane)",
-  "url": "https://www.eventbrite.co.uk/e/kenjutsu-learn-the-real-samurais-swordfight-and-philosophy-tickets-1245858950659",
-  "source": "Eventbrite",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "10:00",
-  "description": "Every Saturday, 10 am to 12 pm (see below for more details).  A trial  class to know more about the techniques created by Musashi",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Mosquitoes Warnings",
@@ -2037,6 +1623,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2057,6 +1645,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2077,7 +1667,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1 4TP",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F478011629%2F40377882414%2F1%2Foriginal.20230326-190741?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C334%2C1600%2C800&s=75144c1fc592c4638c592352897a1d9f",
+  "_run": "2026-08-16"
  },
  {
   "title": "Photo Walk: Kosmo Foto DIREKTOR",
@@ -2089,7 +1681,7 @@
   "time": "11:00am",
   "description": "Join Stephen from Kosmo Foto and the Bookshop Team for a cinematic photo walk on Saturday 22 August.",
   "category": "Bookshop Event",
-  "lens": "Writing",
+  "lens": "Other",
   "is_free": false,
   "area": "Soho",
   "first_seen": "2026-08-07",
@@ -2097,87 +1689,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Shut Up and Write! [London/Waterstones Piccadilly]",
-  "venue": "5th View",
-  "url": "https://www.meetup.com/shutupandwritelondon/events/314280665/",
-  "source": "Meetup",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "11:30am",
-  "description": "Join us at the top of the biggest bookshop in Europe to work in company on your own writing, be it a book, blog, screenplay, dissertation, poem, song, coursework, memoir, play, journal, travel writing, work stuff or anyt",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "W1J 9LE",
-  "first_seen": "2026-08-16",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Reading Group: \"The Original Accident\" by Paul Virilio",
-  "venue": "Reading group headquarters",
-  "url": "https://www.meetup.com/philosophy-of-life-sciences-group/events/316072493/",
-  "source": "Meetup",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "12:30pm",
-  "description": "For this iteration of the Philosophy of Life Sciences Reading Group, we will be reading Paul Virilio's \"The Original Accident\". Virilio was a theorist of technology and modernity, and one of his central ideas is that eve",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "London Read Together \u2013 End of summer edition!",
-  "venue": "Meetup",
-  "url": "https://www.meetup.com/writetogether/events/315996150/",
-  "source": "Meetup",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "12pm",
-  "description": "",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Introduction to Risograph",
-  "venue": "30 Poplar Pl",
-  "url": "https://www.eventbrite.co.uk/e/introduction-to-risograph-tickets-1984464651192",
-  "source": "Eventbrite",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "14:00",
-  "description": "In this group workshop, you'll learn how to create artwork for risograph printing and learn how to use the TACO! Print Studio",
-  "category": "Hobbies & Special Interest",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Philosophy in the Park 146 (in Cabot Square)",
@@ -2197,6 +1711,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "E14",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2217,6 +1733,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2237,32 +1755,14 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC2B",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
-  "title": "EVENT FULL V for Van Gogh House London",
-  "venue": "Vincent Van Gogh House",
-  "url": "https://www.meetup.com/london-museums-a-z-lomaz/events/314628027/",
-  "source": "Meetup",
-  "start_date": "2026-08-22",
-  "end_date": null,
-  "time": "3:30pm",
-  "description": "**Join us at the Van Gogh House London for a guided tour at 3.30pm of the residence of a young Van Gogh from 1873-4.** 87 Hackford Road is a Grade II listed building that has been renovated and conserved by the Wang fami",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Singles Coffee \u2615\ud83c\udf79 @ Tate Britain, Make New Friends!\ud83c\udf1f\ud83c\udfa8",
+  "title": "Saturday Coffee \u2615\ud83c\udf79 @ Tate Britain, Make New Friends!\ud83c\udf1f\ud83c\udfa8",
   "venue": "Tate Britain",
-  "url": "https://www.meetup.com/zensingles/events/314278821/",
+  "url": "https://www.meetup.com/cityzenlondon/events/314694934/",
   "source": "Meetup",
   "start_date": "2026-08-22",
   "end_date": null,
@@ -2272,11 +1772,13 @@
   "lens": "Tech",
   "is_free": false,
   "area": "London SW1P 4RG",
-  "first_seen": "2026-08-07",
+  "first_seen": "2026-08-16",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SW1P",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2297,6 +1799,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2317,6 +1821,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "W2",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2337,6 +1843,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2357,26 +1865,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
-  "venue": "London, United Kingdom",
-  "url": "https://luma.com/london-summer-lock-in",
-  "source": "Luma",
-  "start_date": "2026-08-22",
-  "end_date": "2026-08-22",
-  "time": "9:30am",
-  "description": "",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": true,
-  "area": "London",
-  "first_seen": "2026-08-16",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/mp/0c72a58d-fee4-4994-8a12-b5aa90486a30.png",
   "_run": "2026-08-16"
  },
  {
@@ -2397,6 +1887,30 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Summer Bead Jewellery Making Workshop \u2013 Beginners Welcome",
+  "venue": "E10 5SB",
+  "url": "https://www.eventbrite.co.uk/e/summer-bead-jewellery-making-workshop-beginners-welcome-tickets-1996989755115",
+  "source": "Eventbrite",
+  "start_date": "2026-08-23",
+  "end_date": null,
+  "time": "12:00",
+  "description": "Join us for a fun and creative bead jewellery making workshop as part of the Summer Programme at London Artworks East.",
+  "category": "Hobbies & Special Interest",
+  "lens": "Workshops",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "E10 5SB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191100248%2F559880192925%2F1%2Foriginal.20260814-191409?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fdec32ceb606309511c2b23677a4487e",
   "_run": "2026-08-16"
  },
  {
@@ -2417,26 +1931,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Life Drawing @ Trestle. Easel, Sun August 23rd 15:00 to 17:45 Model: Tom",
-  "venue": "Trestle Arts Base",
-  "url": "https://www.meetup.com/st-albans-life-drawing-meetup/events/314474886/",
-  "source": "Meetup",
-  "start_date": "2026-08-23",
-  "end_date": null,
-  "time": "3pm",
-  "description": "**\\*Please read description\\*** **THIS IS EASEL allocation** This is now where to book for easels (x8). If you book here you will be booking an easel. Sunday August 23rd 2026. Life drawing St Albans @ Trestle arts! Our m",
-  "category": "Art & Design",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "St Albans",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2457,6 +1953,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2477,47 +1975,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Holiday workshops: Invention and Design (Year 3 and 4)",
-  "venue": "The Royal Institution of Great Britain",
-  "url": "https://www.eventbrite.co.uk/e/holiday-workshops-invention-and-design-year-3-and-4-tickets-1990791725642",
-  "source": "Eventbrite",
-  "start_date": "2026-08-24",
-  "end_date": null,
-  "time": "11:00",
-  "description": "Learn what it takes to be an inventor in this fun and engaging workshop",
-  "category": "Family & Education",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Networking Event: Founders, Co-Founders, Entrepreneurs for Startups",
-  "venue": "The Anthologist",
-  "url": "https://www.eventbrite.co.uk/e/networking-event-founders-co-founders-entrepreneurs-for-startups-tickets-1994413858539",
-  "source": "Eventbrite",
-  "start_date": "2026-08-24",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Meet cool startup folks, swap ideas, and make connections that could kickstart your next big venture!",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Planning Mixer for Architecture, Urban Design & Environmental Consultancy",
@@ -2537,27 +1997,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "BioTech, Pharma, MedTech Networking & Pitch Event in London",
-  "venue": "Blue Fin Building",
-  "url": "https://www.eventbrite.co.uk/e/biotech-pharma-medtech-networking-pitch-event-in-london-tickets-1996217854339",
-  "source": "Eventbrite",
-  "start_date": "2026-08-24",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2V 7BB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186864586%2F2999787131123%2F1%2Foriginal.20260614-123241?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b810be0470b7671da196b88092aa43fb",
+  "_run": "2026-08-16"
  },
  {
   "title": "How To Sharpen Your Mind",
@@ -2577,6 +2019,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2597,6 +2041,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2617,7 +2063,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1109082753%2F2828540380631%2F1%2Foriginal.20250829-211122?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=730b36c1fd0eb2975fb21b7274757354",
+  "_run": "2026-08-16"
  },
  {
   "title": "Graphic Design & Digital Creatives Networking for Startups & Directors",
@@ -2637,7 +2085,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188691389%2F2920368650211%2F1%2Foriginal.20251205-160611?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1078%2C539&s=ffb32410ab86827040d459bc2da89466",
+  "_run": "2026-08-16"
  },
  {
   "title": "London Creative Networking Event \u2013 Designers, Founders & Startups",
@@ -2657,7 +2107,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC2B 5BX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186627204%2F2774909735751%2F1%2Foriginal.20260610-201957?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2951d40ba9830eff6087c6452b349646",
+  "_run": "2026-08-16"
  },
  {
   "title": "Future of Architecture & Interior Design Networking",
@@ -2677,7 +2129,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188225868%2F2999695587774%2F1%2Foriginal.20260705-083453?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cb263836786967ae3a46874594c604bd",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startup Founders & Innovators London Networking Event",
@@ -2697,47 +2151,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Business and Startups Social Networking Event with Elevator Pitch",
-  "venue": "The Anthologist",
-  "url": "https://www.eventbrite.co.uk/e/business-and-startups-social-networking-event-with-elevator-pitch-tickets-1994171155608",
-  "source": "Eventbrite",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Join us at the highly anticipated  London Business and Startups Networking Event,  create connexions with  like-minded entrepreneurs!",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "The Psychology of Dictators",
-  "venue": "The Blues Kitchen Brixton",
-  "url": "https://www.eventbrite.co.uk/e/the-psychology-of-dictators-tickets-1993008150027",
-  "source": "Eventbrite",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Explore the minds behind history\u2019s worst atrocities and what they reveal about power, evil, and human nature. Followed by Q&A.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2V 7BB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184232618%2F3001570364989%2F1%2Foriginal.20260510-122107?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f41dd75e186fa34041aa23eeef64d6ab",
+  "_run": "2026-08-16"
  },
  {
   "title": "UK to Adopt Regional Devolution instead of City-Level Devolution",
@@ -2757,6 +2173,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2777,6 +2195,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "N1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2797,6 +2217,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC2A",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2817,6 +2239,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2837,6 +2261,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2857,26 +2283,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Writing together Session in New Cross (MESSAGE GRAIG for location)",
-  "venue": "New Cross",
-  "url": "https://www.meetup.com/se-london-creative-writing-group/events/314234745/",
-  "source": "Meetup",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "time": "8pm",
-  "description": "**Message Graig in advance for location, usually a pub or beer garden in new cross** Come along and join some fellow writers. We'll write together and chat together. Take two hours to get creative! All you need is yourse",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2897,7 +2305,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW6 3SG",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180331520%2F341557126929%2F1%2Foriginal.20260320-172130?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C250%2C2000%2C1000&s=a432598923d0b4ab3ba67ed0c8175162",
+  "_run": "2026-08-16"
  },
  {
   "title": "Bodies by Atelier - Nude life drawing",
@@ -2917,7 +2327,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1C 4DY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189012875%2F2688081211101%2F1%2Foriginal.20260716-163627?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=efd82b4e578cea080f2638ce2a620f8b",
+  "_run": "2026-08-16"
  },
  {
   "title": "Quigs X Arodazi Bookmark Making Workshop",
@@ -2937,7 +2349,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1W 3HB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190536675%2F2676645557981%2F1%2Foriginal.20260807-115207?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=8942797d0f15d29007984eff46537ed4",
+  "_run": "2026-08-16"
  },
  {
   "title": "How to Get Ahead of Being Dead",
@@ -2957,26 +2371,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "A Sci Fi/Fantasy Feedback Session",
-  "venue": "Craft Beer Co. Brixton",
-  "url": "https://www.meetup.com/london-sci-fi-fantasy-authors/events/314828158/",
-  "source": "Meetup",
-  "start_date": "2026-08-26",
-  "end_date": null,
-  "time": "6:30pm",
-  "description": "Join us at Craft Beer Co. Brixton for our structured Sci-Fi & Fantasy Feedback Session. A supportive, focused space where writers can share their work and receive constructive, thoughtful critique. These sessions are des",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "Brixton",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -2997,6 +2393,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "N1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3017,27 +2415,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "EM Life Drawing} Mythic Forms: Transforming the Body Into Figures of Legend",
-  "venue": "Firepit Art Gallery and Studios CIC",
-  "url": "https://www.eventbrite.co.uk/e/em-life-drawing-mythic-forms-transforming-the-body-into-figures-of-legend-tickets-1988638532383",
-  "source": "Eventbrite",
-  "start_date": "2026-08-27",
-  "end_date": null,
-  "time": "18:45",
-  "description": "We do not instruct; instead, we invite participants to share. We believe that art connects people, and sharings improve creativity!",
-  "category": "Hobbies & Special Interest",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E8 2EB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190424698%2F142327811094%2F1%2Foriginal.20260806-005131?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1b018d6c186e9b04df1803dc9bb3a1dd",
+  "_run": "2026-08-16"
  },
  {
   "title": "Life, Stuck Together: The Handmade Journal Making Workshop",
@@ -3057,47 +2437,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Book Launch (Acid House) Party",
-  "venue": "26 Curtain Rd",
-  "url": "https://www.eventbrite.co.uk/e/book-launch-acid-house-party-tickets-1996364467864",
-  "source": "Eventbrite",
-  "start_date": "2026-08-27",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Launch of the new book 'A Hitchhiker's Guide to Acid House' by cult author, Ryan Battles. Q&A with Paninaro magazine plus vinyl DJs.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Fun and Engaging Public Speaking",
-  "venue": "DoubleTree by Hilton London Kensington",
-  "url": "https://www.eventbrite.co.uk/e/fun-and-engaging-public-speaking-tickets-1990343817938",
-  "source": "Eventbrite",
-  "start_date": "2026-08-27",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Make 2026 the Year You Transform Your Speaking Skills! with London Corinthians - Club with the buzz with currently areas best speakers!!!!",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW5 1PB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180684718%2F2894105939161%2F1%2Foriginal.20260325-180615?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1432f6bc91e4764d7313e64bb8b5c4f8",
+  "_run": "2026-08-16"
  },
  {
   "title": "Around the Table x Lilac: Supper Club",
@@ -3117,7 +2459,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW5 2TG",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190801461%2F2802136921191%2F1%2Foriginal.20260811-143206?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4502654e914f13b0a014a4df716c9abd",
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Tour: East of Aldgate Pump",
@@ -3137,6 +2481,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3157,6 +2503,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3177,6 +2525,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC4A",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3197,6 +2547,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1N",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3217,6 +2569,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3237,26 +2591,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Claudia Rankine & Victoria Adukwei Bulley: Triage",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/claudia-rankine-victoria-adukwei-bulley-triage-tickets-1994580586226",
-  "source": "London Review Bookshop",
-  "start_date": "2026-08-27",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3277,27 +2613,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "'Write A Complete Story' Creative Writing Workshop - London Bridge SE1",
-  "venue": "John Harvard Library, Borough",
-  "url": "https://www.eventbrite.co.uk/e/write-a-complete-story-creative-writing-workshop-london-bridge-se1-tickets-1996594797787",
-  "source": "Eventbrite",
-  "start_date": "2026-08-28",
-  "end_date": null,
-  "time": "09:30",
-  "description": "A fun, exciting, inspiring workshop that focuses on bringing all the key elements together to write a wonderful story.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Empire and Legacy: Colonisation, Decolonisation and the Politics of Memory",
@@ -3317,7 +2635,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1P 3JX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187992729%2F545431553511%2F1%2Foriginal.20250626-181106?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C35%2C720%2C360&s=b133f3c72e1eb920e1232f020339336e",
+  "_run": "2026-08-16"
  },
  {
   "title": "Networking Event: Art, Fashion & Entertainment Professionals in London",
@@ -3337,7 +2657,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2M 4WY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189120108%2F2828540380631%2F1%2Foriginal.20251026-104540?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C612%2C306&s=c56ebbef89f58ca4e6291a99e0604f82",
+  "_run": "2026-08-16"
  },
  {
   "title": "Supper at Scarlett's - August supper club",
@@ -3357,7 +2679,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 4DX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189970691%2F404690707955%2F1%2Foriginal.20260730-163453?h=200&auto=format%2Ccompress&q=75&sharp=10&s=7cffde412f7873445f92db8feba077d2",
+  "_run": "2026-08-16"
  },
  {
   "title": "V&A Friday Late: A Night of Art, Music, and Connection! \ud83c\udfa8\ud83c\udfb6",
@@ -3377,6 +2701,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SW7",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3397,27 +2723,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "PageMasters Zine Fair 2026 @ South London Gallery",
-  "venue": "South London Gallery",
-  "url": "https://www.eventbrite.co.uk/e/pagemasters-zine-fair-2026-south-london-gallery-tickets-1995676837142",
-  "source": "Eventbrite",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "11:00",
-  "description": "Pagemasters Zine Fair turns 10! Join us at South London Gallery with 40+ publishers tables and 40 new titles on the communal table!",
-  "category": "Community & Culture",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Art For The Sake Of Art",
@@ -3437,86 +2745,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Creative writing workshop: Writing with nature",
-  "venue": "Good Shepherd Studios",
-  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-nature-tickets-1993763749044",
-  "source": "Eventbrite",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "14:00",
-  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Chronicles of Hopeful Hearts - Book Launch",
-  "venue": "Calvary Charismatic Baptist Church, Poplar",
-  "url": "https://www.eventbrite.co.uk/e/chronicles-of-hopeful-hearts-book-launch-tickets-1992957648977",
-  "source": "Eventbrite",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "17:45",
-  "description": "A celebration of faith, community, and the power of hope.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Write-in at the Mitre: work on your own material in convivial company",
-  "venue": "The Mitre Greenwich",
-  "url": "https://www.meetup.com/greenwich-writers-group/events/315922030/",
-  "source": "Meetup",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "2pm",
-  "description": "**We will be at The Mitre pub in central Greenwich.** This meetup is free and casual. We just sit around for a few hours and write together. Bring a laptop, or use a pen and paper or clay tablet and stylus if that's what",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "MACS Goes To\u2026 Museum of Soho \u2728",
-  "venue": "All Is Joy Studios",
-  "url": "https://www.meetup.com/macs-museum-art-culture-socials/events/316043267/",
-  "source": "Meetup",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "3:30pm",
-  "description": "**Join MACS at the Museum of Soho for the FREE exhibition \u2018The Magnificent Mr Mole\u2019 on Saturday 29 August!** \u201cPeople talk about it being important to make memories. On that score, Mole has certainly made me the richest o",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E3 2JG",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189725030%2F3009274939108%2F1%2Foriginal.20260727-191110?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C500%2C4000%2C2000&s=222c8bb469b220ff8e18fca9cadd384e",
   "_run": "2026-08-16"
  },
  {
@@ -3537,26 +2767,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Childhood: A Full Day of Writing + Eating + Drinking + A Free Book + a Pub Quiz!",
-  "venue": "Finch's",
-  "url": "https://www.meetup.com/write-and-pint/events/315873337/",
-  "source": "Meetup",
-  "start_date": "2026-08-29",
-  "end_date": null,
-  "time": "7pm",
-  "description": "**[YOU CAN ALSO BOOK DIRECTLY VIA OUR WEBSITE: https://www.writeandpint.com/events/childhood-a-full-day-of-creative-writing-eating-drinking-a-free-book-a-pub-quiz]** ... **About the Event** Hi there \u2728 Whoever you are, yo",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3577,7 +2789,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Audio Described Tour of the Audrey Amiss and Rudy Loewe Exhibitions",
@@ -3597,6 +2811,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3617,27 +2833,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Dear Young Minister | Book Launch with Prophet Jeremiah Babatunde",
-  "venue": "World Harvest Christian Centre",
-  "url": "https://www.eventbrite.co.uk/e/dear-young-minister-book-launch-with-prophet-jeremiah-babatunde-tickets-1996329347819",
-  "source": "Eventbrite",
-  "start_date": "2026-08-30",
-  "end_date": null,
-  "time": "17:00",
-  "description": "Dear Young Minister book launch by Prophet Jeremiah Babatunde. Sun 30 Aug 2026, 5pm, World Harvest Christian Centre, London.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E2 0JD",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187197855%2F2531347914571%2F1%2Foriginal.20260618-142321?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.589&s=37555a86f047830f7a38cc5fef7eaec7",
+  "_run": "2026-08-16"
  },
  {
   "title": "Social @ The Wallace Collection - museum GEM! plus Walk to Soho",
@@ -3657,6 +2855,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3677,6 +2877,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3697,6 +2899,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC3N",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3717,6 +2921,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3737,6 +2943,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3757,6 +2965,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3777,6 +2987,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SW1E",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3797,6 +3009,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC2E",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3817,6 +3031,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3837,6 +3053,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3857,27 +3075,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "September - F2F London People Analytics Meetup",
-  "venue": "TBC",
-  "url": "https://www.eventbrite.co.uk/e/september-f2f-london-people-analytics-meetup-tickets-1981574116525",
-  "source": "Eventbrite",
-  "start_date": "2026-09-02",
-  "end_date": null,
-  "time": "17:30",
-  "description": "Join our next People Analytics London Meetup! It'll be a casual event, with lots of time for networking and talking about work projects.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "The London Startup Meetup 2026",
@@ -3897,7 +3097,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 9NL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183234868%2F867315957643%2F1%2Foriginal.20260428-153124?crop=focalpoint&fit=crop&w=302&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a6967feb244668d50825a0e735a68e57",
+  "_run": "2026-08-16"
  },
  {
   "title": "Marketing, Advertising, PR Networking Mixer",
@@ -3917,7 +3119,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190445697%2F2920368650211%2F1%2Foriginal.20251110-110015?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C600%2C300&s=84eb9c00e1c9386d55fa5e6a9168aa0e",
+  "_run": "2026-08-16"
  },
  {
   "title": "The Vitality Collective: Startup Funding, VCs, Angels & Founders",
@@ -3937,7 +3141,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2Y 9HT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188596093%2F2999695587774%2F1%2Foriginal.20260710-075454?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49aa1c958c621925b4b720a92b622342",
+  "_run": "2026-08-16"
  },
  {
   "title": "Life and Death in the Viking Age",
@@ -3957,26 +3163,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "In person meetup to critique work submitted by members.",
-  "venue": "The Mitre",
-  "url": "https://www.meetup.com/greenwich-writers-group/events/315902647/",
-  "source": "Meetup",
-  "start_date": "2026-09-02",
-  "end_date": null,
-  "time": "7:30pm",
-  "description": "This is a live session at The Mitre in Greenwich. The purpose of this meeting is to provide and receive critique on submitted extracts of members' creative writing, whether they're working on a novel, screenplay, poetry,",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "Greenwich",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -3997,6 +3185,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4017,7 +3207,53 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E16 2RD",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189894339%2F2012070194263%2F1%2Foriginal.20260729-173021?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ed0bf54c1d3359ab3f5cdfd95198a44c",
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Startup & Business Networking in London",
+  "venue": "The City Pride",
+  "url": "https://www.eventbrite.com/e/startup-business-networking-in-london-tickets-1997935259143",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "18:00",
+  "description": "London startup & business networking: connect with founders, investors & entrepreneurs. Build partnerships and scale your business.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "EC1R 3AU",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191026708%2F2985960207467%2F1%2Foriginal.20260814-002223?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.053&fp-y=0.17&s=ed429a93f76852a4815b3f6b7a1e2b1d",
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Startup Tech & AI Networking in London",
+  "venue": "The City Pride",
+  "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-london-tickets-1997935256134",
+  "source": "Eventbrite",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "18:00",
+  "description": "Dive into tech with other professionals! Network and build strong relationships with investors, tech experts, and entrepreneurs in London.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "EC1R 3AU",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191026682%2F2985960207467%2F1%2Foriginal.20260814-002205?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.036&fp-y=0.126&s=9c8f9506d362042dfaeac59f6d179fae",
+  "_run": "2026-08-16"
  },
  {
   "title": "Interior Design and Architecture Networking Event",
@@ -4037,27 +3273,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Book Launch: Big Man by Dean Atta",
-  "venue": "Hackney Central Library",
-  "url": "https://www.eventbrite.co.uk/e/book-launch-big-man-by-dean-atta-tickets-1991691830881",
-  "source": "Eventbrite",
-  "start_date": "2026-09-03",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Join award-winning author Dean Atta for the launch of his debut adult novel, Big Man.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC1M 5RR",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189996447%2F125563239849%2F1%2Foriginal.20260730-220917?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=132011a281e0e443431b5968e7f12d36",
+  "_run": "2026-08-16"
  },
  {
   "title": "Francis Fukuyama on the New World Order",
@@ -4077,7 +3295,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 2UN",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179671776%2F2789402681151%2F1%2Foriginal.20260312-103452?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=51bf50263e8773a4d8e4b69c7f43c01d",
+  "_run": "2026-08-16"
  },
  {
   "title": "Apollo and the Remaking of Wall Street",
@@ -4097,6 +3317,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4117,6 +3339,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4137,6 +3361,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4157,26 +3383,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Jana Prikryl & Richard Ayoade: The Channel",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/jana-prikryl-richard-ayoade-the-channel-tickets-1993534978786",
-  "source": "London Review Bookshop",
-  "start_date": "2026-09-03",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/gianluca-gotto-locandina-copy-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -4197,6 +3405,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4217,6 +3427,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4237,27 +3449,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "A People's History of London - Book Launch",
-  "venue": "St Annes Soho",
-  "url": "https://www.eventbrite.co.uk/e/a-peoples-history-of-london-book-launch-tickets-1996369731608",
-  "source": "Eventbrite",
-  "start_date": "2026-09-04",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Launch for the Second Edition of A People's History of London",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW87RJ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190107078%2F2992303407209%2F1%2Foriginal.20260801-193311?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=571a9e4bff8a32cb5a79b74f2b5a21ba",
+  "_run": "2026-08-16"
  },
  {
   "title": "Magick in Seven Objects",
@@ -4277,27 +3471,31 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Magick-in-Seven-Objects-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
-  "title": "Who Knows Where the Time Goes?  A Reflective Saturday Writing Workshop",
-  "venue": "Rampayne Street",
-  "url": "https://www.eventbrite.co.uk/e/who-knows-where-the-time-goes-a-reflective-saturday-writing-workshop-tickets-1995062901845",
+  "title": "researchED National Conference 2026 #rED26",
+  "venue": "Parliament Hill School",
+  "url": "https://www.eventbrite.co.uk/e/researched-national-conference-2026-red26-tickets-1987011099688",
   "source": "Eventbrite",
   "start_date": "2026-09-05",
   "end_date": null,
-  "time": "10:00",
-  "description": "A day of reflection to help you slow down, gain clarity and reconnect with what matters most.",
-  "category": "Writing",
-  "lens": "Writing",
+  "time": "09:00",
+  "description": "The year's biggest and best education conference is BACK. Join us for evidence, learning, and growing",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-07",
+  "first_seen": "2026-08-16",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW5 1RL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181722483%2F519039745061%2F1%2Foriginal.20260408-192517?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=884772d3cbeeba8ba6416bb45768aab2",
+  "_run": "2026-08-16"
  },
  {
   "title": "Qi Gong  & Tea  with Matter Wellness",
@@ -4317,7 +3515,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 2HY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186406486%2F2996831598207%2F1%2Foriginal.20260608-144444?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.517&fp-y=0.41&s=4d1640290a90b9884f6f585dafd22725",
+  "_run": "2026-08-16"
  },
  {
   "title": "Move and Sketch at  Nunnery Gallery",
@@ -4337,26 +3537,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Write Together Social (Holborn)",
-  "venue": "The Square Pig",
-  "url": "https://www.meetup.com/londonwriterscafe/events/315514251/",
-  "source": "Meetup",
-  "start_date": "2026-09-05",
-  "end_date": null,
-  "time": "12:30pm",
-  "description": "**Write together with other writers. If you write more surrounded by others, I hope you'll join these new sessions.** Starting up regular Saturday sessions where we writers will gather to write in the same space. There w",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London WC1V 6NX",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E3 2SJ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188414146%2F34655002728%2F1%2Foriginal.20260707-225951?crop=focalpoint&fit=crop&w=330&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.458&fp-y=0.535&s=e6c1a523f795e622b75a5db0694950b3",
   "_run": "2026-08-16"
  },
  {
@@ -4377,27 +3559,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "How\u2019s Home - the book launch road trip",
-  "venue": "The Old Street Gallery",
-  "url": "https://www.eventbrite.co.uk/e/hows-home-the-book-launch-road-trip-tickets-1995529971864",
-  "source": "Eventbrite",
-  "start_date": "2026-09-05",
-  "end_date": null,
-  "time": "15:00",
-  "description": "What happens to our essence when life happens? When the health issue shows up?  The divorce? The heart break? The loss? Or even success?",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "NW2 6UY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189130447%2F2990531024775%2F1%2Foriginal.20260718-171009?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=19518eece7587c17f7b8bd6a59d01bfb",
+  "_run": "2026-08-16"
  },
  {
   "title": "RSVP - Launch Supper Club",
@@ -4417,7 +3581,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E16 1DP",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188240615%2F3006329813537%2F1%2Foriginal.20260705-180706?crop=focalpoint&fit=crop&h=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.983&s=210cd236dfb65d761eb853d5f1347e65",
+  "_run": "2026-08-16"
  },
  {
   "title": "Tom's Supper Club @ Palm2springs",
@@ -4437,47 +3603,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Bufo Bufo Summer Supper Club",
-  "venue": "Dovedales Bakery",
-  "url": "https://www.eventbrite.co.uk/e/bufo-bufo-summer-supper-club-tickets-1996651959760",
-  "source": "Eventbrite",
-  "start_date": "2026-09-05",
-  "end_date": null,
-  "time": "19:00",
-  "description": "An evening of seasonal food and friends",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "MI Story: Held At The Table",
-  "venue": "South London Louie",
-  "url": "https://www.eventbrite.co.uk/e/mi-story-held-at-the-table-tickets-1990521088158",
-  "source": "Eventbrite",
-  "start_date": "2026-09-05",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Held at the Table is an intimate supper club experience created for bereaved parents \u2014 a gentle space for comfort and shared understanding.",
-  "category": "Food & Drink",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E5 0QJ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188689717%2F1996455622053%2F1%2Foriginal.20260712-071350?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c4278d0ade3d15210448d1846e125231",
+  "_run": "2026-08-16"
  },
  {
   "title": "LGBTQ+ Meetup",
@@ -4497,7 +3625,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC1V 7JH",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184929380%2F2997599986536%2F1%2Foriginal.20260519-105948?w=300&auto=format%2Ccompress&q=75&sharp=10&s=93bf2faf2b943026985591c72e48f949",
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Tours of \u2018The Coming of Age\u2019 with Rubbena Aurangzeb-Tariq",
@@ -4517,6 +3647,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4537,46 +3669,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Portrait of a City: A Century of American Photography @ Dulwich Picture Gallery",
-  "venue": "Dulwich Picture Gallery",
-  "url": "https://www.meetup.com/london-museums-a-z-lomaz/events/315836482/",
-  "source": "Meetup",
-  "start_date": "2026-09-05",
-  "end_date": null,
-  "time": "2:30pm",
-  "description": "**Join us at the Dulwich Picture Gallery for the 'Portrait of a City: A Century of American Photography' exhibition.** Step into a century of American city life through photographs that capture the people who built, inha",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London  SE21 7AD",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "coffee & writing first meet!",
-  "venue": "SnugBite",
-  "url": "https://www.meetup.com/meetup-group-dpdnnvka/events/316129204/",
-  "source": "Meetup",
-  "start_date": "2026-09-06",
-  "end_date": null,
-  "time": "11am",
-  "description": "The first meet! Grab your notebook, pens or laptop (or all three) and get ready for a casual writing session for you to focus on your latest project. We'll meet inside the cafe at 11am and write for the first hour or so ",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "Bromley",
-  "first_seen": "2026-08-16",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E3",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4597,27 +3691,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Hot Takes Presentation Night",
-  "venue": "Prince of Peckham Pub",
-  "url": "https://www.eventbrite.co.uk/e/hot-takes-presentation-night-tickets-1997271491797",
-  "source": "Eventbrite",
-  "start_date": "2026-09-06",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us for our Hot Takes Presentation Night! An evening of bold opinions  laughs, friendly debates, and great company!",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Why Do We Need Empathy?",
@@ -4637,27 +3713,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "AI Tools for Employability & Modern Work",
-  "venue": "Hanwell Community Centre",
-  "url": "https://www.eventbrite.co.uk/e/ai-tools-for-employability-modern-work-tickets-1996099925611",
-  "source": "Eventbrite",
-  "start_date": "2026-09-07",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Use AI tools to strengthen your CV, applications, and interview prep \u2014 while keeping data safe and staying in control.\nLevel: beginner \u00b7 Ideal for: Adults returning to work or changing careers\n8-week ",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Networking Event:Tech Founders, AI, Intelligent Systems for Startups & Pros",
@@ -4677,27 +3735,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "An introduction to quantum theory 2026 (short course)",
-  "venue": "The Royal Institution of Great Britain",
-  "url": "https://www.eventbrite.co.uk/e/an-introduction-to-quantum-theory-2026-short-course-tickets-1993905840042",
-  "source": "Eventbrite",
-  "start_date": "2026-09-07",
-  "end_date": null,
-  "time": "19:00",
-  "description": "James Millen returns with a 6-part introduction to the world of quantum theory",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2V 7BB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1109337813%2F2828540380631%2F1%2Foriginal.20250830-104503?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=8d4dee22c8cb899c21db665f58a75be1",
+  "_run": "2026-08-16"
  },
  {
   "title": "Luke Harding and Alastair Campbell: Trump, Putin and A New Age of Conquest",
@@ -4717,26 +3757,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Fiction Feedback Workshop",
-  "venue": "Three Tuns Aldgate",
-  "url": "https://www.meetup.com/londonwriterscafe/events/315641826/",
-  "source": "Meetup",
-  "start_date": "2026-09-07",
-  "end_date": null,
-  "time": "6:45pm",
-  "description": "In these regular writing workshops, we have three writers sharing a sample of their writing for immediate feedback, advice and encouragement. Critique is led and moderated by your host. You learn more by listening to the",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "N1 9AG",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189059673%2F2789402681151%2F1%2Foriginal.20260717-090356?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0be4ff7c4263761b9fc500ce54546f0d",
   "_run": "2026-08-16"
  },
  {
@@ -4757,26 +3779,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Hermione Lee & Tessa Hadley on Anita Brookner",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/hermione-lee-tessa-hadley-on-anita-brookner-tickets-1993535516394",
-  "source": "London Review Bookshop",
-  "start_date": "2026-09-07",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "WC1R",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4797,6 +3801,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4817,7 +3823,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2M 2AT",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190689268%2F2309568788323%2F1%2Foriginal.20260810-085541?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.034&fp-y=0.545&s=548c4a79ecca8e61414fafdee47329bc",
+  "_run": "2026-08-16"
  },
  {
   "title": "History Makers  at the National Portrait Gallery",
@@ -4837,7 +3845,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC2H 0HE",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190639228%2F2982594857775%2F1%2Foriginal.20260201-131904?w=330&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C38%2C330%2C165&s=e2b3d14ef0d75009f502409dcd85d261",
+  "_run": "2026-08-16"
  },
  {
   "title": "How to Change Your Life",
@@ -4857,6 +3867,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4877,6 +3889,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC2B",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4897,6 +3911,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4917,6 +3933,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4937,26 +3955,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Denise Riley & Emily Berry: A Chorus of Ears",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/denise-riley-emily-berry-a-chorus-of-ears-tickets-1987078068995",
-  "source": "London Review Bookshop",
-  "start_date": "2026-09-08",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -4977,47 +3977,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Taster session for The Creative Writing Programme in London Bridge",
-  "venue": "John Harvard Library, Borough",
-  "url": "https://www.eventbrite.co.uk/e/taster-session-for-the-creative-writing-programme-in-london-bridge-tickets-1983078952530",
-  "source": "Eventbrite",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "time": "10:00",
-  "description": "Join us for a practical writing workshop and find out more about our course and our innovative approach to teaching creative writing.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Startup Founders Meetup I London",
-  "venue": "Sindercombe Social",
-  "url": "https://www.eventbrite.com/e/startup-founders-meetup-i-london-tickets-1995075502534",
-  "source": "Eventbrite",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "time": "18:00",
-  "description": "A curated room for AI and Tech founders, investors, and professionals.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Rita Hinden Memorial Lecture: Yuan Yang MP",
@@ -5037,27 +3999,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Yarn Play with Nicola J Reid - September 2026",
-  "venue": "Firepit",
-  "url": "https://www.eventbrite.co.uk/e/yarn-play-with-nicola-j-reid-september-2026-tickets-1996465698648",
-  "source": "Eventbrite",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Unleash your creativity and have some fun by using recycled yarn & sustainable materials to create accessories.",
-  "category": "Hobbies & Special Interest",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC1V 0HB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190783616%2F2864959542631%2F1%2Foriginal.20260811-094736?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.459&fp-y=0.065&s=5b198f6a79e1c05121583c0413bff257",
+  "_run": "2026-08-16"
  },
  {
   "title": "Decolonise The Curriculum? - Whitechapel Debates",
@@ -5077,26 +4021,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Publishing Q&A w/ George Sandison, Managing Editor at Titan Books",
-  "venue": "Craft Beer Co. Brixton",
-  "url": "https://www.meetup.com/london-sci-fi-fantasy-authors/events/315789346/",
-  "source": "Meetup",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "time": "6:30pm",
-  "description": "The London Sci-Fi & Fantasy Authors are excited to present the next event in our Publishing Q&A series! **Join us on Wednesday, September 9th, at 6:30PM at Craft Beer Co. Brixton for a Q&A with the Managing Editor at Tit",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "Brixton",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E1 4TP",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190403024%2F40377882414%2F1%2Foriginal.20260203-233729?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C91%2C3000%2C1500&s=bb0cddb98371a3ab7bcfa4fca5355ab2",
   "_run": "2026-08-16"
  },
  {
@@ -5117,6 +4043,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5127,7 +4055,7 @@
   "start_date": "2026-09-10",
   "end_date": null,
   "time": "18:00",
-  "description": "London's AI builders gather to demo cutting-edge tools like OpenClaw, Claude Code, and RAG, with hands-on tech and deep dives into AI agent\u2026",
+  "description": "AI Builders Monthly London brings devs and ML experts together for live demos on OpenClaw, RAG, Claude Code, and more, plus hands-on tools\u2026",
   "category": "Tech",
   "lens": "Tech",
   "is_free": false,
@@ -5137,7 +4065,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188755208%2F46316766621%2F1%2Foriginal.20260713-150544?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1730%2C826&s=ad4ebd95778ec0aba4c7d414a7a141bc",
+  "_run": "2026-08-16"
  },
  {
   "title": "AI Builders Monthly London - Sep 10",
@@ -5157,27 +4087,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Store Cupboard Supper Club",
-  "venue": "Food & Drink Studio, 3rd Floor, Fortnum & Mason",
-  "url": "https://www.eventbrite.co.uk/e/store-cupboard-supper-club-tickets-1996788398853",
-  "source": "Eventbrite",
-  "start_date": "2026-09-10",
-  "end_date": null,
-  "time": "18:30",
-  "description": "A dinner celebrating the untapped potential of preserved ingredients.",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "More Homes, Better Places - designing place-led intensification",
@@ -5197,7 +4109,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC4 7DX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188353088%2F109030027861%2F1%2Foriginal.20260707-083001?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4b582e03e2163166295a9a541af828b5",
+  "_run": "2026-08-16"
  },
  {
   "title": "The 100 Year Life: How to Build a Life and Career You Love",
@@ -5217,6 +4131,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5237,27 +4153,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "LadyRella Book Launch",
-  "venue": "The Peckham Pelican",
-  "url": "https://www.eventbrite.com/e/ladyrella-book-launch-tickets-1979017406336",
-  "source": "Eventbrite",
-  "start_date": "2026-09-11",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Join us online for the LadyRella Book Launch\u2014discover magic, mystery, and a story like no other!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Deb8Ldn x ACLT @ The Old Street Gallery",
@@ -5277,7 +4175,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2A 4DQ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184995630%2F2152931891903%2F1%2Foriginal.20260519-235904?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f1fcc657cc3b01def14b5851802ecd76",
+  "_run": "2026-08-16"
  },
  {
   "title": "Is Islam Compatible With The West?",
@@ -5297,7 +4197,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1P 3DW",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190372392%2F3004147723083%2F1%2Foriginal.20260805-140011?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.125&s=5d035762587571413a07700e9a5d0fe5",
+  "_run": "2026-08-16"
  },
  {
   "title": "Coming of Age Exhibition & other exhibitions",
@@ -5317,6 +4219,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5337,6 +4241,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5357,6 +4263,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5377,6 +4285,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5397,6 +4307,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5417,27 +4329,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Camp Parliament for Youth London 2026",
-  "venue": "25 N Row",
-  "url": "https://www.eventbrite.com/e/camp-parliament-for-youth-london-2026-tickets-1994802715621",
-  "source": "Eventbrite",
-  "start_date": "2026-09-12",
-  "end_date": null,
-  "time": "08:00",
-  "description": "Camp Parliament for Youth London 2026 introduces girls and boys to the UK government including standing for office & serving in Parliament.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
@@ -5457,6 +4351,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5477,27 +4373,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "DIY  Art Market",
-  "venue": "Copeland Park & Bussey Building",
-  "url": "https://www.eventbrite.co.uk/e/diy-art-market-tickets-1963100955804",
-  "source": "Eventbrite",
-  "start_date": "2026-09-12",
-  "end_date": null,
-  "time": "11:00",
-  "description": "London's go-to-destination to pick up artwork on a budget, whilst supporting emerging talent.",
-  "category": "Community & Culture",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Yogasana and Philosophy half day workshop with Bibi Fabiola",
@@ -5517,67 +4395,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Alma Nine Elms Supper Club",
-  "venue": "Alma Nine Elms",
-  "url": "https://www.eventbrite.com/e/alma-nine-elms-supper-club-tickets-1994696836935",
-  "source": "Eventbrite",
-  "start_date": "2026-09-12",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Join our Supper Club for a set dinner menu,,  a welcoming local community and a memorable evening in Nine Elms.",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "The Altar of Azitsi Official Book Launch",
-  "venue": "Putney Public Library",
-  "url": "https://www.eventbrite.co.uk/e/the-altar-of-azitsi-official-book-launch-tickets-1996226104014",
-  "source": "Eventbrite",
-  "start_date": "2026-09-12",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Celebrate the launch of The Altar of Azitsi with an evening of readings and signed copies of Eleana Assima\u2019s debut romantasy.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Scatty Chefs X Cowboy Chefs -  A Supper Club in aid of FoodCycle.",
-  "venue": "Brockwell Park Community Greenhouses",
-  "url": "https://www.eventbrite.com/e/scatty-chefs-x-cowboy-chefs-a-supper-club-in-aid-of-foodcycle-tickets-1984707681101",
-  "source": "Eventbrite",
-  "start_date": "2026-09-12",
-  "end_date": null,
-  "time": "18:30",
-  "description": "A one-night-only supper club in a botanical setting - delicious food, drinks and 10/10 vibes; with all proceeds going to FoodCycle.",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E17 6DP",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188379844%2F213473518137%2F1%2Foriginal.20260707-160258?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6ba0cfdc50489bf5f4396c74bbd5e794",
+  "_run": "2026-08-16"
  },
  {
   "title": "Curator Tour of PLATFORM: Simone Brewster",
@@ -5597,6 +4417,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5617,6 +4439,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5637,6 +4461,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5657,6 +4483,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5677,6 +4505,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5697,6 +4527,30 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "London: The Realities of AI at Work: A Dynamic Conversation_Meet Up_LHR",
+  "venue": "Aldgate House",
+  "url": "https://www.eventbrite.sg/e/london-the-realities-of-ai-at-work-a-dynamic-conversation-meet-up-lhr-tickets-1996643035066",
+  "source": "Eventbrite",
+  "start_date": "2026-09-13",
+  "end_date": null,
+  "time": "18:15",
+  "description": "AI is reshaping work fast. This session gives real-world insights, evolving skills, and networking to help you stay ahead.",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "EC3N 1DL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191058164%2F2096429907363%2F1%2Foriginal.20260814-115838?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.144&fp-y=0.395&s=d9f0bdce94eee9ace7f702ad88430af7",
   "_run": "2026-08-16"
  },
  {
@@ -5717,6 +4571,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Fighting-Social-Atrophy-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -5737,6 +4593,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5757,6 +4615,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5777,27 +4637,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Book Launch: Eternal Gravity",
-  "venue": "Libreria Bookshop",
-  "url": "https://www.eventbrite.co.nz/e/book-launch-eternal-gravity-tickets-1984197245374",
-  "source": "Eventbrite",
-  "start_date": "2026-09-14",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us to celebrate the launch of \"Eternal Gravity\" \u2013 where love, physics and destiny collide.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Robert Harris: Augustus, Agrippa, and the Birth of the Roman Empire",
@@ -5817,6 +4659,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5837,6 +4681,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5857,6 +4703,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5877,6 +4725,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5897,6 +4747,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5917,6 +4769,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -5937,47 +4791,31 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E2 7DG",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189961257%2F1849715088623%2F1%2Foriginal.20260730-143912?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.015&fp-y=0.506&s=21598acc8a653ee659eb20cbcdd7b1c5",
+  "_run": "2026-08-16"
  },
  {
-  "title": "The Future is Served - South Asian Re-Mixed Supper Club",
-  "venue": "Stanley's Rooftop Bar",
-  "url": "https://www.eventbrite.com/e/the-future-is-served-south-asian-re-mixed-supper-club-tickets-1988546932405",
+  "title": "Walking Tour - In Search of Churchill",
+  "venue": "Churchill Statue, Parliament Square",
+  "url": "https://www.eventbrite.co.uk/e/walking-tour-in-search-of-churchill-tickets-1994883324725",
   "source": "Eventbrite",
   "start_date": "2026-09-15",
   "end_date": null,
-  "time": "17:00",
-  "description": "An intimate and exclusive supper club in a unique setting with The Meals Collective. Powered by Urban Rajah - NIQ Million Club 2026.",
-  "category": "Food & Drink",
-  "lens": "Social",
+  "time": "11:00",
+  "description": "Explore the political career of one of Britain's greatest statesmen!",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-07",
+  "first_seen": "2026-08-16",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "The Spectre of Pep Guardiola - book launch with Jon Mackenzie",
-  "venue": "The Blue Monk",
-  "url": "https://www.eventbrite.co.uk/e/the-spectre-of-pep-guardiola-book-launch-with-jon-mackenzie-tickets-1990115339553",
-  "source": "Eventbrite",
-  "start_date": "2026-09-15",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Exploring the evolution of modern football tactics through the prism of the greatest manager of the last 20 years: Pep Guardiola",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1P 3BD",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189414583%2F115478656475%2F1%2Foriginal.20210912-160729?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1506%2C753&s=5442de88ab923aace4bf95d3f97e0643",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startups, Entrepreneurship & Innovation Networking for Founders & Pro",
@@ -5997,7 +4835,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC2B 5BX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190203496%2F2774909735751%2F1%2Foriginal.20260803-154535?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0a18aca6ab780469f5ce5975179d0750",
+  "_run": "2026-08-16"
  },
  {
   "title": "Are \u201cInfluencers\u201d Really Good For You? - Victoria Debates",
@@ -6017,7 +4857,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1E 6SQ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171039304%2F40377882414%2F1%2Foriginal.20251115-154340?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C522%2C3500%2C1750&s=99dfe3e3cf005272a1f1960f2d6bf27f",
+  "_run": "2026-08-16"
  },
  {
   "title": "Lights Up and Audio Described Tours of The Coming of Age",
@@ -6037,6 +4879,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6057,6 +4901,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6077,6 +4923,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6097,6 +4945,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6117,27 +4967,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Politics and Business Networking | Elevating Your Potential - London",
-  "venue": "The Lucky Pig Cocktail Bar",
-  "url": "https://www.eventbrite.com/e/politics-and-business-networking-elevating-your-potential-london-tickets-1995477651372",
-  "source": "Eventbrite",
-  "start_date": "2026-09-16",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Strive welcomes you to 'Politics and Business Networking', an event for tenured and newcomers at Lucky Pig! Event is 18+. Limited Tickets.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1Y 5AH",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176063841%2F880560454653%2F1%2Foriginal.20260128-155246?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C546%2C6550%2C3275&s=eb0051cd67a803b3708aa5a2ff0459f9",
+  "_run": "2026-08-16"
  },
  {
   "title": "SMALL TALKS: a London social",
@@ -6157,7 +4989,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC2R 6DA",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175169127%2F86526248425%2F1%2Foriginal.20260118-134053?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b36a6d75df6a1e6d9cc92f199e35f85c",
+  "_run": "2026-08-16"
  },
  {
   "title": "If God is the Answer, What is the Question?",
@@ -6177,6 +5011,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/If-God-is-the-Answer-600x600.jpeg",
   "_run": "2026-08-16"
  },
  {
@@ -6197,6 +5033,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC2A",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6217,6 +5055,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6237,6 +5077,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6257,27 +5099,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Screenprinting Poster Workshop - Print Club Soda",
-  "venue": "Pigment Press",
-  "url": "https://www.eventbrite.co.uk/e/screenprinting-poster-workshop-print-club-soda-tickets-1992774744906",
-  "source": "Eventbrite",
-  "start_date": "2026-09-17",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Join us at Pigment Press for a fun and creative screen printing workshop in collaboration with the Hawks Nest.",
-  "category": "Hobbies & Special Interest",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "MAIN London - AI and Automation Networking event",
@@ -6297,7 +5121,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC3M 5AD",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178989149%2F2993963950209%2F1%2Foriginal.20260304-093137?w=450&auto=format%2Ccompress&q=75&sharp=10&s=c3d49802619863b62bc03b927f1088f4",
+  "_run": "2026-08-16"
  },
  {
   "title": "How To Kill A Witch: A Guide For The Patriarchy",
@@ -6317,6 +5143,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6337,6 +5165,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6357,26 +5187,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Jeremy Lee & Bee Wilson: Kitchening",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/jeremy-lee-bee-wilson-kitchening-tickets-1995474957314",
-  "source": "London Review Bookshop",
-  "start_date": "2026-09-17",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6397,6 +5209,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6417,27 +5231,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "SBID Industry Day 2026",
-  "venue": "The Cumberland Hotel, London",
-  "url": "https://www.eventbrite.co.uk/e/sbid-industry-day-2026-tickets-1981936818376",
-  "source": "Eventbrite",
-  "start_date": "2026-09-18",
-  "end_date": null,
-  "time": "10:00",
-  "description": "Professional industry networking event hosting exclusive B2B engagement opportunities, exhibition & Talks programme for interior designers.",
-  "category": "Business & Professional",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC3M 4BS",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190692390%2F1810768870193%2F1%2Foriginal.20260810-095308?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.203&fp-y=0.498&s=11ae0f8579a62cf8b944981e2dd39ffb",
+  "_run": "2026-08-16"
  },
  {
   "title": "Home Design Talk: The Inspiration Behind Our Chelsea Art Festival Stage",
@@ -6457,7 +5253,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1W 8EL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190714413%2F2096093388103%2F1%2Foriginal.20260810-154029?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=63a28fa91c69be1282ff5269f1bfb058",
+  "_run": "2026-08-16"
  },
  {
   "title": "THE GREEN SOCIALIST: Zack Polanski, Russell Warfield and Ava Evans",
@@ -6477,7 +5275,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC2H 0EB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189777223%2F226155393170%2F1%2Foriginal.20260728-112244?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3645cf713226612dd3dab301e64f9c28",
+  "_run": "2026-08-16"
  },
  {
   "title": "Conway Hall Open House Tour",
@@ -6497,87 +5297,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Watercolour_ConwayHall_FrederickHerbertMansford_1926-600x600.jpg",
   "_run": "2026-08-16"
- },
- {
-  "title": "Sitting in the Fire of Conflict.  A Reflective Saturday Writing Workshop",
-  "venue": "Rampayne Street",
-  "url": "https://www.eventbrite.co.uk/e/sitting-in-the-fire-of-conflict-a-reflective-saturday-writing-workshop-tickets-1995064242856",
-  "source": "Eventbrite",
-  "start_date": "2026-09-19",
-  "end_date": null,
-  "time": "10:00",
-  "description": "A day of reflection exploring conflict, communication and authentic connection.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Amplify Her Writing Workshop",
-  "venue": "The Ministry, Borough | Workspace & Members' Club | South London",
-  "url": "https://www.eventbrite.com/e/amplify-her-writing-workshop-tickets-1992213051867",
-  "source": "Eventbrite",
-  "start_date": "2026-09-19",
-  "end_date": null,
-  "time": "11:00",
-  "description": "Amplify Her is a thriving community committed to empowering women in the music industry through live events.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Intergenerational Meetup",
-  "venue": "London LGBTQ+ Community Centre",
-  "url": "https://www.eventbrite.co.uk/e/intergenerational-meetup-tickets-1990315200342",
-  "source": "Eventbrite",
-  "start_date": "2026-09-19",
-  "end_date": null,
-  "time": "15:30",
-  "description": "A space for LGBTQ+ folks of different generations to meet.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Private Healthcare Networking Event",
-  "venue": "Grind at the National Theatre",
-  "url": "https://www.eventbrite.co.uk/e/private-healthcare-networking-event-tickets-1987323470999",
-  "source": "Eventbrite",
-  "start_date": "2026-09-19",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Join a healthcare networking event for professionals in private healthcare to connect, collaborate, and grow your professional network.",
-  "category": "Business & Professional",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Philosophy in the Park 148",
@@ -6597,26 +5319,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "IAL - Group Exhibition Discussion",
-  "venue": "POSK - POLISH SOCIAL & CULTURAL ASSOCIATION IN LONDON",
-  "url": "https://www.meetup.com/independent-london-artists/events/316113242/",
-  "source": "Meetup",
-  "start_date": "2026-09-19",
-  "end_date": null,
-  "time": "4pm",
-  "description": "# Independent Artists of London \u2014 Exhibition Planning Meetup For this meetup, we\u2019ll come together to discuss and shape our plans for a future **Independent Artists of London exhibition**. We\u2019ll use the session to: * Shar",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "E3",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6637,46 +5341,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "London Fashion Week Networking event",
-  "venue": "DoubleTree by Hilton London Kensington",
-  "url": "https://www.eventbrite.co.uk/e/london-fashion-week-networking-event-tickets-1992513255785",
-  "source": "Eventbrite",
-  "start_date": "2026-09-20",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Come and join us at The Creatives networking event during London Fashion Week to network with like minded creatives.",
-  "category": "Fashion & Beauty",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Life Drawing @ Trestle. Easel, Sun September 20th 15:00 to 17:45 Model: TBA",
-  "venue": "Trestle Arts Base",
-  "url": "https://www.meetup.com/st-albans-life-drawing-meetup/events/314474977/",
-  "source": "Meetup",
-  "start_date": "2026-09-20",
-  "end_date": null,
-  "time": "3pm",
-  "description": "**\\*Please read description\\*** **THIS IS EASEL allocation** This is now where to book for easels (x8). If you book here you will be booking an easel. Sunday September 20th 2026. Life drawing St Albans @ Trestle arts! Ou",
-  "category": "Art & Design",
-  "lens": "Workshops",
-  "is_free": false,
-  "area": "St Albans",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "SE1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6697,6 +5363,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Trio-Archai-c-Sophie-Williams-WEB-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -6717,6 +5385,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6737,6 +5407,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6757,27 +5429,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Chess Club Drama Club - London Book Launch Event",
-  "venue": "Guildhall",
-  "url": "https://www.eventbrite.co.uk/e/chess-club-drama-club-london-book-launch-event-tickets-1986091614483",
-  "source": "Eventbrite",
-  "start_date": "2026-09-22",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us for the Chess Club Drama Club London Book Launch Event \u2013 leadership, creativity, inclusion, food, drink and Club Mix music!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC3A 8BF",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185376995%2F27591438487%2F1%2Foriginal.20260525-180520?w=267&auto=format%2Ccompress&q=75&sharp=10&s=b1a1f141cc36faa0695ed09cce7e098a",
+  "_run": "2026-08-16"
  },
  {
   "title": "Edge Debate 201: Who\u2019s Afraid of Good Research and Information?",
@@ -6797,26 +5451,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Fiction Feedback Workshop",
-  "venue": "The Sutton Arms, EC1",
-  "url": "https://www.meetup.com/londonwriterscafe/events/315514248/",
-  "source": "Meetup",
-  "start_date": "2026-09-22",
-  "end_date": null,
-  "time": "6:45pm",
-  "description": "Writers, learn more about writing fiction well through our constructive feedback, comradery and lively discussion. You'll be amazed at what you can learn by listening, and sharing your own words once you feel ready. No p",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "EC2V 7HH",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190296435%2F126094754589%2F1%2Foriginal.20260804-162231?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=adc9341cac62d64e0c6d0dc9f930bc5f",
   "_run": "2026-08-16"
  },
  {
@@ -6837,6 +5473,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6857,6 +5495,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -6877,27 +5517,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "London Design Social",
-  "venue": "Chelsea Old Town Hall",
-  "url": "https://www.eventbrite.com/e/london-design-social-tickets-1997390051412",
-  "source": "Eventbrite",
-  "start_date": "2026-09-23",
-  "end_date": null,
-  "time": "10:00",
-  "description": "The Design Social is a curated popup created to better connect interior designers with the creatives behind the boutique brands they love.",
-  "category": "Home & Lifestyle",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "2026 Housing Design Awards - London",
@@ -6917,86 +5539,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Jacaranda Books Box Sets Launch Party",
-  "venue": "50 Victoria Embankment",
-  "url": "https://www.eventbrite.co.uk/e/jacaranda-books-box-sets-launch-party-tickets-1988549075816",
-  "source": "Eventbrite",
-  "start_date": "2026-09-23",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Join us for a special celebration as we launch the Jacaranda Books Box Sets - tickets redeemable against any box set purchase on the night!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "The Marketing Meetup IRL: Brixton, London",
-  "venue": "Piano House",
-  "url": "https://www.eventbrite.co.uk/e/the-marketing-meetup-irl-brixton-london-tickets-1994819334328",
-  "source": "Eventbrite",
-  "start_date": "2026-09-23",
-  "end_date": null,
-  "time": "18:00",
-  "description": "The London Marketing Meetup is an informal, friendly place to meet, learn, and share knowledge with one another. Come in 'listen' mode  :)",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Trauma to Triumph Book Launch",
-  "venue": "Soul Mama Islington",
-  "url": "https://www.eventbrite.co.uk/e/trauma-to-triumph-book-launch-tickets-1997427179463",
-  "source": "Eventbrite",
-  "start_date": "2026-09-23",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Join the official launch of Trauma to Triumph an inspiring evening of resilience, transformation and finding the strength to move forward.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "David Kynaston & Alison Light: Deep Into the Sixties; Britain 1965\u201366",
-  "venue": "London Review Bookshop",
-  "url": "https://www.eventbrite.co.uk/e/david-kynaston-alison-light-deep-into-the-sixties-britain-196566-tickets-1995677487086",
-  "source": "London Review Bookshop",
-  "start_date": "2026-09-23",
-  "end_date": null,
-  "time": "7pm",
-  "description": "",
-  "category": "Literary event",
-  "lens": "Other",
-  "is_free": false,
-  "area": "Bloomsbury",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "NW1 4NS",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188546943%2F35661261576%2F1%2Foriginal.20260709-160158?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.786&fp-y=0.566&s=fa32eee0a23435c07dd9bf23b28eb878",
   "_run": "2026-08-16"
  },
  {
@@ -7017,6 +5561,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7037,6 +5583,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7057,47 +5605,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Castle Play Space: Creative writing workshop: Journeys and transformations",
-  "venue": "The Castle Play Space",
-  "url": "https://www.eventbrite.co.uk/e/castle-play-space-creative-writing-workshop-journeys-and-transformations-tickets-1995465591300",
-  "source": "Eventbrite",
-  "start_date": "2026-09-24",
-  "end_date": null,
-  "time": "18:00",
-  "description": "A chance to nurture your creativity in a calm, supportive environment. Babies welcome!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Aesthetics of Risk: Art, Design, and the Cultural Politics of Uncertainty",
-  "venue": "Gorvy Lecture Theatre, Royal College of Art",
-  "url": "https://www.eventbrite.co.uk/e/aesthetics-of-risk-art-design-and-the-cultural-politics-of-uncertainty-tickets-1996466324520",
-  "source": "Eventbrite",
-  "start_date": "2026-09-24",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us for the book launch of Aesthetics of Risk: Art, Design, and the Cultural Politics of Uncertainty by Francesca Laura Cavallo.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1W 8EL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186580196%2F2353599561223%2F1%2Foriginal.20260610-105641?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b44d31760bf6c293e93a1279cbcbde05",
+  "_run": "2026-08-16"
  },
  {
   "title": "Carlo Rovelli: Lessons on Physics and Philosophy",
@@ -7117,7 +5627,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 2UN",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180658240%2F2789402681151%2F1%2Foriginal.20260325-135903?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=bef6b7f3649d271c9d6b14495b261682",
+  "_run": "2026-08-16"
  },
  {
   "title": "Wellcome Collection Lates: The Friendship Effect",
@@ -7137,6 +5649,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7157,6 +5671,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7177,6 +5693,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7197,27 +5715,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Stratford Creative Writing Workshop",
-  "venue": "Stratford Library",
-  "url": "https://www.eventbrite.co.uk/e/stratford-creative-writing-workshop-tickets-1993661588479",
-  "source": "Eventbrite",
-  "start_date": "2026-09-25",
-  "end_date": null,
-  "time": "17:30",
-  "description": "Discover your voice, build your confidence, and grow through creative writing.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Go\u00fbt\u00e9 Bon Supper Club: Anniversary",
@@ -7237,27 +5737,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Building Your First GenAI Solution",
-  "venue": "Warren Centre Basement",
-  "url": "https://www.eventbrite.co.uk/e/building-your-first-genai-solution-tickets-1996436196406",
-  "source": "Eventbrite",
-  "start_date": "2026-09-25",
-  "end_date": null,
-  "time": "18:30",
-  "description": "GenAI is reshaping industries across the board\u2014from creative arts to finance\u2014unlocking new efficiencies, insights, and possibilities.",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E2 7RU",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189493019%2F2753158565961%2F1%2Foriginal.20260723-181910?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.497&fp-y=0.483&s=e0ac8b1203030806f79ab32075619786",
+  "_run": "2026-08-16"
  },
  {
   "title": "Workshop: The Workwear Jacket",
@@ -7277,47 +5759,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Book Launch  - Bed 24 Chronicles  Conference",
-  "venue": "St Philips Church",
-  "url": "https://www.eventbrite.co.uk/e/book-launch-bed-24-chronicles-conference-tickets-1996332805160",
-  "source": "Eventbrite",
-  "start_date": "2026-09-26",
-  "end_date": null,
-  "time": "13:00",
-  "description": "Dive into the wild world of Bed 24 Chronicles and meet the minds behind the story at this chill launch event!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "South Bermondsey",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Creative writing workshop: Writing with art",
-  "venue": "Good Shepherd Studios",
-  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-art-tickets-1993764204406",
-  "source": "Eventbrite",
-  "start_date": "2026-09-26",
-  "end_date": null,
-  "time": "14:00",
-  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Lawrence Abu Hamdan: The Crack and the Boom",
@@ -7337,27 +5781,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "B-Sides and Outtakes Book Launch",
-  "venue": "Kismet Caf\u00e9 \u2022 Art gallery \u2022 Event Space",
-  "url": "https://www.eventbrite.co.uk/e/b-sides-and-outtakes-book-launch-tickets-1014649533067",
-  "source": "Eventbrite",
-  "start_date": "2026-09-26",
-  "end_date": null,
-  "time": "17:00",
-  "description": "Food, drink, music & poetry. Free entry!  I'd love for you to come celebrate the launch of my new book with me.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Nazanin Zaghari-Ratcliffe: On Freedom",
@@ -7377,6 +5803,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7397,27 +5825,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Manya African Dining Series Launch - The Soft Life Supper Club",
-  "venue": "The Africa Centre",
-  "url": "https://www.eventbrite.co.uk/e/manya-african-dining-series-launch-the-soft-life-supper-club-tickets-1989625329921",
-  "source": "Eventbrite",
-  "start_date": "2026-09-27",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Kick back and enjoy a chill night of West African flavors and good vibes at The Soft Life Supper Club launch! from our special guest chef",
-  "category": "Food & Drink",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "T is for The Coming of Age exhibition @ Wellcome Collection",
@@ -7437,6 +5847,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "NW1",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7449,7 +5861,7 @@
   "time": "2:50pm",
   "description": "* **read event description before signing up** * **register on Meetup to attend** * **update RSVP if plans change** * **arrive at 2.50pm, doors open 2.40pm** * **read the Book before session** * **review the Questions** ",
   "category": "Writing",
-  "lens": "Writing",
+  "lens": "Other",
   "is_free": false,
   "area": "London",
   "first_seen": "2026-08-07",
@@ -7457,6 +5869,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "EC1Y",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7477,6 +5891,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Hero-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -7497,6 +5913,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/08/Piatti-Quartet-c-Venetia-Jollands-2-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -7517,6 +5935,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7537,7 +5957,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SE11 5HL",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189865472%2F116332016471%2F1%2Foriginal.20260729-104322?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=78744644ddd791c98c589864604dc1eb",
+  "_run": "2026-08-16"
  },
  {
   "title": "How to Prevent World War Three",
@@ -7557,26 +5979,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Philosophy Cafe: Topic to be decided",
-  "venue": "The Square Pig, Holborn",
-  "url": "https://www.meetup.com/the-philosophy-cafe-london/events/316096973/",
-  "source": "Meetup",
-  "start_date": "2026-09-28",
-  "end_date": null,
-  "time": "6:50pm",
-  "description": "The topic for this evening will be announced nearer the time. As usual at Philosophy Cafe London, the aim is not to listen passively but to think together. There will be a short introduction to the chosen topic, followed",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-16",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7597,6 +6001,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7617,7 +6023,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187987482%2F45839895729%2F1%2Foriginal.20260701-090540?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2135e49e949d0f400cbaa92af330ac99",
+  "_run": "2026-08-16"
  },
  {
   "title": "Startup Funding & Networking: VCs, Angels & Founders",
@@ -7637,46 +6045,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Book Launch \u2014 The Whole Routine by Edward Thomasson",
-  "venue": "ICA",
-  "url": "https://www.ica.art/talks/book-launch-the-whole-routine-by-edward-thomasson",
-  "source": "ICA",
-  "start_date": "2026-09-30",
-  "end_date": null,
-  "time": "",
-  "description": "Join Montez Press to celebrate the launch of Edward Thomasson\u2019sThe Whole Routine, with an in-conversation between Thomasson and Fiont\u00e1n Moran discussing the work, its development and publication.",
-  "category": "Talks & events",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "The Mall",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Women of Bath and Willesden: Ordinary Women in English Literature",
-  "venue": "Gresham College",
-  "url": "https://www.gresham.ac.uk/whats-on/women-bath",
-  "source": "Gresham College",
-  "start_date": "2026-09-30",
-  "end_date": null,
-  "time": "",
-  "description": "",
-  "category": "Talks",
-  "lens": "Talks",
-  "is_free": true,
-  "area": "Holborn",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "EC3N 4AF",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190490074%2F2774909735751%2F1%2Foriginal.20260806-193338?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a871ceb2c8e63daadcbc445572c74dc9",
   "_run": "2026-08-16"
  },
  {
@@ -7697,6 +6067,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7717,6 +6089,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7737,47 +6111,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Earth To Us Exhibition (October 1st - 24th)",
-  "venue": "Firepit Art Gallery and Studios CIC",
-  "url": "https://www.eventbrite.com/e/earth-to-us-exhibition-october-1st-24th-registration-1989314495206",
-  "source": "Eventbrite",
-  "start_date": "2026-10-01",
-  "end_date": null,
-  "time": "18:00",
-  "description": "A Living Archive for Queer POC Nature Connection",
-  "category": "Community & Culture",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Earth To Us Exhibition - Opening Night",
-  "venue": "Firepit Art Gallery and Studios CIC",
-  "url": "https://www.eventbrite.com/e/earth-to-us-exhibition-opening-night-registration-1997683843151",
-  "source": "Eventbrite",
-  "start_date": "2026-10-01",
-  "end_date": null,
-  "time": "18:00",
-  "description": "A Living Archive for Queer POC Nature Connection",
-  "category": "Community & Culture",
-  "lens": "Openings",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "London - ISEP x  People, Planet, Pint\u2122: Sustainability Meetup",
@@ -7797,7 +6133,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SE1 7TY",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174393371%2F1895081677233%2F1%2Foriginal.20260109-090314?crop=focalpoint&fit=crop&w=302&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.042&fp-y=0.142&s=1ccce0a76e809c2d0fc870480302b544",
+  "_run": "2026-08-16"
  },
  {
   "title": "Goldsmiths MA Art & (Global) Politics (Activism) - Alumni/Students Mixer",
@@ -7817,27 +6155,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Indian Wellness Rituals x Bengali Supper Club",
-  "venue": "SE5 0DE",
-  "url": "https://www.eventbrite.com/e/indian-wellness-rituals-x-bengali-supper-club-tickets-1991088760080",
-  "source": "Eventbrite",
-  "start_date": "2026-10-01",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Angie & Sohini are coming together to take you on a sensory journey through ancient traditions, and delicious home cooked food.",
-  "category": "Health & Wellness",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E1 7QX",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189779017%2F210376989109%2F1%2Foriginal.20260728-115232?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.182&fp-y=0.448&s=3957a32ea68847897eba1209ee70ee00",
+  "_run": "2026-08-16"
  },
  {
   "title": "London PyTorch #28",
@@ -7857,6 +6177,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7877,6 +6199,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7897,27 +6221,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "AI & Society Run & Coffee Club | London Event",
-  "venue": "Italian Gardens",
-  "url": "https://www.eventbrite.com/e/ai-society-run-coffee-club-london-event-tickets-1993883851273",
-  "source": "Eventbrite",
-  "start_date": "2026-10-04",
-  "end_date": null,
-  "time": "08:30",
-  "description": "Join us for a fun run and coffee chat in London, mixing AI talks with good vibes and a morning coffee/tea!",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "No\u00fbs Quartet",
@@ -7937,6 +6243,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/08/NEW-Nous-Quartet-2-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -7957,6 +6265,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7977,6 +6287,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -7997,6 +6309,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8017,27 +6331,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "THE CITY ENVIRONMENT DEBATE            'LIVING IN HARMONY WITH NATURE'",
-  "venue": "Arup",
-  "url": "https://www.eventbrite.co.uk/e/the-city-environment-debate-living-in-harmony-with-nature-tickets-1993314263621",
-  "source": "Eventbrite",
-  "start_date": "2026-10-06",
-  "end_date": null,
-  "time": "16:00",
-  "description": "How will we achieve the global behaviour change required?",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "What Do You Need a Mathematician For? Perspectives from the 17th Century",
@@ -8057,47 +6353,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "WM College Foundation Art and Design - Talk and Tour Event",
-  "venue": "WM College",
-  "url": "https://www.eventbrite.co.uk/e/wm-college-foundation-art-and-design-talk-and-tour-event-tickets-1992813489793",
-  "source": "Eventbrite",
-  "start_date": "2026-10-07",
-  "end_date": null,
-  "time": "10:00",
-  "description": "This event is an opportunity to find out more about the Foundation Course in Art and Design offered here at WM College.",
-  "category": "Other",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "RTG Quarterly Networking Event - The Purpose Architects",
-  "venue": "Uncommon Creative Studio",
-  "url": "https://www.eventbrite.com/e/rtg-quarterly-networking-event-the-purpose-architects-tickets-1995842895828",
-  "source": "Eventbrite",
-  "start_date": "2026-10-07",
-  "end_date": null,
-  "time": "17:30",
-  "description": "An evening of keynote, panel and networking on what it takes to build a purpose led business. In partnership with Paddy & Scott's and UCS",
-  "category": "Food & Drink",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Niels Bohr and the Making of Modern Physics",
@@ -8117,6 +6375,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8137,6 +6397,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Katherine-Rundell-Conway-Hall-600x500.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8157,27 +6419,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "The Health Nav - CEP Private Networking Dinner",
-  "venue": "Arthur Hooper's",
-  "url": "https://www.eventbrite.co.uk/e/the-health-nav-cep-private-networking-dinner-tickets-1988311875343",
-  "source": "Eventbrite",
-  "start_date": "2026-10-08",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us for the Health Nav - CEP Private Networking Dinner and connect with industry pros in a relaxed setting!",
-  "category": "Health & Wellness",
-  "lens": "Other",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Philosophies of East & West - First Evening to 18 Week Course",
@@ -8197,7 +6441,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 2UN",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189243799%2F70456206087%2F1%2Foriginal.20260720-190533?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.062&fp-y=0.339&s=ac107bba602666f027e276ac96a63e18",
+  "_run": "2026-08-16"
  },
  {
   "title": "Optimal Hype x UiPath | Autumn Tech Gathering",
@@ -8217,6 +6463,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8237,6 +6485,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/06/Andrew-GD-image-copy-Large-600x600.jpeg",
   "_run": "2026-08-16"
  },
  {
@@ -8257,7 +6507,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N6 6PJ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107652833%2F80891904179%2F1%2Foriginal.20250828-143044?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495265151515&fp-y=0.558495821727&s=54f5ac518af554c2e8eb80b5ce82d716",
+  "_run": "2026-08-16"
  },
  {
   "title": "Slavoj \u017di\u017eek: Signs from the Future",
@@ -8277,6 +6529,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8297,7 +6551,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "N1 2UN",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188834903%2F76975971195%2F1%2Foriginal.20260714-143950?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1b1936930206f2e92dd5c4381cde863",
+  "_run": "2026-08-16"
  },
  {
   "title": "Edinburgh Quartet",
@@ -8317,6 +6573,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Edinburgh-Quartet-WEB-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8337,6 +6595,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8357,6 +6617,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8377,6 +6639,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8397,7 +6661,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC2A 3AA",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184122550%2F292524187264%2F1%2Foriginal.20260508-142207?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.488&fp-y=0.534&s=0b4b5682db0617eb5f76976263c7acb6",
+  "_run": "2026-08-16"
  },
  {
   "title": "Inside the World of The Beatles, with Gary Kemp, Simon Halfon & Tom Holland",
@@ -8417,6 +6683,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Gary-Kemp-850x500-1-600x500.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8437,6 +6705,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8457,27 +6727,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Philosophies of East & West - First Evening to 18 Week Course",
-  "venue": "The Bridge",
-  "url": "https://www.eventbrite.co.uk/e/philosophies-of-east-west-first-evening-to-18-week-course-tickets-1994507123497",
-  "source": "Eventbrite",
-  "start_date": "2026-10-14",
-  "end_date": null,
-  "time": "19:00",
-  "description": "Introduction to the major concepts from Eastern & Western Philosophy, exploring their relevance and practical application.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "SAS: Behind Enemy Lines with Damien Lewis",
@@ -8497,6 +6749,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8517,6 +6771,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Beeban-Kidron-Sandi-Toksvig-850x500-1-600x500.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8537,27 +6793,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "Going Under: Anaesthesia, Art and Altered States creative writing workshop",
-  "venue": "Association of Anaesthetists of Great Britain and Ireland",
-  "url": "https://www.eventbrite.co.uk/e/going-under-anaesthesia-art-and-altered-states-creative-writing-workshop-tickets-1994289803487",
-  "source": "Eventbrite",
-  "start_date": "2026-10-15",
-  "end_date": null,
-  "time": "18:00",
-  "description": "Explore the language and images surrounding anaesthesia in this creative writing workshop led by writer, poet and researcher Sarah Fletcher.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Jacob Mchangama in conversation with Jeffrey Howard - Gower Street",
@@ -8577,7 +6815,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "WC1E 6EQ",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082812193%2F206334532617%2F1%2Foriginal.20191204-120754?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C7086%2C3543&s=aa6f87508f2b949d0b405c13b4fded67",
+  "_run": "2026-08-16"
  },
  {
   "title": "The Peaceful Crystallographer \u2013 and Other Songs",
@@ -8597,6 +6837,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/The-Peaceful-Crystallographer-and-Other-Songs-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8617,6 +6859,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Double-Bill-Soraya-Verjee-and-No-More-Girl-Friday-1-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -8637,7 +6881,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "SW1P 3BN",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1158423053%2F134395561324%2F1%2Foriginal.20251021-114336?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1500%2C750&s=9b27e452a21be2b822f6c9a4a9b288a7",
+  "_run": "2026-08-16"
  },
  {
   "title": "Relaxed Openings of The Coming of Age",
@@ -8657,6 +6903,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8677,6 +6925,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/05/Creating-Beyond-the-Mainstream-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8697,6 +6947,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/05/Bloomsbury-concert-COMBINED-STARS-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8717,6 +6969,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8737,7 +6991,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "EC1R 0HB",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190538704%2F765499275203%2F1%2Foriginal.20260807-123449?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ae85b3279a71237eb2729f2e68452ba6",
+  "_run": "2026-08-16"
  },
  {
   "title": "The Undersea War: The Invisible Battle for Supremacy",
@@ -8757,6 +7013,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8777,6 +7035,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Dvorak-Piano-Quartet-WEB-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8797,6 +7057,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8817,6 +7079,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8837,6 +7101,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8857,6 +7123,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8877,6 +7145,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8897,6 +7167,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8917,6 +7189,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Ghibli-and-Goodness-1-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -8937,6 +7211,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Sechel-and-Sensibility-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -8957,6 +7233,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -8977,6 +7255,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/THE-CABINET-OF-DR-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -8997,7 +7277,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Deaf Rave Festival \u2013 Nighttime",
@@ -9017,27 +7299,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Creative writing workshop: Writing with ghosts",
-  "venue": "Good Shepherd Studios",
-  "url": "https://www.eventbrite.co.uk/e/creative-writing-workshop-writing-with-ghosts-tickets-1993770368844",
-  "source": "Eventbrite",
-  "start_date": "2026-10-31",
-  "end_date": null,
-  "time": "14:00",
-  "description": "A chance to nurture your creativity in a calm, supportive environment, through readings and writing exercises.",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "",
+  "image": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Darbar: A Voice Without Borders by Sandeep Narayan",
@@ -9057,6 +7321,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9077,6 +7343,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9097,6 +7365,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Aida-Trio-WEB-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -9117,6 +7387,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9137,6 +7409,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9157,26 +7431,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-16"
- },
- {
-  "title": "Harry Enfield: And No Chums!",
-  "venue": "Barbican",
-  "url": "https://www.barbican.org.uk/whats-on/2026/event/harry-enfield-and-no-chums-0",
-  "source": "Barbican",
-  "start_date": "2026-11-03",
-  "end_date": null,
-  "time": "",
-  "description": "",
-  "category": "Talks & events",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "Barbican",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9197,7 +7453,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "postcode": "E8 4EA",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189775025%2F487460873569%2F1%2Foriginal.20260728-103900?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dc6c81a9b5c9d18655087494733f9fc3",
+  "_run": "2026-08-16"
  },
  {
   "title": "The Philosophy Prescription",
@@ -9217,6 +7475,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9237,6 +7497,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/News-Club-Network-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -9257,6 +7519,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9277,6 +7541,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/News-Club-Network-600x600.png",
   "_run": "2026-08-16"
  },
  {
@@ -9297,6 +7563,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/A-History-of-Black-People-and-Alternative-Music-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -9317,6 +7585,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "WC1R 4RL",
+  "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Greenwich-Trio-WEB-600x600.jpg",
   "_run": "2026-08-16"
  },
  {
@@ -9337,6 +7607,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9357,6 +7629,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9377,27 +7651,9 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
- },
- {
-  "title": "AI for Equity book launch (London)",
-  "venue": "University of Westminster - Little Titchfield Street Campus",
-  "url": "https://www.eventbrite.co.uk/e/ai-for-equity-book-launch-london-tickets-1997144173986",
-  "source": "Eventbrite",
-  "start_date": "2026-11-12",
-  "end_date": null,
-  "time": "18:30",
-  "description": "Join us in London for the AI for Equity book launch - connect, and explore how AI can boost fairness!",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
  },
  {
   "title": "Curator Tour of The Nue Black Aesthetic",
@@ -9417,6 +7673,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  },
  {
@@ -9437,6 +7695,8 @@
   "why": "",
   "mixed": false,
   "tag": "",
+  "postcode": "",
+  "image": "",
   "_run": "2026-08-16"
  }
 ]
