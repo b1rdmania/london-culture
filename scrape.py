@@ -111,6 +111,8 @@ TITLE_SKIP = [
     "writing", "writers", "write-in", "shut up and write", "book club", "book launch", "novel", "memoir",
     "bsl ", "audio described", "livestream", "quartet", "trio", "recital", "conference", "ages 7",
     "menopause", "toastmasters", "hike", "run club", "sold out",
+    "africa", "african", "private credit", "influencer", "marketing", "vibe coding", "meditation",
+    "black heritage", "black &", "black and mixed", "diaspora", "coached running", "stride:",
 ]
 
 

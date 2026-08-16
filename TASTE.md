@@ -25,7 +25,8 @@ not to sit in a dark room.
 - Ticket-shop noise: "General Admission", venue entry, immersive experiences.
 - Jogging, running clubs, run-and-drinks, fitness of any kind.
 - Private equity, VC, investing, wealth, HNWI, "capital" anything.
-- Black history, equality/diversity/inclusion, activism-as-event.
+- Black history / heritage, Africa-themed, diaspora, equality/diversity/inclusion, activism-as-event.
+- Influencers, marketing, private credit, vibe coding, meditation, running clubs.
 - Live painting, poetry nights, spoken word, ceramics, pottery.
 - Anything writing: writing workshops, writers' groups, book launches, book clubs. Not a writer.
 
