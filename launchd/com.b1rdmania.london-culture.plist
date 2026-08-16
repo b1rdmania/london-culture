@@ -6,7 +6,7 @@
     <string>/bin/bash</string>
     <string>/Users/andy/Documents/london-culture/publish-local.sh</string>
   </array>
-  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>30</integer></dict>
+  <key>StartCalendarInterval</key><dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>30</integer></dict>
   <key>RunAtLoad</key><false/>
   <key>StandardOutPath</key><string>/Users/andy/Documents/london-culture/launchd/run.log</string>
   <key>StandardErrorPath</key><string>/Users/andy/Documents/london-culture/launchd/run.log</string>
