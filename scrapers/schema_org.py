@@ -207,7 +207,6 @@ class MeetupScraper(SchemaOrgScraper):
     urls = [
         "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&categoryId=546",  # tech
         "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&keywords=ai",
-        "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&keywords=writing",
         "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&keywords=art%20gallery",
         "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&keywords=politics",
         "https://www.meetup.com/find/?location=gb--17--London&source=EVENTS&keywords=philosophy",

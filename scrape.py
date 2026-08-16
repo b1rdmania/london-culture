@@ -47,8 +47,6 @@ SCRAPERS = [
     WhitechapelScraper,
     # talks / politics / ideas
     ConwayHallScraper, GreshamScraper, BishopsgateScraper, HowToAcademyScraper,
-    # writing
-    LRBBookshopScraper,
     # tech / scene
     LumaScraper, MeetupScraper, EventbriteScraper,
 ]
@@ -109,6 +107,7 @@ TITLE_SKIP = [
     "private equity", "venture capital", " vc ", "investor", "wealth",
     "black history", "equality", "diversity", "inclusion", "dei ",
     "live painting", "poetry", "spoken word", "ceramic", "pottery",
+    "writing", "writers", "write-in", "shut up and write", "book club", "book launch", "novel", "memoir",
 ]
 
 
@@ -137,7 +136,7 @@ def filter_events(events):
     return sorted(unique, key=lambda e: (e.start_date, e.time or ""))
 
 
-LENSES = ["Talks", "Politics & Ideas", "Tech", "Writing", "Openings", "Workshops", "Social"]
+LENSES = ["Talks", "Politics & Ideas", "Tech", "Openings", "Workshops", "Social"]
 
 
 def normalize_category(cat: str, title: str = "") -> str:
@@ -150,8 +149,6 @@ def normalize_category(cat: str, title: str = "") -> str:
         return "Politics & Ideas"
     if any(w in c or w in t for w in ["tech", "startup", "founder", "ai ", "a.i.", "software", "developer", "coding"]):
         return "Tech"
-    if any(w in c or w in t for w in ["poetry", "poet", "book launch", "novel", "writing", "author", "bookshop"]):
-        return "Writing"
     if any(w in c for w in ["opening", "private view", "late"]) or any(w in t for w in ["private view", "opening", "friday late", "late:"]):
         return "Openings"
     if any(w in c for w in ["workshop", "class", "course", "drawing", "make"]) or any(w in t for w in ["workshop", "life drawing", "masterclass"]):

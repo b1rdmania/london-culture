@@ -15,8 +15,6 @@ SEARCHES = [
     "design-talk",
     "art-opening",
     "private-view",
-    "book-launch",
-    "writing-workshop",
     "ai-meetup",
     "startup-founders",
     "politics",
@@ -29,8 +27,6 @@ SEARCHES = [
 SEARCH_LENS = {
     "ai-meetup": "Tech",
     "startup-founders": "Tech",
-    "book-launch": "Writing",
-    "writing-workshop": "Writing",
     "politics": "Politics & Ideas",
     "debate": "Politics & Ideas",
     "philosophy": "Politics & Ideas",
