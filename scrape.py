@@ -109,6 +109,8 @@ TITLE_SKIP = [
     "black history", "equality", "diversity", "inclusion", "dei ",
     "live painting", "poetry", "spoken word", "ceramic", "pottery",
     "writing", "writers", "write-in", "shut up and write", "book club", "book launch", "novel", "memoir",
+    "bsl ", "audio described", "livestream", "quartet", "trio", "recital", "conference", "ages 7",
+    "menopause", "toastmasters", "hike", "run club", "sold out",
 ]
 
 
