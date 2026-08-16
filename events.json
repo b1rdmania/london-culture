@@ -1,305 +1,5 @@
 [
  {
-  "title": "Shut Up and Write! [London/Waterstones Piccadilly]",
-  "venue": "5th View",
-  "url": "https://www.meetup.com/shutupandwritelondon/events/314280662/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "11:30am",
-  "description": "Join us at the top of the biggest bookshop in Europe to work in company on your own writing, be it a book, blog, screenplay, dissertation, poem, song, coursework, memoir, play, journal, travel writing, work stuff or anyt",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "W1J 9LE",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Walking tour exploring art & architecture in Whitechapel with Kuda Mushangi",
-  "venue": "Whitechapel Gallery",
-  "url": "https://www.whitechapelgallery.org/events/kuda-mushangi-walk/",
-  "source": "Whitechapel Gallery",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "11am",
-  "description": "A walking tour to explore how art has been woven into the history and architecture of Whitechapel and East London",
-  "category": "Workshops",
-  "lens": "Workshops",
-  "is_free": true,
-  "area": "Whitechapel",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Intensive Training Day (Intermediate/Advanced) - Debate Bootcamp",
-  "venue": "Crown Court Church of Scotland",
-  "url": "https://www.eventbrite.co.uk/e/intensive-training-day-intermediateadvanced-debate-bootcamp-tickets-1996091966806",
-  "source": "Eventbrite",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "12:00",
-  "description": "Private coaching meets workshop. A tailored learning opportunity for individual development while practicing new skills immediatly.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Let's Discuss... Persona!",
-  "venue": "The Mad Hatter Hotel, Southwark",
-  "url": "https://www.meetup.com/the_examined_life/events/315980230/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "1pm",
-  "description": "Persona can be defined as: The version of yourself you present to others that come from a mix of chosen traits and social expectations. It's normal to act differently around different social groups. But sometimes we lose",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "R is for Richard Dadd, Beyond Bedlam at Royal Academy of Arts",
-  "venue": "Royal Academy of Arts",
-  "url": "https://www.meetup.com/london-museums-a-z-lomaz/events/315902995/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "2:40pm",
-  "description": "\u2605 \u2605 \u2605 \u2605 *\u201cethereal, profoundly sad beauty\u201d* (The Guardian) \u2605 \u2605 \u2605 \u2605 *\u201cintricate and profoundly eccentric\u201d* (The Telegraph) **Join us at the Royal Academy of Arts for the Richard Dadd, Beyond Bedlam exhibition.** The highl",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "Greater London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Write-in at the Mitre: work on your own material in convivial company",
-  "venue": "The Mitre Greenwich",
-  "url": "https://www.meetup.com/greenwich-writers-group/events/315922026/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "2pm",
-  "description": "**We will be at The Mitre pub in central Greenwich.** This meetup is free and casual. We just sit around for a few hours and write together. Bring a laptop, or use a pen and paper or clay tablet and stylus if that's what",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Hurvin Anderson",
-  "venue": "Tate Britain",
-  "url": "https://www.meetup.com/black-art-enthusiasts-collective/events/314367340/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "2pm",
-  "description": "**Join us for an exciting Art Exhibition hosted by the Black Art Enthusiasts Collective.** **This is not a free event details on how to purchase tickets below.** **Hurvin Anderson:** [Hurvin Anderson\u2019s](https://www.tate.",
-  "category": "Art & Design",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "London SW1P 4RG",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Practical Philosophy Club Meetup - London \ud83c\uddec\ud83c\udde7",
-  "venue": "City Lit",
-  "url": "https://www.meetup.com/practical-philosophy-club-london-uk/events/314102099/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "2pm",
-  "description": "**\ud83d\uddc2\ufe0f CONTENTS (click read more)** * Policies incl. attendance & late arrivals. Safety & Liability Disclaimer. (Mandatory reading - see end) * What is Practical Philosophy Club (PPC) about? * How does it work? * General m",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Listening to the Xeedho Archive",
-  "venue": "Whitechapel Gallery",
-  "url": "https://www.whitechapelgallery.org/events/listening-to-the-xeedho-archive/",
-  "source": "Whitechapel Gallery",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "3pm",
-  "description": "Join researcher Ibrahim Hirsi and artist-producer Heather Marks for an open archive session exploring the research and sound archive behind Fozia Ismail\u2019s A Song for the Xeedho.",
-  "category": "Talks",
-  "lens": "Talks",
-  "is_free": true,
-  "area": "Whitechapel",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Make a yarn winding artwork with Anisah Yaminah",
-  "venue": "Whitechapel Gallery",
-  "url": "https://www.whitechapelgallery.org/events/yarn-winding-artwork-anisah-yaminah/",
-  "source": "Whitechapel Gallery",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "4.30pm",
-  "description": "Join textile designer Anisah Yaminah for a hands-on yarn winding workshop exploring ideas around migration, memory and nostalgia through textile and craft.",
-  "category": "Workshops",
-  "lens": "Workshops",
-  "is_free": true,
-  "area": "Whitechapel",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Independent Artists of London \u2013 Meet & Greet",
-  "venue": "POSK - POLISH SOCIAL & CULTURAL ASSOCIATION IN LONDON",
-  "url": "https://www.meetup.com/independent-london-artists/events/315852084/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "4pm",
-  "description": "Welcome to the very first gathering of **Independent Artists of London**! This inaugural event is all about getting to know one another in a relaxed and friendly atmosphere. Whether you're a painter, illustrator, sculpto",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "A Song for the Xeedho: Climate, Censorship and East African Futures",
-  "venue": "Whitechapel Gallery",
-  "url": "https://www.whitechapelgallery.org/events/a-song-for-the-xeedho-layla-mahmood/",
-  "source": "Whitechapel Gallery",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "5pm",
-  "description": "Join Layla Mahmood, East Africa Correspondent for The Observer, for a conversation on climate, censorship and environmental change in East Africa.",
-  "category": "Talks",
-  "lens": "Talks",
-  "is_free": true,
-  "area": "Whitechapel",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Indian Professionals in London & UK - IPLUK Independence Day Event",
-  "venue": "mint leaf bank",
-  "url": "https://www.meetup.com/iplukmeetup/events/315817605/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "5pm",
-  "description": "\ud83c\uddee\ud83c\uddf3 Celebrate Independence Day with IPLUK community! FREE Registration Link https://buytickets.at/indianprofessionalslondonuk/2326123 Saturday, 15th August \ud83d\udd54 5:00 PM \u2013 8:00 PM \ud83d\udccd Mint Leaf London, EC2R 7HB \ud83c\udf9f\ufe0f FREE Registra",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Indian Professionals in London Independence Day Bash",
-  "venue": "Hichki",
-  "url": "https://www.meetup.com/indian-professionals-in-london/events/315365587/",
-  "source": "Meetup",
-  "start_date": "2026-08-15",
-  "end_date": null,
-  "time": "6pm",
-  "description": "Get ready to celebrate our annual Indian Independence Day like never before with a vibrant bash full of music, dance, and delicious food! **\ud83c\uddee\ud83c\uddf3 INDIAN PROFESSIONALS IN LONDON \ud83c\uddec\ud83c\udde7** \ud83c\udf89 Independence Day Bash 2026 \ud83c\udf89 Join us as",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Stake Summit",
-  "venue": "The Building Centre",
-  "url": "https://luma.com/a5kscpbi",
-  "source": "Luma",
-  "start_date": "2026-08-15",
-  "end_date": "2026-08-15",
-  "time": "9:30am",
-  "description": "",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
   "title": "Beginner Screen Printing Workshop: Create Your Own Limited Edition Prints",
   "venue": "Print Club London",
   "url": "https://www.eventbrite.co.uk/e/beginner-screen-printing-workshop-create-your-own-limited-edition-prints-tickets-1992359008427",
@@ -357,7 +57,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Candle Making Workshop",
@@ -397,7 +97,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Metamorphosis by Franz Kafka",
@@ -417,7 +117,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Reading Room",
@@ -437,7 +137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Fashion Networking at BOXPARK With The Creatives",
@@ -497,7 +197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Simple Rules for a Long and Healthy Life",
@@ -517,7 +217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Arc Coworking & Demos",
@@ -537,7 +237,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Book Club: Piranesi",
@@ -557,7 +257,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Satire and Philosophy",
@@ -577,7 +277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "FREE Traditional Indian Carnatic Music",
@@ -597,7 +297,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Bridge Writers' Group - Pub Meet",
@@ -617,7 +317,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "SOLD OUT \u2022 TEiP ST PANCRAS \u2022 S3E3: COMMITMENT | Thought Experiments in Public",
@@ -637,7 +337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Conundrum Corner :: London - Your Dilemmas Discussed..",
@@ -657,7 +357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Drop in Design: Toy Lab",
@@ -677,7 +377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Creative Panel Talks - Africa Fashion Week London",
@@ -937,7 +637,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Trivia Night with Sonder x ABRC",
@@ -957,7 +657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Vibe Coding Fundamentals for 100% beginners w/ Lovable",
@@ -977,7 +677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "A Sci Fi/Fantasy Writing Session",
@@ -997,7 +697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Mindstone London August AI Meetup",
@@ -1017,7 +717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Soho Scribblers - 2.5h writing in person",
@@ -1037,27 +737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "Shut Up & Write - Borough - Trinity Tuesdays! London",
-  "venue": "The Trinity Pub",
-  "url": "https://www.meetup.com/shutupandwritelondon/events/315993140/",
-  "source": "Meetup",
-  "start_date": "2026-08-18",
-  "end_date": null,
-  "time": "6pm",
-  "description": "18:00 - 18:30: Grab a drink and introductions 18:30 - 19:30: Shut Up and Write (timer starts and ends) 19:30 - 20:00: Chat and reflect Come along for a fun and productive hour of solid writing without any pressure to sha",
-  "category": "Writing",
-  "lens": "Writing",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Private Client August City Of London Networking At The Gherkin",
@@ -1077,7 +757,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "August London Legal Real Estate Sector Networking Reception At The Gherkin",
+  "venue": "The Gherkin (The Sterling)",
+  "url": "https://www.meetup.com/legallondon/events/315426071/",
+  "source": "Meetup",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "time": "6pm",
+  "description": "IMPORTANT: PLEASE BOOK YOUR TICKET USING THE EVENTBRITE LINK Legal London is one of the only evening business networks dedicated to law professionals working within London\u2019s many legal sectors and now has over a Thousand",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Brain Worms 122 / The Master and Margarita by Mikhail Bulgakov",
@@ -1097,7 +797,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Science: Conjectures and Refutations - Part 1",
@@ -1117,7 +817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "CapCut Creators | Apply to Join | Brunch & Learn with CapCut",
@@ -1137,7 +837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Holiday workshops: Intro to space science (Year 7-9)",
@@ -1177,7 +877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "August ZEST: Creative Business Networking",
@@ -1277,7 +977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Building Voice AI with Dex & OpenAI",
@@ -1297,7 +997,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Capital & Castling: Chess Night for the Startup Community",
@@ -1317,7 +1017,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "freeCodeCamp x Encode | AI - Workshop: Hermes Agent & Local LLM models (Qwen)",
@@ -1337,7 +1037,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The final ALGORAVIOLI",
@@ -1357,7 +1057,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Evening critiquing session",
@@ -1377,7 +1077,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Philosophy Cafe",
@@ -1397,7 +1097,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Jordan Peterson and Friends Chat - Three Weekly",
@@ -1417,7 +1117,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Founders Breakfast Club with Corgi & Prodia",
@@ -1437,7 +1137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Play Thursdays (Aug 2026)",
@@ -1457,7 +1157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Archive Tour \u2013 LGBTQIA+ Collections",
@@ -1477,7 +1177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Black & Mixed Heritage: Politics, Power & Westminster Walking Tour",
@@ -1517,7 +1217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Unmissable Book Launch at Word on the Water",
@@ -1657,7 +1357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Build Together: The art of creative collaboration (Discussion, Q&A + mingling)",
@@ -1677,7 +1377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Creative Connections with The Gym Kitchen",
@@ -1697,7 +1397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Open Decks Social & Cypher presented by DistroKid",
@@ -1717,7 +1417,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "React Native London Meetup - August 2026",
@@ -1737,7 +1437,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI Builders Program | Apply to Join | Pub Night for AI Builders",
@@ -1757,7 +1457,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Art Appreciation - Ai Wei Wei",
@@ -1777,7 +1477,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Adaptive Demo Night",
@@ -1797,7 +1497,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI Engineering Benchmarks: What Good Actually Looks Like",
@@ -1817,7 +1517,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "zeroheight presents hops & props london 001 - an evening of talks and drinks",
@@ -1837,7 +1537,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Thursday **British Library** Writing Group + Pub",
@@ -1857,7 +1557,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Philosophy Session/discussion, open for all!",
@@ -1877,7 +1577,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Dead Product Society | After Work Drinks",
@@ -1897,7 +1597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "A Song for the Xeedho: LATE",
@@ -1917,7 +1617,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Journeys of the Drums of the African Diaspora",
@@ -1937,7 +1637,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Journeys of the Drums of the African Diaspora - Livestream",
@@ -1957,7 +1657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Design Club (11-14) - Friendship Bracelets",
@@ -1977,7 +1677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Summer Family Fridays",
@@ -1997,7 +1697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "LONDON LEADERSHIP SERIES - The Energy Crisis",
@@ -2037,7 +1737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Big Talk Social",
@@ -2117,7 +1817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "All-In Summer Picnic - London",
@@ -2137,7 +1837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Pyaar Festival - 21st August",
@@ -2157,7 +1857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Tech Startups in the Pub, Shoreditch - Relaxed Networking",
@@ -2177,7 +1877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "WRITE CLUB: one hour of silent writing (or reading) in the company of others",
@@ -2197,7 +1897,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Camden Writing Group - 2h in-person",
@@ -2217,7 +1917,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Art Appreciation Summer Special '26 - Make Time - A Creative Workshop",
@@ -2237,7 +1937,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Dev Grind",
@@ -2257,7 +1957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Sounds & Stories: A Free V&A East Event Exploring and Celebrating Black British Music",
@@ -2277,7 +1977,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "A Bead for Remembering with Jannat Hussain",
+  "venue": "Whitechapel Gallery",
+  "url": "https://www.whitechapelgallery.org/events/a-bead-for-remembering-jannat-hussain/",
+  "source": "Whitechapel Gallery",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "1.30pm",
+  "description": "Through storytelling and collective participation, artist Jannat Hussain invites visitors to contribute a bead to 'Our Hands, Our Eyes', reflecting on memory, material culture, and the connections that endure across gene",
+  "category": "Talks",
+  "lens": "Talks",
+  "is_free": true,
+  "area": "Whitechapel",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Kenjutsu - learn the real Samurai's swordfight and philosophy",
@@ -2317,7 +2037,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Art Appreciation Summer Special '26 - Art Class!",
@@ -2337,7 +2057,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Persuading with Rhetoric  - Debate Workshop",
@@ -2377,7 +2097,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Shut Up and Write! [London/Waterstones Piccadilly]",
+  "venue": "5th View",
+  "url": "https://www.meetup.com/shutupandwritelondon/events/314280665/",
+  "source": "Meetup",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "11:30am",
+  "description": "Join us at the top of the biggest bookshop in Europe to work in company on your own writing, be it a book, blog, screenplay, dissertation, poem, song, coursework, memoir, play, journal, travel writing, work stuff or anyt",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "W1J 9LE",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Reading Group: \"The Original Accident\" by Paul Virilio",
@@ -2397,7 +2137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Read Together \u2013 End of summer edition!",
@@ -2417,7 +2157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Introduction to Risograph",
@@ -2457,7 +2197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Art Appreciation Summer Special '26 - Five Paintings at the Tate Modern",
@@ -2477,7 +2217,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Practical Philosophy Club Meetup - London \ud83c\uddec\ud83c\udde7",
+  "venue": "City Lit",
+  "url": "https://www.meetup.com/practical-philosophy-club-london-uk/events/314102100/",
+  "source": "Meetup",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "2pm",
+  "description": "**\ud83d\uddc2\ufe0f CONTENTS (click read more)** * Policies incl. attendance & late arrivals. Safety & Liability Disclaimer. (Mandatory reading - see end) * What is Practical Philosophy Club (PPC) about? * How does it work? * General m",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "EVENT FULL V for Van Gogh House London",
@@ -2497,7 +2257,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Singles Coffee \u2615\ud83c\udf79 @ Tate Britain, Make New Friends!\ud83c\udf1f\ud83c\udfa8",
@@ -2517,7 +2277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Unapologetically Childfree @ Mercato Metropolitano, London, UK",
@@ -2537,7 +2297,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "\ud83d\udcf8 Photography Exhibition: Peter Anderson + Mary Dunkin",
+  "venue": "The Pilgrm Hotel",
+  "url": "https://www.meetup.com/londonhot100/events/316130076/",
+  "source": "Meetup",
+  "start_date": "2026-08-22",
+  "end_date": null,
+  "time": "4:30pm",
+  "description": "Step into The Pilgrm to discover a treasure trove of seasonal art shows that shine a light on a variety of artists, curated throughout the year! Last spring they launched a photography exhibition displaying two unique ar",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "FREE \"Liminal\" Art Exhibition @ The Space Theatre",
@@ -2557,7 +2337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "EXP: Bamford Edge Hike \ud83d\udccd",
@@ -2577,7 +2357,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
+  "venue": "London, United Kingdom",
+  "url": "https://luma.com/london-summer-lock-in",
+  "source": "Luma",
+  "start_date": "2026-08-22",
+  "end_date": "2026-08-22",
+  "time": "9:30am",
+  "description": "",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": true,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Pink Jukebox - Spring/Summer 26",
@@ -2597,7 +2397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Tour of \u2018Audrey Amiss: The Surviving Exhibitions\u2019 with Alison Claire France",
@@ -2617,7 +2417,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Life Drawing @ Trestle. Easel, Sun August 23rd 15:00 to 17:45 Model: Tom",
@@ -2637,7 +2437,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "British Museum: Europe 1800-1900 Gallery + pub social",
@@ -2657,7 +2457,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Relaxed\u00a0Opening of \u2018Audrey Amiss'\u00a0and \u2018Rudy Loewe' exhibitions",
@@ -2677,7 +2477,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Holiday workshops: Invention and Design (Year 3 and 4)",
@@ -2777,7 +2577,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Can Science Understand Our Inner Experience?",
@@ -2797,7 +2597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Networking Event: Meet The Startup Founders, Co Founders, Innovators",
@@ -2957,7 +2757,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Meetup #4",
@@ -2977,7 +2777,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "CRAP Talks #34 - Summer CRAP",
+  "venue": "ThoughtSpot",
+  "url": "https://www.meetup.com/crap-talks-cro-analytics-product-london/events/316113691/",
+  "source": "Meetup",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "time": "6pm",
+  "description": "We're back with our fourth event of the year and we couldn't be more excited. We'll stick to our usual format of 2 speakers and a fireside chat (with a twist this time). If you've not been to one of our events before the",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "CASUAL DRINKS & POLITICAL CHAT (Late August meeting)",
@@ -2997,7 +2817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Spotkanie klubu Polish Your Polish - 4 wtorek miesi\u0105ca",
@@ -3017,7 +2837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Is Hollywood Creatively Dead? - Whitechapel Debates",
@@ -3037,7 +2857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Writing together Session in New Cross (MESSAGE GRAIG for location)",
@@ -3057,7 +2877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Supper & Stories - A Likewise Community Supper Club",
@@ -3137,7 +2957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "A Sci Fi/Fantasy Feedback Session",
@@ -3157,7 +2977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AWS AI In Practice #6",
@@ -3177,7 +2997,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Kolo Tamam Supper Club (ILL3AB x EDAMI)",
@@ -3300,6 +3120,26 @@
   "_run": "2026-08-15"
  },
  {
+  "title": "BSL Tour: East of Aldgate Pump",
+  "venue": "Whitechapel Gallery",
+  "url": "https://www.whitechapelgallery.org/events/bsl-tour-eotap/",
+  "source": "Whitechapel Gallery",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "6.30pm",
+  "description": "Join Rubbena Aurangzeb-Tariq for a tour of our current exhibition. The tour will be led in British Sign Language.",
+  "category": "Talks",
+  "lens": "Talks",
+  "is_free": true,
+  "area": "Whitechapel",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
+ },
+ {
   "title": "August poly and open cocktails",
   "venue": "Meetup",
   "url": "https://www.meetup.com/london-poly-and-open-cocktails/events/315858728/",
@@ -3317,7 +3157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Londroid @ Trainline",
@@ -3337,7 +3177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI in the Wild #1: Proving AI Actually Works",
@@ -3357,7 +3197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "#WPLDN - August 2026: Summer Social & 18 Years of #WPLDN",
@@ -3377,7 +3217,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "The Bigger Picture with Puer Deorum",
+  "venue": "Whitechapel Gallery",
+  "url": "https://www.whitechapelgallery.org/events/the-bigger-picture-puer-deorum/",
+  "source": "Whitechapel Gallery",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "7.30pm",
+  "description": "Through skips, jumps and loops, Puer Deorum breathes life through the pages of Oitij-jo Collective\u2019s library through improvised sound and impulsive experiments in poetic form.",
+  "category": "Talks",
+  "lens": "Talks",
+  "is_free": true,
+  "area": "Whitechapel",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Claudia Rankine & Victoria Adukwei Bulley: Triage",
@@ -3397,7 +3257,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Yannick Portmann: Imagine the Future of East London",
+  "venue": "Whitechapel Gallery",
+  "url": "https://www.whitechapelgallery.org/events/yannick-portmann-workshop/",
+  "source": "Whitechapel Gallery",
+  "start_date": "2026-08-27",
+  "end_date": null,
+  "time": "8.30pm",
+  "description": "",
+  "category": "Talks",
+  "lens": "Talks",
+  "is_free": false,
+  "area": "Whitechapel",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "'Write A Complete Story' Creative Writing Workshop - London Bridge SE1",
@@ -3497,7 +3377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "British Museum Friday Lates - Free to Attend (Gallery + Pub)",
@@ -3517,7 +3397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "PageMasters Zine Fair 2026 @ South London Gallery",
@@ -3617,7 +3497,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "MACS Goes To\u2026 Museum of Soho \u2728",
@@ -3637,7 +3517,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Anish Kapoor - Art Exhibition",
@@ -3657,7 +3537,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Childhood: A Full Day of Writing + Eating + Drinking + A Free Book + a Pub Quiz!",
@@ -3677,7 +3557,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Badge Cafe",
@@ -3717,7 +3597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Crystal Jewellery Making Workshop",
@@ -3777,7 +3657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Meera Syal: Vigilauntie!",
@@ -3797,7 +3677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Bank Holiday Drinks @ Liberty Bounds",
@@ -3817,7 +3697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Disruptive Creativity: new sister project \u2013 register your interest",
@@ -3837,27 +3717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
- },
- {
-  "title": "The Conspiracy Balloon Debate - Victoria Debates",
-  "venue": "BAM Karaoke Box | Victoria",
-  "url": "https://www.eventbrite.co.uk/e/the-conspiracy-balloon-debate-victoria-debates-tickets-1996827059488",
-  "source": "Eventbrite",
-  "start_date": "2026-09-01",
-  "end_date": null,
-  "time": "18:30",
-  "description": "A debate free for all as you vote reality TV style for the most entertaining conspiracies.",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-07",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Hidden Power of Questions in a World That Wants Answers",
@@ -3877,7 +3737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How to Flourish in the Age of AI",
@@ -3897,7 +3757,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "The Conspiracy Balloon Debate - Victoria Debates",
+  "venue": "BAM Victoria",
+  "url": "https://www.meetup.com/face2facedebates/events/316032378/",
+  "source": "Meetup",
+  "start_date": "2026-09-01",
+  "end_date": null,
+  "time": "6:30pm",
+  "description": "Join Debate London for our **NEW VENUE LAUNCH** at **BAM Karaoke!** This time we present a crowd favourite! **A Balloon Debate!** A free-for-all debating event where our panel of debaters & entertainers must compete for ",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Software Factory with SuperPlane & Elastic - When Agents Build, Ship, & Fix Code",
@@ -3917,7 +3797,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "All Out of Bubblegum Film Club 149 / Ex Machina",
@@ -3937,7 +3817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Upgrade Yourself Monthly: How to make art you love and cultivate a freelance illustration career",
@@ -3957,7 +3837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "BELIEF SYSTEMS \u2014 Maite de Orbe \u00d7 OPerformancef",
@@ -3977,7 +3857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "September - F2F London People Analytics Meetup",
@@ -4077,7 +3957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "In person meetup to critique work submitted by members.",
@@ -4097,7 +3977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Grounding Practice: The Next Phase with Erin Li",
@@ -4117,7 +3997,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Networking and Freelancing: Essential Skills for the Creative Industries",
@@ -4217,7 +4097,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Data Engineers London x Zoopla September Event",
@@ -4237,7 +4117,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "Kirill Boiarkin: Soft Skills in the age of AI",
+  "venue": "Codurance",
+  "url": "https://www.meetup.com/london-software-craftsmanship/events/315666282/",
+  "source": "Meetup",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "time": "6pm",
+  "description": "For our early September meetup we are pleased to welcome to the LSCC community, Senior Software Developer and Agile Coach Kirill Boiarkin who will share his ideas and talk to us about: **Soft Skills in the age of AI** So",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Questione di Karma, with Gianluca Gotto",
@@ -4257,7 +4157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Jana Prikryl & Richard Ayoade: The Channel",
@@ -4277,7 +4177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Swing Den - Spring/Summer 26",
@@ -4297,7 +4197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Folio Friday: September 2026",
@@ -4317,7 +4217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Beauty, Bites, Bubbles by www.Unrushd.com  (\u00a3100 complimentary gift bag)",
@@ -4377,7 +4277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Who Knows Where the Time Goes?  A Reflective Saturday Writing Workshop",
@@ -4457,7 +4357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Wax Melts Making Workshop",
@@ -4617,7 +4517,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Philosophy in the Park 147",
@@ -4637,7 +4537,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Portrait of a City: A Century of American Photography @ Dulwich Picture Gallery",
@@ -4657,7 +4557,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "coffee & writing first meet!",
+  "venue": "SnugBite",
+  "url": "https://www.meetup.com/meetup-group-dpdnnvka/events/316129204/",
+  "source": "Meetup",
+  "start_date": "2026-09-06",
+  "end_date": null,
+  "time": "11am",
+  "description": "The first meet! Grab your notebook, pens or laptop (or all three) and get ready for a casual writing session for you to focus on your latest project. We'll meet inside the cafe at 11am and write for the first hour or so ",
+  "category": "Writing",
+  "lens": "Writing",
+  "is_free": false,
+  "area": "Bromley",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Chinese Labour Corp Talk & Gallery Exhibition",
@@ -4677,7 +4597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Hot Takes Presentation Night",
@@ -4717,7 +4637,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI Tools for Employability & Modern Work",
@@ -4817,7 +4737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Philosophy Cafe: Topic to be decided",
@@ -4837,7 +4757,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Hermione Lee & Tessa Hadley on Anita Brookner",
@@ -4857,7 +4777,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "TEiP ST PANCRAS \u2022 S3E4: VALUES | Thought Experiments in Public",
@@ -4877,7 +4797,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Chalk & Talk: The Intelligent Hirer Live",
@@ -4937,7 +4857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Agentic AI & Technology: Beyond Automation",
@@ -4957,7 +4877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Stripe London developer meetup - September 2026 (In Person)",
@@ -4977,7 +4897,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Simon Sebag Montefiore \u2013 The Making of the Modern Middle East",
@@ -4997,7 +4917,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Ben Macintyre \u2013 Redwood: The Untold Story of the Cold War\u2019s Most Extraordinary Spy",
@@ -5017,7 +4937,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Denise Riley & Emily Berry: A Chorus of Ears",
@@ -5037,7 +4957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Cello - In Search of a Voice",
@@ -5057,7 +4977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Taster session for The Creative Writing Programme in London Bridge",
@@ -5160,26 +5080,6 @@
   "_run": "2026-08-15"
  },
  {
-  "title": "London Information Retrieval & AI Meetup September 2026",
-  "venue": "Lumiere London",
-  "url": "https://www.meetup.com/london-information-retrieval-meetup-group/events/316083895/",
-  "source": "Meetup",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "time": "6:30pm",
-  "description": "On **September 9**, London\u2019s search community is coming together for a special evening dedicated to **Search, Information Retrieval and AI**. This event is a collaboration between the **London Information Retrieval & AI ",
-  "category": "Tech",
-  "lens": "Tech",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-08-15",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "_run": "2026-08-15"
- },
- {
   "title": "Publishing Q&A w/ George Sandison, Managing Editor at Titan Books",
   "venue": "Craft Beer Co. Brixton",
   "url": "https://www.meetup.com/london-sci-fi-fantasy-authors/events/315789346/",
@@ -5197,7 +5097,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Alexei Sayle: How I\u2019ve Tried to Change the World",
@@ -5217,7 +5117,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI Builders Monthly London",
@@ -5317,7 +5217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Discussion: Global Photographies",
@@ -5337,7 +5237,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "LadyRella Book Launch",
@@ -5417,7 +5317,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Book Fair 2026",
@@ -5437,7 +5337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Talk \u2014 What\u2019s next for photobook publishing?",
@@ -5457,7 +5357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Workshop \u2014 Remixing Capital Landscapes with Ibrahim Azab",
@@ -5477,7 +5377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Talk \u2014 Jesse Glazzard in conversation with Biogal and Hannah Geddes",
@@ -5497,7 +5397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Talk \u2014 Pina issue #3 \u2013 American Artist and Lola Olufemi with Catalina Imizcoz",
@@ -5517,7 +5417,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Camp Parliament for Youth London 2026",
@@ -5557,7 +5457,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Memories of Care: Trans+ Contributions to Health, Culture and Social Justice",
@@ -5577,7 +5477,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "DIY  Art Market",
@@ -5697,7 +5597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Talk \u2014 Verso \u2013 The Breaking of the English Working Class with Jonas Patrick Marvin and Amelia Horgan",
@@ -5717,7 +5617,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Workshop \u2014 Getting up, Falling down with Kairo Urovi and Eva Jonas",
@@ -5737,7 +5637,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Talk \u2014 SMUT Press, HELA Press and Tummy Ache magazine with Flora Gau (Studio Nocturne)",
@@ -5757,7 +5657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Performance \u2014 TALKER \u2013 A Flickering Space Where the Deed Dissolves",
@@ -5777,7 +5677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "UK Fetish Archive Open Day",
@@ -5797,7 +5697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Fighting Social Atrophy",
@@ -5817,7 +5717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "William Dalrymple \u2013 The Relentless Rise of the East India Company",
@@ -5837,7 +5737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Zeteo UK Launch",
@@ -5857,7 +5757,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Sky at Night, Tonight: A New View of the Changing Sky",
@@ -5877,7 +5777,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Book Launch: Eternal Gravity",
@@ -5917,7 +5817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Daron Acemoglu Meets Martin Wolf: What Happened to Liberal Democracy?",
@@ -5937,7 +5837,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
+ },
+ {
+  "title": "SPECIAL EVENT: TEiP X DEBATE LONDON \u2022 PART 1 | Thought Experiments in Public",
+  "venue": "The Betjeman Arms",
+  "url": "https://www.meetup.com/thought-experiments-in-pubs/events/316129573/",
+  "source": "Meetup",
+  "start_date": "2026-09-14",
+  "end_date": null,
+  "time": "7pm",
+  "description": "A special collaboration between TEiP and Debate London... We will explore 'debate' through the lens of philosophy and 'philosophy' through the lens of debate in two special events: PART 1 (this event): On the 14th of Sep",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-08-16",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "_run": "2026-08-16"
  },
  {
   "title": "Online Course: Starting an Archive (2026)",
@@ -5957,7 +5877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "GLUE Exhibition \u2014 Jesse Glazzard \u2013 The Sound of Dirt and Beauty",
@@ -5977,7 +5897,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Cracking the Whip: Strings, Chains and Dinosaurs",
@@ -5997,7 +5917,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Designing What Comes Next: Hope, Growth & Change in the UK\u2019s Design Economy",
@@ -6117,7 +6037,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Renoir Girls: A Hidden History of Art, War, and Betrayal",
@@ -6137,7 +6057,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Talk: Design Practice and Motherhood",
@@ -6157,7 +6077,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Is the HIV Pandemic Over?",
@@ -6177,7 +6097,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Voices of Justice:Transforming Communication in Policing & Criminal Justice",
@@ -6257,7 +6177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "DSOLG September 2026 - 9th Anniversary event",
@@ -6277,7 +6197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Grounding Practice: Please See My Comments Below with Sean Burns",
@@ -6297,7 +6217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Myth and Promise of the U.K. Jury Trial",
@@ -6317,7 +6237,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "\"I Miss the Internet\"",
@@ -6337,7 +6257,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Screenprinting Poster Workshop - Print Club Soda",
@@ -6397,7 +6317,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "OpenUK London Meet-up: \u201cAgentic AI in Financial Services\u201d",
@@ -6417,7 +6337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Steven Pinker \u2013 The New Science of Harmony, Hypocrisy, and Outrage",
@@ -6437,7 +6357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Jeremy Lee & Bee Wilson: Kitchening",
@@ -6457,7 +6377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Swing Live - Spring/Summer 26",
@@ -6477,7 +6397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Global Menopause and Cancer Conference 2026",
@@ -6577,7 +6497,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Sitting in the Fire of Conflict.  A Reflective Saturday Writing Workshop",
@@ -6677,7 +6597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "IAL - Group Exhibition Discussion",
@@ -6697,7 +6617,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Technoprogressive Opportunity",
@@ -6717,7 +6637,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Fashion Week Networking event",
@@ -6757,7 +6677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Trio Archai",
@@ -6777,7 +6697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Moors Murders: The Unanswered Questions",
@@ -6797,7 +6717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Future of Creativity",
@@ -6817,7 +6737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Creative Network September 2026 Networking Reception At The Gherkin",
@@ -6897,7 +6817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "CASUAL DRINKS & POLITICAL CHAT (Late September meeting)",
@@ -6917,7 +6837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Max Hastings: The End of WWII",
@@ -6937,7 +6857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Cosmology\u2019s Mad Idea: Inflation & the Creation of Our Universe",
@@ -6957,7 +6877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "London Design Social",
@@ -7077,7 +6997,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Carbon: Our Flexible Friend that Built the Natural World",
@@ -7097,7 +7017,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Interpreted Tours of Tenderness and Rage",
@@ -7117,7 +7037,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Home Design Talk: Moodboarding Masterclass",
@@ -7217,7 +7137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How to Maximise Your Brain\u2019s Superpower",
@@ -7237,7 +7157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Festival of Astronomical Ideas",
@@ -7257,7 +7177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Bishopsgate Ballroom - Spring/Summer 26",
@@ -7277,7 +7197,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Stratford Creative Writing Workshop",
@@ -7357,7 +7277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Book Launch  - Bed 24 Chronicles  Conference",
@@ -7417,7 +7337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "B-Sides and Outtakes Book Launch",
@@ -7457,7 +7377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Dance in a Day - Lindy Hop - Spring/Summer 26",
@@ -7477,7 +7397,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Manya African Dining Series Launch - The Soft Life Supper Club",
@@ -7517,7 +7437,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Meditations by Marcus Aurelius - Book 5: Part 1",
@@ -7537,7 +7457,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Bringing It Home",
@@ -7557,7 +7477,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Piatti Quartet with Simon Callaghan & Peter Cigleris",
@@ -7577,7 +7497,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Where is Queer Love in the Shoah History?",
@@ -7597,7 +7517,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Debate:  Is Christianity the Basis of Western Civilisation?",
@@ -7637,27 +7557,27 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
-  "title": "Fiction Feedback Workshop",
-  "venue": "Three Tuns Aldgate",
-  "url": "https://www.meetup.com/londonwriterscafe/events/315789635/",
+  "title": "Philosophy Cafe: Topic to be decided",
+  "venue": "The Square Pig, Holborn",
+  "url": "https://www.meetup.com/the-philosophy-cafe-london/events/316096973/",
   "source": "Meetup",
   "start_date": "2026-09-28",
   "end_date": null,
-  "time": "6:45pm",
-  "description": "In these regular writing workshops, we have three writers sharing a sample of their writing for immediate feedback, advice and encouragement. Critique is led and moderated by your host. You learn more by listening to the",
-  "category": "Writing",
-  "lens": "Writing",
+  "time": "6:50pm",
+  "description": "The topic for this evening will be announced nearer the time. As usual at Philosophy Cafe London, the aim is not to listen passively but to think together. There will be a short introduction to the chosen topic, followed",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-08-07",
+  "first_seen": "2026-08-16",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI as Therapist? Intimacy Without Understanding",
@@ -7677,7 +7597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Rethinking AI: Entrepreneurship and Technology for Social Good",
@@ -7737,7 +7657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Women of Bath and Willesden: Ordinary Women in English Literature",
@@ -7757,7 +7677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The New Neuroscience of Meditation",
@@ -7777,7 +7697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Naomi Klein: End Times Fascism",
@@ -7797,7 +7717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Shakespearean England and Views of the Irish Language",
@@ -7817,7 +7737,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Earth To Us Exhibition (October 1st - 24th)",
@@ -7937,7 +7857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How Peasants Made the Modern World",
@@ -7957,7 +7877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Charles's Jukebox Autumn/Winter 25/26",
@@ -7977,7 +7897,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI & Society Run & Coffee Club | London Event",
@@ -8017,7 +7937,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Dan Jones: Castles \u2013 A Fortified History of the World",
@@ -8037,7 +7957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "What is the Purpose of Yoga: Transcendence or Transformation?",
@@ -8057,7 +7977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How To Harness Your Anger",
@@ -8077,7 +7997,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Our Sovereign Soil",
@@ -8097,7 +8017,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "THE CITY ENVIRONMENT DEBATE            'LIVING IN HARMONY WITH NATURE'",
@@ -8137,7 +8057,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "WM College Foundation Art and Design - Talk and Tour Event",
@@ -8197,7 +8117,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "An Evening with Katherine Rundell",
@@ -8217,7 +8137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Ian Rankin: Journey to the Dark Side",
@@ -8237,7 +8157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Health Nav - CEP Private Networking Dinner",
@@ -8297,7 +8217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Unveiling Vermeer: The Man and his Masterpieces, with Andrew Graham-Dixon",
@@ -8317,7 +8237,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Local Nature \u2013 Highgate Cemetery Photography Book Making Workshop",
@@ -8357,7 +8277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "5x15 Special: Inside the Mind of Slavoj \u017di\u017eek",
@@ -8397,7 +8317,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Stephen Sackur and Carole Cadwalladr: Hard Truth",
@@ -8417,7 +8337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Jela Kre\u010di\u010d and Slavoj \u017di\u017eek: Truth and Fakery in Art and Hollywood",
@@ -8437,7 +8357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Science of Puppetry \u2013 How Real Can They Be?",
@@ -8457,7 +8377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Private Client Conference 2026 at The View",
@@ -8497,7 +8417,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "An Evening with Nick Park",
@@ -8517,7 +8437,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Rather Trivial Things? Finding the Precious in an Alternative Museum History",
@@ -8537,7 +8457,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Philosophies of East & West - First Evening to 18 Week Course",
@@ -8577,7 +8497,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Can We Reclaim Childhood from Big Tech?: Beeban Kidron & Sandi Toksvig",
@@ -8597,7 +8517,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "A History of the World in Four Algorithms",
@@ -8617,7 +8537,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Going Under: Anaesthesia, Art and Altered States creative writing workshop",
@@ -8677,7 +8597,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Double Bill \u2013 Soraya Verjee and No More Girl Friday",
@@ -8697,7 +8617,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Battle of Ideas 2026",
@@ -8737,7 +8657,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Creating Beyond the Mainstream",
@@ -8757,7 +8677,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "\u201cIn Music Is Such Art\u201d with Harriet Burns, Mark Padmore & Ian Tindale",
@@ -8777,7 +8697,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Wondrous World of Parasites",
@@ -8797,7 +8717,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Evening Talk: Witchcraft, Necromancy, Politics -Eleanor Cobham\u2019s 1441 Trial",
@@ -8837,7 +8757,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Dvo\u0159\u00e1k Piano Quartet",
@@ -8857,7 +8777,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Andrew Roberts: Napoleon and His Marshals",
@@ -8877,7 +8797,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Blindboy - The Blindboy Podcast LIVE",
@@ -8897,7 +8817,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Everyman \u2013 The Untold Story of Economics",
@@ -8917,7 +8837,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "An Evening with Fran Lebowitz",
@@ -8937,7 +8857,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Jung Chang \u2013 Fly, Wild Swans",
@@ -8957,7 +8877,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Design Camps for ages 7 to 14",
@@ -8977,7 +8897,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Ghibli and Goodness",
@@ -8997,7 +8917,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Sechel and Sensibility",
@@ -9017,7 +8937,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "BSL Tour of Es Devlin: Other Worlds",
@@ -9037,7 +8957,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Can Fear be Moral?",
@@ -9057,7 +8977,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Deaf Rave Festival - Daytime",
@@ -9137,7 +9057,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How The Body Keeps the Score \u2013 Dr Bessel van der Kolk",
@@ -9157,7 +9077,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Aida Piano Trio",
@@ -9177,7 +9097,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Laura Kuenssberg: Pay Attention",
@@ -9197,7 +9117,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "How The Body Keeps the Score \u2013 Dr Bessel van der Kolk",
@@ -9217,7 +9137,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Edmund de Waal: How to Live a Creative Life",
@@ -9237,7 +9157,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Harry Enfield: And No Chums!",
@@ -9257,7 +9177,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "RA Live | London | Creative Networking",
@@ -9297,7 +9217,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Launching a News Club Network",
@@ -9317,7 +9237,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Audio described Tour of Es Devlin: Other Worlds",
@@ -9337,7 +9257,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Conway Hall News Club",
@@ -9357,7 +9277,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "A History of Black People and Alternative Music",
@@ -9377,7 +9297,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Greenwich Trio & Boris Bizjak",
@@ -9397,7 +9317,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Power of Singing Aloud in an Increasingly Discordant World",
@@ -9417,7 +9337,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Unveiling the Official Secrets of MI5",
@@ -9437,7 +9357,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "Tom Holland, Jonathan Sumption, and Helen Castor: The Monarchs of England",
@@ -9457,7 +9377,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "AI for Equity book launch (London)",
@@ -9497,7 +9417,7 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  },
  {
   "title": "The Story of the Bayeux Tapestry: Unravelling the Norman Conquest",
@@ -9517,6 +9437,6 @@
   "why": "",
   "mixed": false,
   "tag": "",
-  "_run": "2026-08-15"
+  "_run": "2026-08-16"
  }
 ]
