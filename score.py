@@ -24,7 +24,18 @@ def _key():
 
 def score_events(events, prev_rows):
     """Attach _score, _why, _mixed, _tag to events. prev_rows: previous events.json."""
-    cache = {r["url"]: r for r in prev_rows if r.get("url") and r.get("score") is not None}
+    cache = {}
+    local = ROOT / "data" / "events.json"
+    sources = [prev_rows]
+    if local.exists():
+        try:
+            sources.append(json.loads(local.read_text()))
+        except json.JSONDecodeError:
+            pass
+    for rows in sources:
+        for r in rows:
+            if r.get("url") and r.get("score") is not None:
+                cache[r["url"]] = r
     todo = []
     for e in events:
         c = cache.get(e.url)
