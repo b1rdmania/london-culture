@@ -118,6 +118,8 @@ class EventbriteScraper(BaseScraper):
             venue_name = venue_info.get("name", "")
             address = venue_info.get("address", {})
             area = address.get("localized_area_display", "")
+            postcode = (address.get("postal_code") or "").strip().upper()
+            img = (item.get("image") or {}).get("url", "") if isinstance(item.get("image"), dict) else ""
 
             # Category from tags (search lens wins)
             category = SEARCH_LENS.get(search_term, "")
@@ -160,6 +162,8 @@ class EventbriteScraper(BaseScraper):
                 area=area,
                 is_free=is_free,
                 source=self.name,
+                postcode=postcode,
+                image=img,
             ))
 
         return events

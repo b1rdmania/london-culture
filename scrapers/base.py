@@ -32,6 +32,8 @@ class Event:
     is_free: bool = False
     area: str = ""  # e.g. "Dalston", "Shoreditch", "South Kensington"
     source: str = ""  # scraper name (venue may differ, e.g. Eventbrite/Luma)
+    postcode: str = ""  # outward code if known, e.g. "E8", "N1", "SE1"
+    image: str = ""  # event image URL if the source gives one
 
     @property
     def date_display(self) -> str:

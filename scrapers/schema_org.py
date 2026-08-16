@@ -80,6 +80,33 @@ class SchemaOrgScraper(BaseScraper):
     def category_for(self, ev: dict, title: str) -> str:
         return self.default_category
 
+    @staticmethod
+    def postcode_for(ev: dict) -> str:
+        loc = ev.get("location")
+        if isinstance(loc, list):
+            loc = loc[0] if loc else None
+        if isinstance(loc, dict):
+            addr = loc.get("address")
+            if isinstance(addr, dict):
+                pc = (addr.get("postalCode") or "").strip().upper()
+                if pc:
+                    return pc
+                street = addr.get("streetAddress") or ""
+                m = re.search(r"\b([A-Z]{1,2}\d[A-Z\d]?)\s*\d[A-Z]{2}\b", street.upper())
+                if m:
+                    return m.group(1)
+        return ""
+
+    @staticmethod
+    def image_for(ev: dict) -> str:
+        img = ev.get("image")
+        if isinstance(img, list):
+            img = img[0] if img else ""
+        if isinstance(img, dict):
+            img = img.get("url", "")
+        img = img or ""
+        return img if img.startswith("http") else ""
+
     def scrape(self) -> list[Event]:
         events, seen = [], set()
         for url in self.urls:
@@ -154,6 +181,8 @@ class SchemaOrgScraper(BaseScraper):
             is_free=is_free,
             area=self.area_for(ev),
             source=self.name,
+            postcode=self.postcode_for(ev),
+            image=self.image_for(ev),
         )
 
 

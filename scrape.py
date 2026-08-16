@@ -5,6 +5,7 @@ politics events in London worth leaving the house for."""
 import json
 import logging
 import os
+import re
 import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -111,6 +112,43 @@ TITLE_SKIP = [
 ]
 
 
+# Central / north / east only. Decide by outward postcode when we have one,
+# else by area/venue words. Unknown location = keep.
+OK_DISTRICT_PREFIX = ("E", "EC", "N", "NW", "WC")
+OK_DISTRICTS = {"SE1", "SE11", "SE16", "SE17", "SW1", "SW1A", "SW1E", "SW1H", "SW1P", "SW1V", "SW1W", "SW1X", "SW1Y",
+                "SW3", "SW7", "W1", "W2", "W8", "W9", "W10", "W11", "SW10", "SW5", "SW6"}
+BAD_AREAS = [
+    "dulwich", "peckham", "brixton", "clapham", "croydon", "wimbledon", "richmond", "ealing",
+    "hounslow", "harrow", "uxbridge", "kingston", "sutton", "bromley", "lewisham", "catford",
+    "greenwich", "woolwich", "streatham", "tooting", "balham", "putney", "twickenham", "acton",
+    "chiswick", "wembley", "barnet", "enfield", "romford", "ilford", "barking", "dagenham",
+    "bexley", "orpington", "surbiton", "new malden", "mitcham", "morden", "eltham", "sidcup",
+    "forest hill", "sydenham", "crystal palace", "norwood", "herne hill", "camberwell",
+    "deptford", "new cross", "nunhead", "elephant", "kennington", "vauxhall", "battersea",
+    "wandsworth", "hammersmith", "shepherd", "white city", "kensal", "willesden", "kilburn",
+    "watford", "brighton", "croydon", "essex", "surrey", "kent", "hertford", "reading", "oxford",
+    "cambridge", "birmingham", "manchester", "bristol", "edinburgh", "glasgow", "leeds",
+]
+
+
+def _district(pc: str) -> str:
+    m = re.match(r"^([A-Z]{1,2}\d[A-Z\d]?)", (pc or "").upper().replace(" ", ""))
+    return m.group(1) if m else ""
+
+
+def in_zone(e) -> bool:
+    d = _district(e.postcode)
+    if d:
+        if d in OK_DISTRICTS:
+            return True
+        letters = re.match(r"^[A-Z]+", d).group(0)
+        if letters in OK_DISTRICT_PREFIX:
+            return True
+        return False
+    blob = f"{e.title} {e.area} {e.venue} {e.description[:120]}".lower()
+    return not any(a in blob for a in BAD_AREAS)
+
+
 def filter_events(events):
     """Remove music/cinema/kids/spam, deduplicate, sort by date."""
     today = date.today()
@@ -124,6 +162,8 @@ def filter_events(events):
             continue
         t = e.title.lower()
         if any(w in t for w in TITLE_SKIP):
+            continue
+        if not in_zone(e):
             continue
         filtered.append(e)
 
@@ -207,6 +247,7 @@ def carry_forward(events, health, prev_rows, run_day):
             start_date=sd, time=row.get("time", ""), description=row.get("description", ""),
             category=row.get("category", ""), is_free=bool(row.get("is_free")),
             area=row.get("area", ""), source=row["source"],
+            postcode=row.get("postcode", ""), image=row.get("image", ""),
         )
         e._carried_run = row.get("_run") or row.get("first_seen")
         events.append(e)
@@ -295,6 +336,7 @@ def save_events(events, health, run_day):
             "first_seen": e._first_seen,
             "score": getattr(e, "_score", None), "why": getattr(e, "_why", ""),
             "mixed": getattr(e, "_mixed", False), "tag": getattr(e, "_tag", ""),
+            "postcode": e.postcode, "image": e.image,
             "_run": getattr(e, "_carried_run", None) or run_day.isoformat(),
         }
         for e in events

@@ -175,6 +175,24 @@
         .event.dim { opacity: 0.55; }
         .score { color: #444; }
 
+        .event { display: flex; gap: 1rem; align-items: flex-start; }
+        .event .body { flex: 1; min-width: 0; }
+        .event .thumb {
+            width: 72px; height: 72px; flex: 0 0 72px; object-fit: cover;
+            border-radius: 2px; background: #1a1a1a; filter: saturate(0.85);
+        }
+        .event.dim .thumb { filter: saturate(0.4); }
+        .pick { display: flex; gap: 1rem; align-items: flex-start; }
+        .pick .thumb {
+            width: 96px; height: 64px; flex: 0 0 96px; object-fit: cover; border-radius: 2px;
+            background: #1a1a1a;
+        }
+        .pick .body { flex: 1; min-width: 0; }
+        @media (max-width: 640px) {
+            .event .thumb { width: 56px; height: 56px; flex-basis: 56px; }
+            .pick .thumb { width: 72px; height: 48px; flex-basis: 72px; }
+        }
+
         /* Mobile adjustments */
         @media (max-width: 640px) {
             body { padding: 2rem 1rem; }
@@ -195,8 +213,11 @@
         <div class="filter-label">Worth booking · next two weeks</div>
         {% for e in picks %}
         <div class="pick">
-            <a href="{{ e.url }}">{{ e.title }}</a>
-            <div class="why">{{ e.start_date.strftime('%a %-d %b') }}{% if e.time %} {{ e.time }}{% endif %} · {{ e.venue }}{% if e._why %} · {{ e._why|lower }}{% endif %}</div>
+            {% if e.image %}<a href="{{ e.url }}"><img class="thumb" src="{{ e.image }}" alt="" loading="lazy"></a>{% endif %}
+            <div class="body">
+                <a href="{{ e.url }}">{{ e.title }}</a>
+                <div class="why">{{ e.start_date.strftime('%a %-d %b') }}{% if e.time %} {{ e.time }}{% endif %} · {{ e.venue }}{% if e._why %} · {{ e._why|lower }}{% endif %}</div>
+            </div>
         </div>
         {% endfor %}
     </div>
@@ -239,6 +260,8 @@
                 <div class="date-header" data-date-header>{{ event_date_str }}</div>
             {% endif %}
             <div class="event{% if event._is_new %} is-new{% endif %}" data-lens="{{ event._lens }}" data-source="{{ event.source }}" data-date="{{ event.start_date.isoformat() }}" data-new="{{ 1 if event._is_new else 0 }}" data-free="{{ 1 if event.is_free else 0 }}" data-score="{{ event._score if event._score is not none else '' }}" data-mixed="{{ 1 if event._mixed else 0 }}">
+                {% if event.image %}<a href="{{ event.url }}"><img class="thumb" src="{{ event.image }}" alt="" loading="lazy" onerror="this.style.display='none'"></a>{% endif %}
+                <div class="body">
                 <div class="event-title"><a href="{{ event.url }}">{{ event.title }}</a>{% if event._is_new %}<span class="new-tag">new</span>{% endif %}</div>
                 <div class="event-meta">
                     {% if event.is_free %}<span class="free"></span>{% endif %}
@@ -249,6 +272,7 @@
                     {% if event._score is not none %}<span class="score"> · {{ event._score }}/10</span>{% endif %}
                 </div>
                 {% if event._why %}<div class="why">{{ event._why }}</div>{% elif event.description %}<div class="desc">{{ event.description[:140] }}</div>{% endif %}
+                </div>
             </div>
         {% endfor %}
     </div>
