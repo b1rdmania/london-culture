@@ -1,12 +1,12 @@
 {
- "run": "2026-08-17",
+ "run": "2026-08-18",
  "sources": {
   "Barbican": 15,
   "Design Museum": 13,
   "Wellcome Collection": 14,
   "Photographers' Gallery": 5,
   "Somerset House": 3,
-  "V&A": 14,
+  "V&A": 13,
   "ICA": 12,
   "Rich Mix": "0 (kept 3)",
   "Whitechapel Gallery": 9,
@@ -15,7 +15,7 @@
   "Bishopsgate Institute": 10,
   "How To Academy": 59,
   "Luma": 20,
-  "Meetup": 84,
-  "Eventbrite": "0 (kept 86)"
+  "Meetup": 86,
+  "Eventbrite": "0 (kept 84)"
  }
 }
