@@ -1,21 +1,21 @@
 {
- "run": "2026-09-15",
+ "run": "2026-09-16",
  "sources": {
   "Barbican": 15,
   "Design Museum": 18,
-  "Wellcome Collection": 15,
+  "Wellcome Collection": 14,
   "Photographers' Gallery": 6,
   "Somerset House": 3,
-  "V&A": 22,
-  "ICA": 5,
-  "Rich Mix": 0,
+  "V&A": 23,
+  "ICA": 6,
+  "Rich Mix": "0 (kept 0)",
   "Whitechapel Gallery": 8,
   "Conway Hall": 36,
   "Gresham College": 20,
   "Bishopsgate Institute": 21,
-  "How To Academy": 55,
+  "How To Academy": "0 (kept 52)",
   "Luma": 20,
-  "Meetup": 83,
-  "Eventbrite": 0
+  "Meetup": 86,
+  "Eventbrite": "0 (kept 0)"
  }
 }
