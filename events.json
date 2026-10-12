@@ -1,71 +1,5 @@
 [
  {
-  "title": "Why We Begin",
-  "venue": "V&A",
-  "url": "https://www.vam.ac.uk/event/L3x91Nzw/why-we-begin-oct-2026",
-  "source": "V&A",
-  "start_date": "2026-10-11",
-  "end_date": null,
-  "time": "",
-  "description": "",
-  "category": "Talk",
-  "lens": "Talks",
-  "is_free": false,
-  "area": "V&A East Museum",
-  "first_seen": "2026-10-04",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "postcode": "",
-  "image": "",
-  "_run": "2026-10-11"
- },
- {
-  "title": "Pink Jukebox",
-  "venue": "Bishopsgate Institute",
-  "url": "https://www.bishopsgate.org.uk/whats-on/activity/pink-jukebox-15",
-  "source": "Bishopsgate Institute",
-  "start_date": "2026-10-11",
-  "end_date": null,
-  "time": "",
-  "description": "",
-  "category": "Social",
-  "lens": "Social",
-  "is_free": false,
-  "area": "Liverpool Street",
-  "first_seen": "2026-08-27",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "postcode": "",
-  "image": "",
-  "_run": "2026-10-11"
- },
- {
-  "title": "ENCLOSURE at Somerset House then coffee social",
-  "venue": "Somerset House",
-  "url": "https://www.meetup.com/artlovers/events/316889847/",
-  "source": "Meetup",
-  "start_date": "2026-10-11",
-  "end_date": null,
-  "time": "12:45pm",
-  "description": "**Step into a world where reality begins to unravel** \ud83e\udd41 Are you ready for the new season? We\u2019re kicking things off with something a little edgy, a little unexpected and definitely memorable, in true London Art Lovers sty",
-  "category": "Art & Design",
-  "lens": "Social",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-10-08",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "postcode": "WC2R",
-  "image": "",
-  "_run": "2026-10-11"
- },
- {
   "title": "Course | Collecting Photography 2026",
   "venue": "Photographers' Gallery",
   "url": "https://thephotographersgallery.org.uk/whats-on/course-collecting-photography-2026",
@@ -85,7 +19,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Visit to the William Morris Gallery at Walthamstow,including Wetlands Walk.",
@@ -107,7 +41,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Stephen Sackur and Carole Cadwalladr: Hard Truth",
@@ -129,7 +63,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "London Systems Club",
@@ -151,7 +85,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/event-covers/5g/2210b753-a13c-446d-a82a-3f534161a5d8.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Meera Syal: Vigilauntie!",
@@ -173,7 +107,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Alexei Sayle: How I\u2019ve Tried to Change the World",
@@ -195,7 +129,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Jela Kre\u010di\u010d and Slavoj \u017di\u017eek: Truth and Fakery in Art and Hollywood",
@@ -217,29 +151,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
- },
- {
-  "title": "Conundrum Corner :: London - Your Dilemmas Discussed..",
-  "venue": "The Union Jack",
-  "url": "https://www.meetup.com/london-philosophy-cafe/events/316685033/",
-  "source": "Meetup",
-  "start_date": "2026-10-12",
-  "end_date": null,
-  "time": "7pm",
-  "description": "**\u2728 Welcome to Conundrum Corner at The Union Jack pub, Southwark! \u2728** Step inside and join a gathering *of* open minds and kind hearts. Whether you bring a conundrum of your own that you are experiencing or simply your l",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
-  "is_free": false,
-  "area": "London",
-  "first_seen": "2026-10-05",
-  "score": null,
-  "why": "",
-  "mixed": false,
-  "tag": "",
-  "postcode": "",
-  "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Constable bequest:  A legacy of inspiration",
@@ -261,7 +173,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Rosalinde and Arthur Gilbert Annual Lecture 2026",
@@ -283,7 +195,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Science of Puppetry \u2013 How Real Can They Be?",
@@ -305,7 +217,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Lunchtime Iyengar Yoga - Suitable for All",
@@ -327,7 +239,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Evening Iyengar Yoga - Suitable for All",
@@ -349,7 +261,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The 400 Club x Pinterest: Creator Curriculum",
@@ -371,7 +283,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/40/ce1a03c9-a1fd-4d90-a3f9-02aa732c7c0b.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Blue Earth Summit - KULEANA Screening",
@@ -393,7 +305,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/w1/82cf125a-9b69-4789-b6ab-563e85419bad.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Uplift Live: Black in the Room",
@@ -415,7 +327,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/es/6eea8c7d-d1ff-4c76-aec2-5e5bd3b45ee2.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "SMEs, Local Businesses | Digital Transformation, AI | Business Networking,London",
@@ -437,7 +349,7 @@
   "tag": "",
   "postcode": "E14",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Fintech Hackathon",
@@ -459,7 +371,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/qu/2ab92e18-4026-4507-ad18-fdec630f8d75.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Next Generation with Baroness Fox",
@@ -481,7 +393,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/hn/f04f4bff-82f9-4fb0-8d4d-4c0643c6705d.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "VC Pitch Night | DeepTech Founders with Empirical Ventures and Aligned Syndicate",
@@ -503,7 +415,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/sa/cc6c3d4d-b76b-4753-b46e-5c08937f7c43.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The one pitfall every transformation needs to avoid",
@@ -525,7 +437,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "WHY IS THERE A SEX RECESSION?",
@@ -547,7 +459,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Slavoj \u017di\u017eek: Signs from the Future",
@@ -569,7 +481,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Inside the World of The Beatles, with Gary Kemp, Simon Halfon & Tom Holland",
@@ -591,7 +503,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Gary-Kemp-850x500-1-600x500.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Truefuels x TRD: London Startups Operator RunClub & Social",
@@ -613,7 +525,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/7t/689d3023-d749-40e7-9e11-39184dd85627.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "FREE Jazz, Blues and Rock - 4 bands",
@@ -635,7 +547,7 @@
   "tag": "",
   "postcode": "SE1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Philosophies of East & West - First Evening to 18 Week Course, Islington",
@@ -657,29 +569,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
-  "title": "Orlando - Virginia Woolf (In-person)",
-  "venue": "Prince of Wales",
-  "url": "https://www.meetup.com/philosophical-fiction-book-club/events/316594583/",
+  "title": "Time: The First Quantum Concept",
+  "venue": "Barbican Cinema Caf\u00e9 & Bar",
+  "url": "https://www.meetup.com/popper-deutsch-reading-group/events/316935116/",
   "source": "Meetup",
   "start_date": "2026-10-13",
   "end_date": null,
   "time": "7pm",
-  "description": "**PLEASE NOTE THE DAY OF THIS MEETING** \\- we usually meet on the second Wednesday of the month\\, but for the foreseeable future\\, we will be meeting on the second Tuesday of each month\\. **This event is supported by The",
-  "category": "Politics & Ideas",
-  "lens": "Politics & Ideas",
+  "description": "This week we'll revisit [The Fabric of Reality](https://www.amazon.co.uk/Fabric-Reality-Towards-Everything-Penguin-ebook/dp/B004YB9HVY/ref=sr_1_1?crid=3T633B9O127TB&dib=eyJ2IjoiMSJ9.bRQ0x34_ndf2bKLxdYmCBJL-xrfxA69oeE69JX",
+  "category": "Tech",
+  "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-10-10",
+  "first_seen": "2026-10-12",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Consumer Startup Breakfast \ud83e\udd50\ud83e\uded6",
@@ -701,7 +613,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/n4/bb6e8717-cccd-48a7-bc48-8c1bd2cff7e6.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "An Evening with Nick Park",
@@ -723,7 +635,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "John Deare\u2019s Edward and Eleanor marble relief",
@@ -745,7 +657,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Rather Trivial Things? Finding the Precious in an Alternative Museum History",
@@ -767,7 +679,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Gentle Restorative Yoga",
@@ -789,7 +701,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Mindful Pilates",
@@ -811,7 +723,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Basic Forms: Reimagining Public Space",
@@ -833,7 +745,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Buildathon w/ MongoDB & Vercel & Tavily",
@@ -855,7 +767,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/lx/d4a0420b-a9bb-4480-9427-2e6ead02250a.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Founders Padel Club",
@@ -877,7 +789,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/z8/3ad5da1f-9493-49cf-8078-9788d6622c70.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "*in-person* \u017diga Avsec (Google DeepMind) - AlphaGenome",
@@ -899,7 +811,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Common Matters #12",
@@ -921,7 +833,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/wx/1953faaa-01af-4e8f-b711-e1db2bb2861f.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Tempo & Flo \u00d7 SportsShoes \u00d7 Nike Running - LONDON",
@@ -943,7 +855,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/os/9f0aa7db-9002-409c-bfa4-d368997ae35a.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Doc in a Day - SCREENING for the theme \u201cStatus\u201d",
@@ -965,7 +877,7 @@
   "tag": "",
   "postcode": "E2",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Conversations in the AI era | Builder Community Meetup | London \ud83d\udc82",
@@ -987,7 +899,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/0v/ebbe30e8-1fe2-4e98-98f5-12bb874116a5.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "October Demo Night with Hatch Enterprise",
@@ -1009,7 +921,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/qc/00ee1cf5-aa0e-4e8d-a1af-0bb0129c9cb8.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Cloud Platform Engineering London: Building for the unexpected and Teams Culture",
@@ -1031,7 +943,7 @@
   "tag": "",
   "postcode": "EC2M",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Agentic AI-MeetUp London #12 Wednesday 14th October",
@@ -1053,7 +965,7 @@
   "tag": "",
   "postcode": "N1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "SAS: Behind Enemy Lines with Damien Lewis",
@@ -1075,7 +987,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Can We Reclaim Childhood from Big Tech?: Beeban Kidron & Sandi Toksvig",
@@ -1097,7 +1009,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Beeban-Kidron-Sandi-Toksvig-850x500-1-600x500.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Frontier Nights: From Software Engineer to Forward Deployed Engineer",
@@ -1119,7 +1031,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/7l/d7ade0b4-f199-41fd-8cb5-588a55956890.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Art Club",
@@ -1141,7 +1053,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Philosophies of East & West - First Evening to 18 Week Course, London Bridge",
@@ -1163,7 +1075,7 @@
   "tag": "",
   "postcode": "SE1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Lunchtime Lectures: William and May Morris: A V&A Legacy",
@@ -1185,7 +1097,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Young V&A Schools: Design Takeover \u2013 KS3 (Autumn 2026)",
@@ -1207,7 +1119,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "A History of the World in Four Algorithms",
@@ -1229,7 +1141,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Pilates",
@@ -1251,7 +1163,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Pause and Reset: A Guided Wellbeing Session",
@@ -1273,7 +1185,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Heritage in Frame \u8863\u6620\u5343\u5e74-\u4e2d\u56fd\u5f71\u89c6\u4e0e\u821e\u53f0\u670d\u9970\u5c55",
+  "venue": "Royal Society of Arts",
+  "url": "https://luma.com/xwkoqe1y",
+  "source": "Luma",
+  "start_date": "2026-10-15",
+  "end_date": "2026-10-15",
+  "time": "2pm",
+  "description": "",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": true,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "",
+  "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/p2/9db20190-939e-4dab-895b-571b631788ad.jpg",
+  "_run": "2026-10-12"
  },
  {
   "title": "Stripe x Briefcase: AI FinTech London Hackathon",
@@ -1295,7 +1229,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/dy/e5b3092b-b1eb-4174-9dad-4272000990ad.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Economics of Intelligence",
@@ -1317,7 +1251,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1615019519929-102961c955ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw4Nnx8ZWNvbm9taWNzfGVufDB8fHx8MTc4OTEzMzMxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How To Be a Dissident",
@@ -1339,7 +1273,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Peaceful Crystallographer \u2013 and Other Songs",
@@ -1361,7 +1295,29 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/The-Peaceful-Crystallographer-and-Other-Songs-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Cut through Complexity with the OOPSI Framework",
+  "venue": "Codurance",
+  "url": "https://www.meetup.com/london-software-craftsmanship/events/316383455/",
+  "source": "Meetup",
+  "start_date": "2026-10-15",
+  "end_date": null,
+  "time": "6pm",
+  "description": "We have a very special meetup for our October edition! We are thrilled to welcome industry expert Jenny Martin to discuss: **Cut through Complexity with the OOPSI Framework** The session is aimed at people working across",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "AI Signals #35: Evals, Guardrails and Human Behaviour",
@@ -1383,7 +1339,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Breakfast with OpenAI - AI in Financial Services",
@@ -1405,7 +1361,7 @@
   "tag": "",
   "postcode": "",
   "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/wg/f2f6f32c-f83a-4120-b1c7-20dc1a0b8764.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "1-54 2026 Talks and Events",
@@ -1427,7 +1383,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Seyni Awa Camara: Magician of Our Earth \u2013 The Gallery of Everything & Bac\u2019ART",
@@ -1449,7 +1405,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "10 Years of Addis Fine Art: A Decade of Discovery",
@@ -1471,7 +1427,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How to make your Will: Solicitor Q&A",
@@ -1493,7 +1449,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Music is the Weapon: From Fela to Fuse",
@@ -1515,7 +1471,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\u00a325 Free Ticket - Saatchi Late, Sloane Square (Gallery + Pub)",
@@ -1537,7 +1493,7 @@
   "tag": "",
   "postcode": "SW3",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Zen Singles Social @ \ud83c\udfa8 National Portrait Gallery Late: Art & Afterparty! \ud83e\udd42\u2728",
@@ -1559,7 +1515,7 @@
   "tag": "",
   "postcode": "WC2H",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\ud83c\udfa8 National Portrait Gallery Late: Art, Social & Zebrano Soho Afterparty! \ud83e\udd42\u2728",
@@ -1581,7 +1537,7 @@
   "tag": "",
   "postcode": "WC2H",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Tech Startups in the Pub, Shoreditch - Relaxed Networking",
@@ -1603,7 +1559,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Double Bill \u2013 Soraya Verjee and No More Girl Friday",
@@ -1625,7 +1581,7 @@
   "tag": "generic",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Double-Bill-Soraya-Verjee-and-No-More-Girl-Friday-1-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Songs My Father Taught Me",
@@ -1647,7 +1603,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Awakenings: Artists and Curator in Conversation",
@@ -1669,7 +1625,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Panel and Conversation: Insights from South Asian Creatives",
@@ -1691,7 +1647,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Make it: Hats",
@@ -1713,7 +1669,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Look What I Found: The Music is Black",
@@ -1735,7 +1691,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Swing Live! - Performance Ball",
@@ -1757,7 +1713,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Art of Connection for Singles: National Gallery Experience",
@@ -1779,7 +1735,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Singles on a Mission: National Gallery Challenge",
@@ -1801,7 +1757,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Let's Save the UK! IN-PERSON session",
@@ -1823,7 +1779,7 @@
   "tag": "",
   "postcode": "WC2R",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Philosophy in the Park 150",
@@ -1845,7 +1801,7 @@
   "tag": "",
   "postcode": "E3",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "R is for Renoir and Love Exhibition at the National Gallery, London",
@@ -1867,7 +1823,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Practical Philosophy Club Meetup - London \ud83c\uddec\ud83c\udde7",
@@ -1889,7 +1845,7 @@
   "tag": "",
   "postcode": "WC2B",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\ud83d\udcf8 LIGHT & MAGIC: THE BIRTH OF ART PHOTOGRAPHY",
@@ -1911,7 +1867,7 @@
   "tag": "",
   "postcode": "SE1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Deeper Discussion: Does your life have a purpose?",
@@ -1933,7 +1889,7 @@
   "tag": "",
   "postcode": "WC1B",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Battle of Ideas - Saturday EVENING MEAL",
@@ -1955,7 +1911,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Battle of Ideas - Saturday",
@@ -1977,7 +1933,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "V&A East Youth Engagement Event (Oct 2026)",
@@ -1999,7 +1955,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Battle of Ideas - Sunday",
@@ -2021,7 +1977,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Relaxed Openings of The Coming of Age",
@@ -2043,7 +1999,7 @@
   "tag": "art",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "P is for Light & Magic-The Birth of Photography at Tate Modern",
@@ -2065,7 +2021,7 @@
   "tag": "",
   "postcode": "SE1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Creating Beyond the Mainstream",
@@ -2087,7 +2043,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/05/Creating-Beyond-the-Mainstream-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\ud83e\udd14Deep Unearthing Conversations: \ud83c\udf0cLife, The Universe, and Everything \u2615",
@@ -2109,7 +2065,7 @@
   "tag": "",
   "postcode": "EC4M",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\u201cIn Sweet Music Is Such Art\u201d with Harriet Burns, Mark Padmore & Ian Tindale",
@@ -2131,7 +2087,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/05/Bloomsbury-concert-COMBINED-STARS-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Un drink con Joe: Vieni a Conoscermi PrimaDelle Elezoioni!\ud83d\ude0f\ud83c\uddee\ud83c\uddf9\u2728",
@@ -2153,7 +2109,7 @@
   "tag": "",
   "postcode": "WC1B",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Mini Play for Babies (Autumn Series)",
@@ -2175,7 +2131,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Digital Art Season at National Art Library: Digital Practice in Print",
+  "venue": "V&A",
+  "url": "https://www.vam.ac.uk/event/AEaKYEXNvB/national-art-library-digital-art-talk-2",
+  "source": "V&A",
+  "start_date": "2026-10-19",
+  "end_date": null,
+  "time": "",
+  "description": "",
+  "category": "Drop-In",
+  "lens": "Other",
+  "is_free": false,
+  "area": "V&A South Kensington",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "The Uses of Rhetoric, Past and Present",
@@ -2197,7 +2175,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Wondrous World of Parasites",
@@ -2219,7 +2197,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "CryptoMondays London",
@@ -2241,7 +2219,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Builders Foundry #4 - Agents in Practice, Engineering in the Real World",
@@ -2263,7 +2241,7 @@
   "tag": "",
   "postcode": "N1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Enterprise AI Showcase (October)",
@@ -2285,7 +2263,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Dan Jones: Castles \u2013 A Fortified History of the World",
@@ -2307,7 +2285,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Dr Kevin Fong: An Expert\u2019s Survival Guide for an Uncertain World",
@@ -2329,7 +2307,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Global Fight Against LGBTI Rights",
@@ -2351,7 +2329,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Mindstone London October AI Meetup",
@@ -2373,7 +2351,7 @@
   "tag": "",
   "postcode": "EC1R",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Michael Portillo Show",
@@ -2395,7 +2373,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Why Is There Music?",
@@ -2417,7 +2395,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Immersive Music & Art Exhibit",
@@ -2439,7 +2417,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "AI Builders and Databases London",
@@ -2461,7 +2439,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "AWS AI In Practice #7",
@@ -2483,29 +2461,29 @@
   "tag": "",
   "postcode": "N1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
-  "title": "dbt Global Circuit: London",
-  "venue": "The Information Lab",
-  "url": "https://www.meetup.com/london-dbt-meetup/events/316511066/",
+  "title": "London DevOps AI #002: Spec-Driven, Guardrailed AI Coding",
+  "venue": "Civo Tech Junction",
+  "url": "https://www.meetup.com/london-devops/events/316946129/",
   "source": "Meetup",
   "start_date": "2026-10-21",
   "end_date": null,
   "time": "6pm",
-  "description": "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members' experience with dbt, however, you'll catch presentations on broader topics such as analytics engineer",
+  "description": "After 100 meetups as London DevOps, we continue in our refreshed identity with London DevOps AI meetup #002 at Civo Tech Junction. We will have two talks on getting real value and real safety from AI coding agents. Rob C",
   "category": "Tech",
   "lens": "Tech",
   "is_free": false,
   "area": "London",
-  "first_seen": "2026-10-11",
+  "first_seen": "2026-10-12",
   "score": null,
   "why": "",
   "mixed": false,
   "tag": "",
-  "postcode": "EC4M",
+  "postcode": "EC2A",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Film Club: Complicity, One Choice at a Time (secret film)",
@@ -2527,7 +2505,7 @@
   "tag": "",
   "postcode": "E2",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Talk: I'm tired of this shit",
@@ -2549,7 +2527,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Plato on Truth, Lies and Power",
@@ -2571,7 +2549,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Queer Salsa Improvers Course",
@@ -2593,7 +2571,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Architecture on Stage: Walters and Cohen",
@@ -2615,7 +2593,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Undersea War: The Invisible Battle for Supremacy",
@@ -2637,7 +2615,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Book Presentation, Talk & Signing, Carol Allen Storey: Defying the Myth",
@@ -2659,7 +2637,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "OpenUK London Meet-up: \u201cAgentic AI in Financial Services\u201d",
@@ -2681,7 +2659,7 @@
   "tag": "creative-tech",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "What Breaks When You Let an Agent Loose on Your Repo",
@@ -2703,7 +2681,7 @@
   "tag": "",
   "postcode": "N1",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Strengthening the spiral of technoprogressive trust",
@@ -2725,7 +2703,7 @@
   "tag": "",
   "postcode": "EC4Y",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "London Philosophy Cafe",
@@ -2747,7 +2725,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Bishopsgate Ballroom",
@@ -2769,7 +2747,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Book Signing, Susan Meiselas: NO KINGS - Signs of the Times",
@@ -2791,7 +2769,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Culture & Cocktails: Renoir and Love @National Gallery",
@@ -2813,7 +2791,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "William Dalrymple \u2013 The Relentless Rise of the East India Company",
@@ -2835,7 +2813,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Pure Poison",
@@ -2857,7 +2835,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Light & Magic at Tate Modern",
@@ -2879,7 +2857,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Relaxed\u00a0Opening of \u2018Audrey Amiss'\u00a0and \u2018Rudy Loewe' exhibitions",
@@ -2901,7 +2879,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Pink Jukebox",
+  "venue": "Bishopsgate Institute",
+  "url": "https://www.bishopsgate.org.uk/whats-on/activity/pink-jukebox-15",
+  "source": "Bishopsgate Institute",
+  "start_date": "2026-10-25",
+  "end_date": null,
+  "time": "",
+  "description": "",
+  "category": "Social",
+  "lens": "Social",
+  "is_free": false,
+  "area": "Liverpool Street",
+  "first_seen": "2026-08-27",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "Dance in a Day - Lindy Hop",
@@ -2923,7 +2923,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Andrew Roberts: Napoleon and His Marshals",
@@ -2945,7 +2945,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Blindboy - The Blindboy Podcast LIVE",
@@ -2967,7 +2967,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How True Stories Make Us Care",
@@ -2989,7 +2989,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Everyman \u2013 The Untold Story of Economics",
@@ -3011,7 +3011,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "CLH Talk | Eugenics is back: why this murderous ideology is resurging",
@@ -3033,7 +3033,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "An Evening with Fran Lebowitz",
@@ -3055,7 +3055,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Rethinking Deterrence for a Disrupted World",
@@ -3077,7 +3077,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Relaxed Hours: Cecilia Vicu\u00f1a",
@@ -3099,7 +3099,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Meetup #19 - The Agentic Web Explained",
+  "venue": "AutogenAI",
+  "url": "https://www.meetup.com/ai-for-the-rest-of-us-london/events/316926189/",
+  "source": "Meetup",
+  "start_date": "2026-10-27",
+  "end_date": null,
+  "time": "6pm",
+  "description": "Shaping our future with AI. Creating opportunity through AI fluency, connection and community. No jargon. No hype. No confusing terminology. **Join us for our next in-person meetup in London on Tuesday 27th October.** Th",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "N1",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "CASUAL DRINKS & POLITICAL CHAT (Late October meeting)",
@@ -3121,7 +3143,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Jung Chang \u2013 Fly, Wild Swans",
@@ -3143,7 +3165,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Realm of The Rebels",
@@ -3165,7 +3187,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Around the World with Indian Cinema",
@@ -3187,7 +3209,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Mini Ropery",
@@ -3209,7 +3231,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Architecture on Stage: Takero Shimazaki",
@@ -3231,7 +3253,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Product London with Google Cloud.",
@@ -3253,7 +3275,7 @@
   "tag": "",
   "postcode": "WC2H",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Ghibli and Goodness",
@@ -3275,7 +3297,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Ghibli-and-Goodness-1-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Spirit Moves Us: Sound & Movement Session with Seyi Adelekun",
@@ -3297,7 +3319,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Roy Cohn\u2019s Dark Journey from McCarthy to Trump",
@@ -3319,7 +3341,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Sechel and Sensibility",
@@ -3341,7 +3363,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Sechel-and-Sensibility-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Coming of Age Exhibition & other exhibitions",
@@ -3363,7 +3385,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Can Fear be Moral?",
@@ -3385,7 +3407,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/THE-CABINET-OF-DR-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "TEiP HALLOWEEN PARTY \u2022 PORTOBELLO | Thought Experiments in Public",
@@ -3407,7 +3429,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Free Friday Philosophy: The Occult",
@@ -3429,7 +3451,7 @@
   "tag": "",
   "postcode": "WC1R",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Occult | Free Filosophy Friday | Holborn | Veins X London Philosophy Caf\u00e9",
@@ -3451,7 +3473,7 @@
   "tag": "",
   "postcode": "WC1V",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Exhibition Tour | Sanl\u00e9 Sory: Colour Years",
@@ -3473,7 +3495,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Curator Tour of LAIKA presents Wildwood: The Exhibition",
@@ -3495,7 +3517,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Darbar: A Voice Without Borders by Sandeep Narayan",
@@ -3517,7 +3539,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Philosophy in the Park 151",
@@ -3539,7 +3561,7 @@
   "tag": "",
   "postcode": "E3",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How The Body Keeps the Score \u2013 Dr Bessel van der Kolk",
@@ -3561,7 +3583,7 @@
   "tag": "generic",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Isabel Allende: The Alchemy of Storytelling",
@@ -3583,7 +3605,29 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "\ud83d\udc7bReal Mummies \ud83c\udf83 Sprituality \ud83e\uddd9 The Paranormal & Unexplained\ud83d\udc7d",
+  "venue": "British Museum",
+  "url": "https://www.meetup.com/lit_fun_times_for_young_london_professionals/events/316934090/",
+  "source": "Meetup",
+  "start_date": "2026-10-31",
+  "end_date": null,
+  "time": "3pm",
+  "description": "Time is precious. Here we cherish non-boring big picture chats and interactions that are fully engaging, soulfully enriching, inspiring, and leave you a bit wiser than when you arrived. In that spirit (mind the pun!), to",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "WC1B",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "Simon Sebag Montefiore \u2013 The Making of the Modern Middle East",
@@ -3605,7 +3649,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "SAF SAPPHIC WLW SLAUGHTERHOUSE",
@@ -3627,7 +3671,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "LMTO Sitz",
@@ -3649,7 +3693,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Laura Kuenssberg: Pay Attention",
@@ -3671,7 +3715,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Art Of Fighting: The Transformative Power Of Conflict",
@@ -3693,7 +3737,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Edmund de Waal: How to Live a Creative Life",
@@ -3715,7 +3759,29 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Kant\u2019s Cave: War and Peace - Dr Lilian Alweiss",
+  "venue": "Meetup",
+  "url": "https://www.meetup.com/http-pfalondon-org/events/315021778/",
+  "source": "Meetup",
+  "start_date": "2026-11-02",
+  "end_date": null,
+  "time": "7:30pm",
+  "description": "ATTEND IN PERSON OR ON ZOOM Lecture and discussion! See you there? This event is sponsored by [The Royal Institute of Philosophy](https://royalinstitutephilosophy.org/). For the full programme of events pls see [pfalondo",
+  "category": "Politics & Ideas",
+  "lens": "Politics & Ideas",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "What History is NOT",
@@ -3737,7 +3803,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Lunchtime Iyengar Yoga - Suitable for All",
@@ -3759,7 +3825,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Evening Iyengar Yoga - Suitable for All",
@@ -3781,7 +3847,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Talk: Stop-Motion Animation & Performance",
@@ -3803,7 +3869,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "An Evening with Greg Wise",
@@ -3825,7 +3891,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Material Witness: Understanding the Objects of Auschwitz",
@@ -3847,7 +3913,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Gentle Restorative Yoga",
@@ -3869,7 +3935,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Mindful Pilates",
@@ -3891,7 +3957,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Philosophy Prescription",
@@ -3913,7 +3979,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Launching a News Club Network",
@@ -3935,7 +4001,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/News-Club-Network-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Courage on the Ballot: America, Britain and the Politics of Courage",
@@ -3957,7 +4023,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Guantanamo on the Euphrates: What Next for Detainees in Syria?",
@@ -3979,7 +4045,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Pilates",
@@ -4001,7 +4067,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Pause and Reset: A Guided Wellbeing Session",
@@ -4023,7 +4089,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Story of the Bayeux Tapestry: Unravelling the Norman Conquest",
@@ -4045,7 +4111,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Swing Den",
@@ -4067,7 +4133,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "An Artist in Everyday Life",
@@ -4089,7 +4155,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "National Portrait Gallery Treasure Hunt - can you find the treasure?",
@@ -4111,7 +4177,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Conway Hall News Club",
@@ -4133,7 +4199,7 @@
   "tag": "ideas",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/News-Club-Network-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Rent, Angels and Miners- HIV/AIDS on stage in London (and beyond)",
@@ -4155,7 +4221,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "A History of Black People and Alternative Music",
@@ -4177,7 +4243,7 @@
   "tag": "generic",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/A-History-of-Black-People-and-Alternative-Music-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Power of Singing Aloud in an Increasingly Discordant World",
@@ -4199,7 +4265,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Lecture \u2014 Sara\u00a0Ahmed\u00a0on Complaining, Again!",
@@ -4221,7 +4287,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "\u201cA Mystery Still\u201d: Historical (Trans) Gender Variance and James \u201cMiranda\u201d Barry",
@@ -4243,7 +4309,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Building with Magnets: The Mathematics of Repulsion and Attraction",
@@ -4265,7 +4331,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Talk - Nue Forms: Reimagining Material Culture",
@@ -4287,7 +4353,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Our Sun, Our Star",
@@ -4309,7 +4375,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Unveiling the Official Secrets of MI5",
@@ -4331,7 +4397,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Tom Holland, Jonathan Sumption, and Helen Castor: The Monarchs of England",
@@ -4353,7 +4419,7 @@
   "tag": "ideas",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How Did Our Garden Grow? The History of Hatton Gardens",
@@ -4375,7 +4441,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Threat of Capitalism Without Democracy, with Martin Wolf",
@@ -4397,7 +4463,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/09/Martin-wolf-CH-600x500.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Curator Tour of The Nue Black Aesthetic",
@@ -4419,7 +4485,29 @@
   "tag": "making",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
+ },
+ {
+  "title": "Late at the Tate: The 90s",
+  "venue": "Tate Britain",
+  "url": "https://www.meetup.com/london-alt-gigs-repertory-film/events/316843302/",
+  "source": "Meetup",
+  "start_date": "2026-11-13",
+  "end_date": null,
+  "time": "6:30pm",
+  "description": "The big Tate Britain exhibition this autumn is its 1990s retrospective, which will focus on a combination of art, design, fashion and photography. It's curated by ex-Vogue editor Edward Enniful and features Juergen Telle",
+  "category": "Tech",
+  "lens": "Tech",
+  "is_free": false,
+  "area": "London",
+  "first_seen": "2026-10-12",
+  "score": null,
+  "why": "",
+  "mixed": false,
+  "tag": "",
+  "postcode": "SW1P",
+  "image": "",
+  "_run": "2026-10-12"
  },
  {
   "title": "Renoir & Love - pay what you wish",
@@ -4441,7 +4529,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Workshop: Stop Motion Animation with Clay",
@@ -4463,7 +4551,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Raphael Wallfisch & Simon Callaghan",
@@ -4485,7 +4573,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Raphael-Simon-WEB-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Michael Lewis on Musk, Trump, DOGE, and the Deep State",
@@ -4507,7 +4595,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Battle for Control of the Arctic Circle",
@@ -4529,7 +4617,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Philosophy Cafe: To name a Thought is to change it: the Paradox of Language",
@@ -4551,7 +4639,7 @@
   "tag": "",
   "postcode": "WC1R",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Speaking Through Othello: Black Performance and the Training of Feeling",
@@ -4573,7 +4661,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Edward Lloyd",
@@ -4595,7 +4683,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/08/Edward-Lloyd-c-Dik-Ng-WORDPRESS-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How the 1973 Oil Crisis Changed the World",
@@ -4617,7 +4705,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Why Pubs Matter",
@@ -4639,7 +4727,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Why-Pubs-Matter-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Rutger Bregman Meets John Studzinski: You Can Change the World",
@@ -4661,7 +4749,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Life, Death and Bubbles: The Story of Earth\u2019s Nitrogen",
@@ -4683,7 +4771,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
@@ -4705,7 +4793,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Art Futures: Platforms for Dissent with Tania Bruguera and Pankaj Mishra",
@@ -4727,7 +4815,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Haunted Landscape: Magic, Fairies and Old Gods",
@@ -4749,7 +4837,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Haunted-Landscape-Magic-Fairies-and-Old-Gods-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The 90s: Art and Fashion",
@@ -4771,7 +4859,7 @@
   "tag": "",
   "postcode": "SW1P",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Brian Blessed\u2019s 90th Birthday Bash",
@@ -4793,7 +4881,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How to Be More Productive, Get Better Sleep, and Reclaim Your Focus",
@@ -4815,7 +4903,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Fashion Life Drawing with Feben",
@@ -4837,7 +4925,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Story of Europe, the World\u2019s Oldest and Newest Continent",
@@ -4859,7 +4947,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Paul Mason: The History and Future of Global Communism",
@@ -4881,7 +4969,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "George Harrison: The Third Eye",
@@ -4903,7 +4991,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The Opposite of Happiness: How Bad Feelings Make and Break Us",
@@ -4925,7 +5013,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Meetup #18",
@@ -4947,7 +5035,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Made By the SAS: Tom Petch, Bear Grylls, Louis Rudd",
@@ -4969,7 +5057,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Renoir and Love at the National Gallery (London)",
@@ -4991,7 +5079,7 @@
   "tag": "",
   "postcode": "WC2N",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "AI and Online Disinformation",
@@ -5013,7 +5101,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/AI-and-Online-Disinformation-600x600.jpeg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Ruth Rogers & Martin Cousin",
@@ -5035,7 +5123,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/08/Untitled-design-5-600x600.png",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "The New Science of Ancient Wisdom",
@@ -5057,7 +5145,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How to Exploit the Madness of Markets",
@@ -5079,7 +5167,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Curator Tour of Es Devlin: Other Worlds",
@@ -5101,7 +5189,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Immuno-cautious Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
@@ -5123,7 +5211,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Makers Market",
@@ -5145,7 +5233,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "It Just Works: The Nine Simple Rules of Apple\u2019s Success",
@@ -5167,7 +5255,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "An Evening with Es Devlin",
@@ -5189,7 +5277,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "How to Untangle Our Biggest Problems",
@@ -5211,7 +5299,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "V&A East Schools and Colleges: In-person workshops (Autumn 2026)",
@@ -5233,7 +5321,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Winter Carols by Candlelight",
@@ -5255,7 +5343,7 @@
   "tag": "",
   "postcode": "WC1R 4RL",
   "image": "https://www.conwayhall.org.uk/wp-content/uploads/2026/07/Winter-Carols-Wordpress-1-600x600.jpg",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Neanderthals Among Us: The Making of a Prehistoric Human",
@@ -5277,7 +5365,7 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  },
  {
   "title": "Play Saturdays (Sept-Dec 2026)",
@@ -5299,6 +5387,6 @@
   "tag": "",
   "postcode": "",
   "image": "",
-  "_run": "2026-10-11"
+  "_run": "2026-10-12"
  }
 ]
