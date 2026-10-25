@@ -1,9 +1,9 @@
 {
- "run": "2026-10-24",
+ "run": "2026-10-25",
  "sources": {
   "Barbican": 15,
   "Design Museum": 15,
-  "Wellcome Collection": 16,
+  "Wellcome Collection": 15,
   "Photographers' Gallery": 4,
   "Somerset House": 1,
   "V&A": 15,
@@ -13,9 +13,9 @@
   "Conway Hall": 20,
   "Gresham College": 20,
   "Bishopsgate Institute": 21,
-  "How To Academy": 54,
+  "How To Academy": 53,
   "Luma": 20,
-  "Meetup": 84,
+  "Meetup": 87,
   "Eventbrite": 0
  }
 }
