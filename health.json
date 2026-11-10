@@ -1,5 +1,5 @@
 {
- "run": "2026-11-09",
+ "run": "2026-11-10",
  "sources": {
   "Barbican": 15,
   "Design Museum": 12,
@@ -13,9 +13,9 @@
   "Conway Hall": 13,
   "Gresham College": 20,
   "Bishopsgate Institute": 21,
-  "How To Academy": 46,
+  "How To Academy": 44,
   "Luma": 20,
-  "Meetup": 90,
+  "Meetup": 93,
   "Eventbrite": 0
  }
 }
